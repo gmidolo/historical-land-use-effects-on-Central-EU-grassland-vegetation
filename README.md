@@ -1,5 +1,3 @@
-# Data Repository for Manuscript Publication
-
 This repository contains data and code associated with the manuscript:
 
 > Nineteenth-century land use shapes the current occurrence of some plant species, but weakly affects the richness and total composition of Central European grasslands
