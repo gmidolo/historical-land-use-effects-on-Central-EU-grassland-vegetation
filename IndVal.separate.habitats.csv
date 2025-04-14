@@ -1,0 +1,2953 @@
+"Habitat","Species","Historical land use","IndVal.g","p.value"
+"Dry grasslands","Abies alba","Settlement",0.1319,0.033
+"Dry grasslands","Acer campestre","Permanent crop",0.1582,0.051
+"Dry grasslands","Acer negundo","Forest",0.068,0.142
+"Dry grasslands","Acer platanoides","Settlement",0.1241,0.04
+"Dry grasslands","Acer pseudoplatanus","Settlement",0.0942,0.136
+"Dry grasslands","Achillea millefolium aggr.","Settlement",0.3997,0.013
+"Dry grasslands","Achillea nobilis","Forest",0.1548,0.018
+"Dry grasslands","Achillea pannonica","Permanent crop",0.2005,0.631
+"Dry grasslands","Achillea setacea","Arable land",0.1723,0.047
+"Dry grasslands","Achillea styriaca","Grassland",0.0233,1
+"Dry grasslands","Aconitum anthora","Forest",0.1175,0.053
+"Dry grasslands","Aconitum lycoctonum","Grassland",0.0233,1
+"Dry grasslands","Adonis aestivalis","Grassland",0.0329,0.865
+"Dry grasslands","Adonis vernalis","Forest",0.1274,0.542
+"Dry grasslands","Aegonychon purpurocaeruleum","Forest",0.1656,0.016
+"Dry grasslands","Aegopodium podagraria","Forest",0.0927,0.073
+"Dry grasslands","Aesculus hippocastanum","Arable land",0.0317,0.771
+"Dry grasslands","Agrimonia eupatoria","Permanent crop",0.3008,0.006
+"Dry grasslands","Agropyron cristatum","Permanent crop",0.0343,0.489
+"Dry grasslands","Agrostis capillaris","Forest",0.1637,0.234
+"Dry grasslands","Agrostis gigantea","Settlement",0.1269,0.042
+"Dry grasslands","Agrostis stolonifera","Forest",0.0995,0.136
+"Dry grasslands","Agrostis vinealis","Grassland",0.1491,0.454
+"Dry grasslands","Ailanthus altissima","Grassland",0.0438,0.574
+"Dry grasslands","Aira praecox","Forest",0.0549,0.109
+"Dry grasslands","Ajuga chamaepitys","Arable land",0.0731,0.098
+"Dry grasslands","Ajuga genevensis","Settlement",0.1461,0.068
+"Dry grasslands","Ajuga reptans","Grassland",0.1223,0.138
+"Dry grasslands","Alcea biennis","Grassland",0.0329,0.889
+"Dry grasslands","Alchemilla glaucescens","Arable land",0.0926,0.118
+"Dry grasslands","Alchemilla monticola","Forest",0.0388,0.343
+"Dry grasslands","Alchemilla vulgaris aggr.","Arable land",0.0428,0.758
+"Dry grasslands","Alchemilla xanthochlora","Grassland",0.0233,1
+"Dry grasslands","Alliaria petiolata","Forest",0.1095,0.043
+"Dry grasslands","Allium carinatum","Grassland",0.0557,0.509
+"Dry grasslands","Allium flavum","Settlement",0.2235,0.151
+"Dry grasslands","Allium lusitanicum","Settlement",0.1485,0.461
+"Dry grasslands","Allium oleraceum","Forest",0.1305,0.116
+"Dry grasslands","Allium rotundum","Grassland",0.0489,0.411
+"Dry grasslands","Allium scorodoprasum","Grassland",0.0621,0.747
+"Dry grasslands","Allium sphaerocephalon","Arable land",0.1019,0.095
+"Dry grasslands","Allium vineale","Arable land",0.0666,0.403
+"Dry grasslands","Alnus glutinosa","Arable land",0.0379,0.485
+"Dry grasslands","Alopecurus pratensis","Grassland",0.0587,0.806
+"Dry grasslands","Alyssum alyssoides","Settlement",0.2352,0.029
+"Dry grasslands","Alyssum montanum aggr.","Grassland",0.2592,0.007
+"Dry grasslands","Amaranthus hybridus aggr.","Arable land",0.0379,0.467
+"Dry grasslands","Amaranthus retroflexus","Arable land",0.0536,0.113
+"Dry grasslands","Anacamptis morio","Permanent crop",0.063,0.253
+"Dry grasslands","Anacamptis pyramidalis","Grassland",0.0508,0.403
+"Dry grasslands","Anagallis arvensis","Forest",0.0436,0.69
+"Dry grasslands","Anagallis foemina","Permanent crop",0.041,0.356
+"Dry grasslands","Anchusa officinalis","Forest",0.0574,0.166
+"Dry grasslands","Androsace elongata","Settlement",0.1413,0.008
+"Dry grasslands","Anemone nemorosa","Permanent crop",0.0551,0.151
+"Dry grasslands","Anemone ranunculoides","Grassland",0.0403,0.506
+"Dry grasslands","Anemone sylvestris","Permanent crop",0.1221,0.166
+"Dry grasslands","Angelica sylvestris","Grassland",0.0308,0.813
+"Dry grasslands","Anisantha sterilis","Settlement",0.2698,0.001
+"Dry grasslands","Anisantha tectorum","Settlement",0.1714,0.034
+"Dry grasslands","Antennaria dioica","Grassland",0.0396,0.712
+"Dry grasslands","Anthemis arvensis","Arable land",0.0277,1
+"Dry grasslands","Anthemis ruthenica","Arable land",0.0636,0.189
+"Dry grasslands","Anthericum ramosum","Permanent crop",0.2455,0.139
+"Dry grasslands","Anthoxanthum odoratum aggr.","Grassland",0.2017,0.11
+"Dry grasslands","Anthriscus cerefolium","Forest",0.0759,0.142
+"Dry grasslands","Anthriscus sylvestris","Permanent crop",0.0459,0.633
+"Dry grasslands","Anthyllis vulneraria","Permanent crop",0.2441,0.091
+"Dry grasslands","Apera interrupta","Grassland",0.0233,1
+"Dry grasslands","Apera spica-venti","Arable land",0.0557,0.197
+"Dry grasslands","Aquilegia vulgaris","Grassland",0.061,0.296
+"Dry grasslands","Arabidopsis arenosa","Settlement",0.1157,0.076
+"Dry grasslands","Arabidopsis petraea","Forest",0.1025,0.125
+"Dry grasslands","Arabidopsis thaliana","Settlement",0.1603,0.129
+"Dry grasslands","Arabis auriculata","Forest",0.1481,0.101
+"Dry grasslands","Arabis hirsuta aggr.","Forest",0.1997,0.091
+"Dry grasslands","Arenaria grandiflora","Grassland",0.0403,0.432
+"Dry grasslands","Arenaria leptoclados","Forest",0.176,0.005
+"Dry grasslands","Arenaria serpyllifolia","Settlement",0.4396,0.001
+"Dry grasslands","Argentina anserina","Forest",0.0583,0.107
+"Dry grasslands","Aristolochia clematitis","Arable land",0.0273,0.982
+"Dry grasslands","Armeria maritima","Arable land",0.1514,0.114
+"Dry grasslands","Arnica montana","Grassland",0.0605,0.24
+"Dry grasslands","Arnoseris minima","Arable land",0.0379,0.477
+"Dry grasslands","Arrhenatherum elatius","Permanent crop",0.3217,0.176
+"Dry grasslands","Artemisia absinthium","Forest",0.1506,0.047
+"Dry grasslands","Artemisia austriaca","Arable land",0.0283,1
+"Dry grasslands","Artemisia campestris","Settlement",0.3445,0.003
+"Dry grasslands","Artemisia pontica","Permanent crop",0.09,0.103
+"Dry grasslands","Artemisia santonicum","Arable land",0.0379,0.481
+"Dry grasslands","Artemisia vulgaris","Settlement",0.3234,0.001
+"Dry grasslands","Asarum europaeum","Forest",0.0784,0.129
+"Dry grasslands","Asclepias syriaca","Forest",0.0431,0.27
+"Dry grasslands","Asparagus officinalis","Permanent crop",0.1254,0.159
+"Dry grasslands","Asperula cynanchica","Arable land",0.353,0.057
+"Dry grasslands","Asperula tinctoria","Permanent crop",0.1374,0.121
+"Dry grasslands","Asplenium adiantum-nigrum subsp. serpentini","Grassland",0.0741,0.228
+"Dry grasslands","Asplenium ruta-muraria","Settlement",0.2181,0.005
+"Dry grasslands","Asplenium septentrionale","Forest",0.1218,0.075
+"Dry grasslands","Asplenium trichomanes","Settlement",0.106,0.173
+"Dry grasslands","Aster amellus","Permanent crop",0.3719,0.002
+"Dry grasslands","Astragalus asper","Permanent crop",0.0698,0.062
+"Dry grasslands","Astragalus austriacus","Arable land",0.1702,0.18
+"Dry grasslands","Astragalus cicer","Permanent crop",0.2919,0.001
+"Dry grasslands","Astragalus danicus","Grassland",0.1337,0.205
+"Dry grasslands","Astragalus exscapus","Arable land",0.1212,0.079
+"Dry grasslands","Astragalus glycyphyllos","Permanent crop",0.146,0.143
+"Dry grasslands","Astragalus onobrychis","Permanent crop",0.21,0.117
+"Dry grasslands","Astrantia major","Grassland",0.0607,0.32
+"Dry grasslands","Atriplex oblongifolia","Arable land",0.0379,0.484
+"Dry grasslands","Atriplex patula","Arable land",0.0324,0.808
+"Dry grasslands","Atriplex sagittata","Arable land",0.026,1
+"Dry grasslands","Atriplex tatarica","Arable land",0.0478,0.179
+"Dry grasslands","Aurinia saxatilis","Settlement",0.2059,0.002
+"Dry grasslands","Avenella flexuosa","Forest",0.1128,0.155
+"Dry grasslands","Avenula pubescens","Permanent crop",0.2756,0.02
+"Dry grasslands","Ballota nigra","Permanent crop",0.0701,0.254
+"Dry grasslands","Barbarea vulgaris","Permanent crop",0.0519,0.129
+"Dry grasslands","Bassia laniflora","Arable land",0.0365,0.601
+"Dry grasslands","Bassia prostrata","Permanent crop",0.0644,0.109
+"Dry grasslands","Bellis perennis","Settlement",0.1044,0.119
+"Dry grasslands","Berberis vulgaris","Forest",0.0627,0.302
+"Dry grasslands","Berteroa incana","Settlement",0.4165,0.001
+"Dry grasslands","Betula pendula","Forest",0.0892,0.341
+"Dry grasslands","Biscutella laevigata","Forest",0.0758,0.398
+"Dry grasslands","Bistorta officinalis","Forest",0.0585,0.3
+"Dry grasslands","Bothriochloa ischaemum","Grassland",0.1934,0.372
+"Dry grasslands","Botrychium lunaria","Grassland",0.0347,0.906
+"Dry grasslands","Botrychium matricariifolium","Arable land",0.0379,0.503
+"Dry grasslands","Brachypodium pinnatum","Arable land",0.3445,0.08
+"Dry grasslands","Brachypodium rupestre","Arable land",0.0379,0.479
+"Dry grasslands","Brachypodium sylvaticum","Permanent crop",0.054,0.487
+"Dry grasslands","Briza media","Arable land",0.2677,0.073
+"Dry grasslands","Bromopsis erecta","Permanent crop",0.3522,0.008
+"Dry grasslands","Bromopsis inermis","Permanent crop",0.253,0.014
+"Dry grasslands","Bromopsis pannonica","Forest",0.0431,0.263
+"Dry grasslands","Bromopsis ramosa aggr.","Grassland",0.0233,1
+"Dry grasslands","Bromus commutatus","Permanent crop",0.072,0.088
+"Dry grasslands","Bromus hordeaceus","Grassland",0.0941,0.523
+"Dry grasslands","Bromus japonicus","Permanent crop",0.0775,0.492
+"Dry grasslands","Bromus racemosus","Grassland",0.0233,1
+"Dry grasslands","Bromus squarrosus","Forest",0.1208,0.027
+"Dry grasslands","Buglossoides arvensis aggr.","Forest",0.1576,0.022
+"Dry grasslands","Bunias orientalis","Arable land",0.0379,0.458
+"Dry grasslands","Buphthalmum salicifolium","Permanent crop",0.3028,0.001
+"Dry grasslands","Bupleurum affine","Permanent crop",0.0444,0.231
+"Dry grasslands","Bupleurum falcatum","Permanent crop",0.367,0.004
+"Dry grasslands","Calamagrostis arundinacea","Grassland",0.1124,0.074
+"Dry grasslands","Calamagrostis epigejos","Permanent crop",0.2128,0.123
+"Dry grasslands","Calamagrostis villosa","Forest",0.0475,0.452
+"Dry grasslands","Calluna vulgaris","Forest",0.1038,0.228
+"Dry grasslands","Calystegia sepium","Forest",0.0431,0.257
+"Dry grasslands","Camelina microcarpa","Settlement",0.3117,0.001
+"Dry grasslands","Camelina sativa","Grassland",0.0329,0.863
+"Dry grasslands","Campanula bononiensis","Permanent crop",0.1217,0.16
+"Dry grasslands","Campanula cervicaria","Settlement",0.1795,0.002
+"Dry grasslands","Campanula glomerata","Permanent crop",0.2836,0.017
+"Dry grasslands","Campanula patula aggr.","Settlement",0.1511,0.11
+"Dry grasslands","Campanula persicifolia","Forest",0.1221,0.435
+"Dry grasslands","Campanula rapunculoides","Permanent crop",0.1206,0.241
+"Dry grasslands","Campanula rotundifolia","Arable land",0.2736,0.01
+"Dry grasslands","Campanula sibirica","Grassland",0.1562,0.219
+"Dry grasslands","Campanula trachelium","Permanent crop",0.0476,0.41
+"Dry grasslands","Capsella bursa-pastoris","Settlement",0.103,0.158
+"Dry grasslands","Cardamine matthioli","Grassland",0.0329,0.765
+"Dry grasslands","Cardamine pratensis","Permanent crop",0.0728,0.044
+"Dry grasslands","Carduus acanthoides","Arable land",0.1232,0.206
+"Dry grasslands","Carduus crispus","Arable land",0.0311,0.969
+"Dry grasslands","Carduus defloratus aggr.","Grassland",0.0233,1
+"Dry grasslands","Carduus nutans","Forest",0.0875,0.425
+"Dry grasslands","Carex acuta","Arable land",0.0352,0.436
+"Dry grasslands","Carex acutiformis","Grassland",0.0233,1
+"Dry grasslands","Carex alba","Permanent crop",0.0657,0.131
+"Dry grasslands","Carex canescens","Grassland",0.0329,0.877
+"Dry grasslands","Carex caryophyllea","Forest",0.2311,0.171
+"Dry grasslands","Carex digitata","Forest",0.1157,0.06
+"Dry grasslands","Carex distans","Arable land",0.0536,0.093
+"Dry grasslands","Carex elata","Grassland",0.0233,1
+"Dry grasslands","Carex ericetorum","Forest",0.0945,0.103
+"Dry grasslands","Carex filiformis","Arable land",0.1369,0.143
+"Dry grasslands","Carex flacca","Permanent crop",0.2134,0.039
+"Dry grasslands","Carex flava","Permanent crop",0.0519,0.124
+"Dry grasslands","Carex fritschii","Forest",0.061,0.071
+"Dry grasslands","Carex hirta","Forest",0.1152,0.236
+"Dry grasslands","Carex humilis","Grassland",0.2804,0.144
+"Dry grasslands","Carex leporina","Forest",0.0662,0.311
+"Dry grasslands","Carex liparocarpos","Grassland",0.0874,0.195
+"Dry grasslands","Carex michelii","Forest",0.2119,0.046
+"Dry grasslands","Carex montana","Grassland",0.1487,0.386
+"Dry grasslands","Carex muricata","Forest",0.0778,0.371
+"Dry grasslands","Carex nigra","Forest",0.0459,0.515
+"Dry grasslands","Carex ornithopoda","Permanent crop",0.1195,0.049
+"Dry grasslands","Carex pallescens","Arable land",0.0517,0.561
+"Dry grasslands","Carex panicea","Grassland",0.0595,0.44
+"Dry grasslands","Carex pilosa","Grassland",0.0233,1
+"Dry grasslands","Carex pilulifera","Forest",0.1026,0.09
+"Dry grasslands","Carex praecox","Forest",0.1276,0.372
+"Dry grasslands","Carex rostrata","Forest",0.0406,0.342
+"Dry grasslands","Carex spicata","Arable land",0.0365,0.93
+"Dry grasslands","Carex stenophylla","Forest",0.0453,0.821
+"Dry grasslands","Carex supina","Grassland",0.1558,0.311
+"Dry grasslands","Carex sylvatica","Forest",0.0431,0.274
+"Dry grasslands","Carlina acaulis","Arable land",0.3179,0.004
+"Dry grasslands","Carlina vulgaris aggr.","Permanent crop",0.2734,0.012
+"Dry grasslands","Carpinus betulus","Forest",0.1571,0.06
+"Dry grasslands","Carum carvi","Settlement",0.1232,0.019
+"Dry grasslands","Castanea sativa","Permanent crop",0.0519,0.121
+"Dry grasslands","Caucalis platycarpos","Arable land",0.0499,0.539
+"Dry grasslands","Centaurea jacea","Permanent crop",0.2392,0.065
+"Dry grasslands","Centaurea oxylepis","Forest",0.0431,0.28
+"Dry grasslands","Centaurea phrygia aggr.","Permanent crop",0.0364,0.851
+"Dry grasslands","Centaurea scabiosa","Permanent crop",0.4984,0.001
+"Dry grasslands","Centaurea stoebe","Grassland",0.2734,0.474
+"Dry grasslands","Centaurea thuillieri","Arable land",0.0775,0.304
+"Dry grasslands","Centaurium erythraea","Forest",0.0519,0.884
+"Dry grasslands","Centaurium pulchellum","Grassland",0.0233,1
+"Dry grasslands","Cephalanthera damasonium","Forest",0.0495,0.193
+"Dry grasslands","Cerastium arvense","Settlement",0.2172,0.034
+"Dry grasslands","Cerastium brachypetalum","Permanent crop",0.0619,0.845
+"Dry grasslands","Cerastium fontanum subsp. vulgare","Settlement",0.2724,0.002
+"Dry grasslands","Cerastium glomeratum","Arable land",0.0343,0.656
+"Dry grasslands","Cerastium pumilum","Settlement",0.2159,0.06
+"Dry grasslands","Cerastium semidecandrum","Forest",0.1794,0.043
+"Dry grasslands","Cerastium tomentosum","Arable land",0.0379,0.472
+"Dry grasslands","Cerinthe minor","Arable land",0.072,0.346
+"Dry grasslands","Chaerophyllum aromaticum","Permanent crop",0.0245,0.923
+"Dry grasslands","Chaerophyllum bulbosum","Grassland",0.0233,1
+"Dry grasslands","Chaerophyllum hirsutum","Grassland",0.0233,1
+"Dry grasslands","Chelidonium majus","Settlement",0.1974,0.002
+"Dry grasslands","Chenopodium album aggr.","Arable land",0.0747,0.514
+"Dry grasslands","Chenopodium opulifolium","Arable land",0.0379,0.463
+"Dry grasslands","Chondrilla juncea","Grassland",0.1042,0.426
+"Dry grasslands","Chrysopogon gryllus","Forest",0.1367,0.031
+"Dry grasslands","Cichorium intybus","Permanent crop",0.0713,0.343
+"Dry grasslands","Cirsium acaulon","Arable land",0.0304,0.936
+"Dry grasslands","Cirsium arvense","Grassland",0.0839,0.744
+"Dry grasslands","Cirsium canum","Grassland",0.0442,0.739
+"Dry grasslands","Cirsium palustre","Grassland",0.0329,0.721
+"Dry grasslands","Cirsium pannonicum","Permanent crop",0.1687,0.157
+"Dry grasslands","Cirsium rivulare","Arable land",0.0291,0.975
+"Dry grasslands","Cirsium vulgare","Arable land",0.101,0.105
+"Dry grasslands","Cleistogenes serotina","Grassland",0.0504,0.425
+"Dry grasslands","Clematis integrifolia","Arable land",0.0379,0.444
+"Dry grasslands","Clematis recta","Grassland",0.0831,0.497
+"Dry grasslands","Clematis vitalba","Permanent crop",0.2111,0.009
+"Dry grasslands","Clinopodium acinos","Grassland",0.214,0.297
+"Dry grasslands","Clinopodium vulgare","Forest",0.1913,0.033
+"Dry grasslands","Colchicum autumnale","Grassland",0.1543,0.184
+"Dry grasslands","Colutea arborescens","Permanent crop",0.0519,0.114
+"Dry grasslands","Consolida regalis","Forest",0.1161,0.047
+"Dry grasslands","Convallaria majalis","Forest",0.0709,0.276
+"Dry grasslands","Convolvulus arvensis","Settlement",0.2524,0.007
+"Dry grasslands","Cornus mas","Forest",0.1176,0.056
+"Dry grasslands","Cornus sanguinea","Permanent crop",0.2839,0.001
+"Dry grasslands","Coronilla coronata","Permanent crop",0.0734,0.047
+"Dry grasslands","Corydalis cava","Forest",0.0431,0.254
+"Dry grasslands","Corylus avellana","Settlement",0.1717,0.01
+"Dry grasslands","Corynephorus canescens","Forest",0.1237,0.245
+"Dry grasslands","Cota austriaca","Grassland",0.0329,0.804
+"Dry grasslands","Cota tinctoria","Forest",0.1794,0.006
+"Dry grasslands","Cotinus coggygria","Settlement",0.1414,0.011
+"Dry grasslands","Cotoneaster integerrimus","Forest",0.1208,0.029
+"Dry grasslands","Cotoneaster tomentosus","Permanent crop",0.0496,0.231
+"Dry grasslands","Crambe tataria","Arable land",0.1455,0.074
+"Dry grasslands","Crataegus laevigata","Forest",0.2262,0.002
+"Dry grasslands","Crataegus macrocarpa","Forest",0.0862,0.058
+"Dry grasslands","Crataegus monogyna","Permanent crop",0.2652,0.018
+"Dry grasslands","Crataegus rhipidophylla","Arable land",0.0379,0.45
+"Dry grasslands","Crepis biennis","Permanent crop",0.1608,0.011
+"Dry grasslands","Crepis capillaris","Forest",0.0721,0.051
+"Dry grasslands","Crepis foetida aggr.","Arable land",0.0417,0.457
+"Dry grasslands","Crepis mollis","Grassland",0.0465,0.293
+"Dry grasslands","Crepis pannonica","Arable land",0.0462,0.32
+"Dry grasslands","Crepis praemorsa aggr.","Grassland",0.1,0.467
+"Dry grasslands","Crepis setosa","Arable land",0.0379,0.484
+"Dry grasslands","Crepis tectorum","Arable land",0.0364,0.592
+"Dry grasslands","Cruciata glabra","Grassland",0.196,0.02
+"Dry grasslands","Cruciata laevipes","Permanent crop",0.0884,0.2
+"Dry grasslands","Cruciata pedemontana","Forest",0.1259,0.049
+"Dry grasslands","Cuscuta approximata","Grassland",0.0233,1
+"Dry grasslands","Cuscuta epithymum","Permanent crop",0.1723,0.039
+"Dry grasslands","Cyanus mollis","Permanent crop",0.0519,0.119
+"Dry grasslands","Cyanus montanus","Grassland",0.0233,1
+"Dry grasslands","Cyanus segetum","Arable land",0.0279,0.926
+"Dry grasslands","Cyanus triumfettii aggr.","Forest",0.1436,0.089
+"Dry grasslands","Cymbalaria muralis","Settlement",0.1414,0.016
+"Dry grasslands","Cynodon dactylon","Grassland",0.1186,0.14
+"Dry grasslands","Cynoglossum officinale","Forest",0.0377,0.892
+"Dry grasslands","Cynosurus cristatus","Grassland",0.0537,0.676
+"Dry grasslands","Cypripedium calceolus","Permanent crop",0.0478,0.169
+"Dry grasslands","Cystopteris fragilis","Settlement",0.1407,0.006
+"Dry grasslands","Cytisus albus","Arable land",0.0659,0.204
+"Dry grasslands","Cytisus austriacus","Arable land",0.166,0.072
+"Dry grasslands","Cytisus hirsutus","Permanent crop",0.1514,0.082
+"Dry grasslands","Cytisus procumbens","Arable land",0.1413,0.182
+"Dry grasslands","Cytisus ratisbonensis","Arable land",0.2025,0.103
+"Dry grasslands","Cytisus scoparius","Forest",0.0501,0.524
+"Dry grasslands","Dactylis glomerata","Permanent crop",0.3976,0.002
+"Dry grasslands","Dactylorhiza incarnata","Forest",0.0431,0.291
+"Dry grasslands","Dactylorhiza majalis","Arable land",0.0301,0.973
+"Dry grasslands","Dactylorhiza sambucina","Forest",0.0431,0.27
+"Dry grasslands","Dactylorhiza viridis","Arable land",0.0379,0.478
+"Dry grasslands","Danthonia alpina","Grassland",0.0525,0.36
+"Dry grasslands","Danthonia decumbens","Grassland",0.0834,0.645
+"Dry grasslands","Daphne cneorum","Grassland",0.0416,0.652
+"Dry grasslands","Datura stramonium","Arable land",0.0379,0.476
+"Dry grasslands","Daucus carota","Arable land",0.2016,0.075
+"Dry grasslands","Deschampsia cespitosa aggr.","Forest",0.0994,0.117
+"Dry grasslands","Descurainia sophia","Settlement",0.1799,0.005
+"Dry grasslands","Dianthus armeria","Grassland",0.0329,0.858
+"Dry grasslands","Dianthus carthusianorum","Permanent crop",0.1429,0.814
+"Dry grasslands","Dianthus carthusianorum aggr.","Settlement",0.2526,0.976
+"Dry grasslands","Dianthus collinus","Permanent crop",0.0734,0.041
+"Dry grasslands","Dianthus deltoides","Settlement",0.1167,0.15
+"Dry grasslands","Dianthus serotinus","Forest",0.0472,0.682
+"Dry grasslands","Dianthus superbus","Arable land",0.0344,0.587
+"Dry grasslands","Dichoropetalum carvifolia","Permanent crop",0.0519,0.127
+"Dry grasslands","Dictamnus albus","Permanent crop",0.1649,0.062
+"Dry grasslands","Digitalis grandiflora","Forest",0.154,0.014
+"Dry grasslands","Digitaria ischaemum","Grassland",0.0616,0.404
+"Dry grasslands","Digitaria sanguinalis","Forest",0.0515,0.332
+"Dry grasslands","Diplotaxis muralis","Grassland",0.0327,0.835
+"Dry grasslands","Diplotaxis tenuifolia","Grassland",0.0678,0.391
+"Dry grasslands","Dipsacus fullonum","Arable land",0.0866,0.144
+"Dry grasslands","Dorycnium pentaphyllum","Permanent crop",0.3444,0.017
+"Dry grasslands","Draba aizoides aggr.","Grassland",0.057,0.248
+"Dry grasslands","Draba nemorosa","Grassland",0.0325,0.782
+"Dry grasslands","Draba verna aggr.","Arable land",0.1585,0.431
+"Dry grasslands","Drabella muralis","Permanent crop",0.1558,0.009
+"Dry grasslands","Drymocallis rupestris","Settlement",0.1414,0.014
+"Dry grasslands","Dryopteris filix-mas","Forest",0.0747,0.064
+"Dry grasslands","Echinochloa crus-galli","Settlement",0.1373,0.013
+"Dry grasslands","Echinops ritro","Grassland",0.0329,0.778
+"Dry grasslands","Echinops sphaerocephalus","Forest",0.0498,0.573
+"Dry grasslands","Echium vulgare","Settlement",0.3144,0.01
+"Dry grasslands","Eleocharis uniglumis","Forest",0.0409,0.315
+"Dry grasslands","Elymus caninus","Arable land",0.0379,0.468
+"Dry grasslands","Elytrigia intermedia","Settlement",0.2533,0.111
+"Dry grasslands","Elytrigia repens aggr.","Arable land",0.1848,0.126
+"Dry grasslands","Epilobium angustifolium","Forest",0.0317,0.827
+"Dry grasslands","Epilobium ciliatum","Grassland",0.0233,1
+"Dry grasslands","Epilobium dodonaei","Grassland",0.0233,1
+"Dry grasslands","Epilobium tetragonum","Arable land",0.0309,0.97
+"Dry grasslands","Epipactis atrorubens","Arable land",0.0736,0.132
+"Dry grasslands","Epipactis helleborine","Arable land",0.0492,0.195
+"Dry grasslands","Epipactis palustris","Permanent crop",0.0519,0.132
+"Dry grasslands","Equisetum arvense","Arable land",0.0693,0.564
+"Dry grasslands","Equisetum fluviatile","Grassland",0.0233,1
+"Dry grasslands","Equisetum ramosissimum","Arable land",0.039,0.507
+"Dry grasslands","Equisetum variegatum","Forest",0.1141,0.039
+"Dry grasslands","Erigeron acris","Arable land",0.1279,0.121
+"Dry grasslands","Erigeron annuus","Settlement",0.1113,0.1
+"Dry grasslands","Erigeron canadensis","Arable land",0.1024,0.373
+"Dry grasslands","Eriophorum angustifolium","Grassland",0.0329,0.771
+"Dry grasslands","Erodium cicutarium","Settlement",0.1249,0.126
+"Dry grasslands","Eryngium campestre","Permanent crop",0.3032,0.199
+"Dry grasslands","Erysimum cheiranthoides","Forest",0.0288,0.887
+"Dry grasslands","Erysimum diffusum","Forest",0.1066,0.999
+"Dry grasslands","Erysimum marschallianum","Permanent crop",0.0584,0.522
+"Dry grasslands","Erysimum odoratum","Forest",0.1491,0.077
+"Dry grasslands","Erysimum repandum","Arable land",0.0563,0.267
+"Dry grasslands","Erysimum sylvestre","Permanent crop",0.0519,0.125
+"Dry grasslands","Euonymus europaeus","Forest",0.0644,0.824
+"Dry grasslands","Euonymus verrucosus","Forest",0.0931,0.085
+"Dry grasslands","Eupatorium cannabinum","Permanent crop",0.0281,1
+"Dry grasslands","Euphorbia amygdaloides","Grassland",0.0329,0.87
+"Dry grasslands","Euphorbia angulata","Grassland",0.0233,1
+"Dry grasslands","Euphorbia cyparissias","Forest",0.3836,0.047
+"Dry grasslands","Euphorbia dulcis","Permanent crop",0.0352,0.742
+"Dry grasslands","Euphorbia epithymoides","Forest",0.2297,0.003
+"Dry grasslands","Euphorbia esula","Permanent crop",0.2218,0.07
+"Dry grasslands","Euphorbia exigua","Grassland",0.0329,0.711
+"Dry grasslands","Euphorbia helioscopia","Arable land",0.0379,0.484
+"Dry grasslands","Euphorbia illirica","Forest",0.0312,0.812
+"Dry grasslands","Euphorbia salicifolia","Permanent crop",0.0705,0.071
+"Dry grasslands","Euphorbia seguieriana","Grassland",0.1971,0.024
+"Dry grasslands","Euphorbia stricta","Permanent crop",0.0734,0.031
+"Dry grasslands","Euphorbia verrucosa","Grassland",0.0661,0.285
+"Dry grasslands","Euphrasia pectinata","Arable land",0.1028,0.076
+"Dry grasslands","Euphrasia rostkoviana","Arable land",0.1034,0.106
+"Dry grasslands","Euphrasia stricta","Grassland",0.1312,0.147
+"Dry grasslands","Fagus sylvatica","Forest",0.0552,0.169
+"Dry grasslands","Falcaria vulgaris","Permanent crop",0.2551,0.033
+"Dry grasslands","Fallopia convolvulus","Forest",0.1314,0.071
+"Dry grasslands","Fallopia dumetorum","Forest",0.0357,0.604
+"Dry grasslands","Festuca filiformis","Arable land",0.0809,0.262
+"Dry grasslands","Festuca heterophylla","Grassland",0.0361,0.697
+"Dry grasslands","Festuca ovina","Settlement",0.2422,0.04
+"Dry grasslands","Festuca pallens","Settlement",0.3042,0.011
+"Dry grasslands","Festuca psammophila","Forest",0.0835,0.41
+"Dry grasslands","Festuca rubra aggr.","Settlement",0.1829,0.146
+"Dry grasslands","Festuca stricta subsp. stricta","Forest",0.0862,0.058
+"Dry grasslands","Festuca stricta subsp. sulcata","Permanent crop",0.3763,0.125
+"Dry grasslands","Festuca stricta subsp. trachyphylla","Arable land",0.1003,0.11
+"Dry grasslands","Festuca vaginata","Grassland",0.05,0.399
+"Dry grasslands","Festuca valesiaca aggr.","Grassland",0.2937,0.116
+"Dry grasslands","Ficaria calthifolia","Grassland",0.0233,1
+"Dry grasslands","Ficaria verna","Settlement",0.1393,0.002
+"Dry grasslands","Filago arvensis","Forest",0.0638,0.293
+"Dry grasslands","Filago germanica","Grassland",0.0563,0.365
+"Dry grasslands","Filago minima","Forest",0.1075,0.153
+"Dry grasslands","Filipendula ulmaria","Grassland",0.0233,1
+"Dry grasslands","Filipendula vulgaris","Grassland",0.2666,0.035
+"Dry grasslands","Fourraea alpina","Forest",0.0747,0.044
+"Dry grasslands","Fragaria moschata","Forest",0.2637,0.002
+"Dry grasslands","Fragaria vesca","Settlement",0.2454,0.007
+"Dry grasslands","Fragaria viridis","Arable land",0.25,0.265
+"Dry grasslands","Frangula alnus","Forest",0.0464,0.428
+"Dry grasslands","Fraxinus excelsior","Forest",0.0975,0.589
+"Dry grasslands","Fumana procumbens","Grassland",0.1187,0.137
+"Dry grasslands","Fumaria officinalis","Grassland",0.0233,1
+"Dry grasslands","Fumaria schleicheri","Forest",0.0365,0.453
+"Dry grasslands","Fumaria vaillantii","Forest",0.0534,0.165
+"Dry grasslands","Gagea bohemica","Forest",0.1234,0.094
+"Dry grasslands","Gagea minima","Grassland",0.057,0.25
+"Dry grasslands","Gagea pratensis","Grassland",0.0233,1
+"Dry grasslands","Gagea pusilla","Grassland",0.0403,0.506
+"Dry grasslands","Gagea villosa","Forest",0.0431,0.279
+"Dry grasslands","Galatella linosyris","Permanent crop",0.3725,0.002
+"Dry grasslands","Galega officinalis","Grassland",0.0233,1
+"Dry grasslands","Galeopsis angustifolia","Forest",0.0746,0.244
+"Dry grasslands","Galeopsis ladanum","Forest",0.0595,0.1
+"Dry grasslands","Galeopsis tetrahit aggr.","Arable land",0.0293,0.893
+"Dry grasslands","Galium album","Forest",0.1607,0.062
+"Dry grasslands","Galium aparine","Settlement",0.2912,0.002
+"Dry grasslands","Galium austriacum","Forest",0.0616,0.392
+"Dry grasslands","Galium boreale","Grassland",0.1421,0.098
+"Dry grasslands","Galium glaucum","Settlement",0.3001,0.015
+"Dry grasslands","Galium lucidum","Permanent crop",0.0485,0.187
+"Dry grasslands","Galium mollugo aggr.","Forest",0.2637,0.038
+"Dry grasslands","Galium odoratum","Grassland",0.0233,1
+"Dry grasslands","Galium pumilum","Grassland",0.0847,0.981
+"Dry grasslands","Galium rubioides","Forest",0.061,0.067
+"Dry grasslands","Galium saxatile","Forest",0.0868,0.08
+"Dry grasslands","Galium spurium","Permanent crop",0.0598,0.159
+"Dry grasslands","Galium sylvaticum","Forest",0.0747,0.055
+"Dry grasslands","Galium uliginosum","Forest",0.0306,0.841
+"Dry grasslands","Galium valdepilosum","Forest",0.0912,0.159
+"Dry grasslands","Galium verrucosum","Forest",0.0431,0.273
+"Dry grasslands","Galium verum","Arable land",0.3791,0.043
+"Dry grasslands","Galium x pomeranicum","Arable land",0.0592,0.285
+"Dry grasslands","Genista germanica","Arable land",0.0676,0.226
+"Dry grasslands","Genista pilosa","Grassland",0.1957,0.061
+"Dry grasslands","Genista sagittalis","Permanent crop",0.0519,0.105
+"Dry grasslands","Genista tinctoria","Forest",0.2131,0.055
+"Dry grasslands","Gentiana cruciata","Arable land",0.068,0.347
+"Dry grasslands","Gentiana pannonica","Arable land",0.0409,0.894
+"Dry grasslands","Gentianella amarella","Grassland",0.0403,0.47
+"Dry grasslands","Gentianella aspera","Arable land",0.0379,0.483
+"Dry grasslands","Gentianella austriaca","Arable land",0.0839,0.136
+"Dry grasslands","Gentianella ciliata","Arable land",0.0747,0.185
+"Dry grasslands","Geranium columbinum","Forest",0.1056,0.072
+"Dry grasslands","Geranium pratense","Arable land",0.0536,0.354
+"Dry grasslands","Geranium pusillum","Settlement",0.2281,0.001
+"Dry grasslands","Geranium pyrenaicum","Arable land",0.0278,1
+"Dry grasslands","Geranium robertianum","Forest",0.0493,0.754
+"Dry grasslands","Geranium sanguineum","Permanent crop",0.2653,0.024
+"Dry grasslands","Geum urbanum","Permanent crop",0.077,0.45
+"Dry grasslands","Gladiolus imbricatus","Grassland",0.0329,0.875
+"Dry grasslands","Glechoma hederacea","Forest",0.0925,0.172
+"Dry grasslands","Glechoma hirsuta","Grassland",0.0233,1
+"Dry grasslands","Globularia bisnagarica","Permanent crop",0.1319,0.173
+"Dry grasslands","Globularia cordifolia","Permanent crop",0.1722,0.009
+"Dry grasslands","Glycyrrhiza glabra","Grassland",0.0707,0.31
+"Dry grasslands","Gnaphalium sylvaticum","Forest",0.061,0.062
+"Dry grasslands","Gratiola officinalis","Grassland",0.0233,1
+"Dry grasslands","Gymnadenia conopsea","Settlement",0.1543,0.034
+"Dry grasslands","Gypsophila fastigiata","Grassland",0.0316,0.876
+"Dry grasslands","Gypsophila muralis","Grassland",0.0323,0.886
+"Dry grasslands","Gypsophila paniculata","Permanent crop",0.0644,0.679
+"Dry grasslands","Hackelia deflexa","Forest",0.0431,0.259
+"Dry grasslands","Hacquetia epipactis","Grassland",0.0233,1
+"Dry grasslands","Hedera helix aggr.","Settlement",0.1412,0.02
+"Dry grasslands","Helianthemum canum","Arable land",0.1163,0.029
+"Dry grasslands","Helianthemum nummularium","Forest",0.2756,0.045
+"Dry grasslands","Helichrysum arenarium","Grassland",0.1135,0.382
+"Dry grasslands","Helictochloa pratensis","Grassland",0.2761,0.059
+"Dry grasslands","Helictotrichon desertorum","Arable land",0.0716,0.323
+"Dry grasslands","Hepatica nobilis","Forest",0.0916,0.094
+"Dry grasslands","Heracleum sphondylium","Permanent crop",0.1883,0.01
+"Dry grasslands","Herniaria glabra","Arable land",0.055,0.875
+"Dry grasslands","Hesperis tristis","Permanent crop",0.0886,0.234
+"Dry grasslands","Hieracium bifidum","Grassland",0.0358,0.713
+"Dry grasslands","Hieracium lachenalii","Settlement",0.1061,0.092
+"Dry grasslands","Hieracium laevigatum","Arable land",0.0413,0.339
+"Dry grasslands","Hieracium maculatum","Forest",0.0542,0.138
+"Dry grasslands","Hieracium murorum","Forest",0.1094,0.057
+"Dry grasslands","Hieracium racemosum","Permanent crop",0.0693,0.095
+"Dry grasslands","Hieracium sabaudum","Arable land",0.0983,0.532
+"Dry grasslands","Hieracium umbellatum","Permanent crop",0.3476,0.002
+"Dry grasslands","Himantoglossum adriaticum","Permanent crop",0.1983,0.002
+"Dry grasslands","Hippocrepis comosa","Forest",0.0431,0.294
+"Dry grasslands","Hirschfeldia incana","Arable land",0.0379,0.464
+"Dry grasslands","Holcus lanatus","Settlement",0.0841,0.407
+"Dry grasslands","Holcus mollis","Forest",0.0805,0.231
+"Dry grasslands","Holosteum umbellatum","Settlement",0.1585,0.088
+"Dry grasslands","Humulus lupulus","Forest",0.0524,0.319
+"Dry grasslands","Hylotelephium maximum","Forest",0.2092,0.038
+"Dry grasslands","Hylotelephium telephium","Arable land",0.0686,0.143
+"Dry grasslands","Hypericum elegans","Grassland",0.0969,0.157
+"Dry grasslands","Hypericum hirsutum","Forest",0.0242,0.999
+"Dry grasslands","Hypericum maculatum aggr.","Settlement",0.0832,0.269
+"Dry grasslands","Hypericum montanum","Forest",0.0464,0.351
+"Dry grasslands","Hypericum perforatum","Arable land",0.3153,0.103
+"Dry grasslands","Hypochaeris maculata","Grassland",0.1274,0.162
+"Dry grasslands","Hypochaeris radicata","Settlement",0.2012,0.018
+"Dry grasslands","Impatiens glandulifera","Forest",0.0431,0.284
+"Dry grasslands","Impatiens parviflora","Grassland",0.0352,0.661
+"Dry grasslands","Inula britannica","Arable land",0.0307,0.83
+"Dry grasslands","Inula conyzae","Arable land",0.0834,0.681
+"Dry grasslands","Inula ensifolia","Permanent crop",0.3446,0.005
+"Dry grasslands","Inula germanica","Forest",0.0434,0.706
+"Dry grasslands","Inula hirta","Permanent crop",0.1665,0.07
+"Dry grasslands","Inula oculus-christi","Forest",0.1604,0.093
+"Dry grasslands","Inula salicina","Grassland",0.1426,0.421
+"Dry grasslands","Ionopsidium abulense","Grassland",0.0702,0.266
+"Dry grasslands","Iris aphylla","Forest",0.061,0.052
+"Dry grasslands","Iris graminea","Grassland",0.0465,0.315
+"Dry grasslands","Iris humilis","Arable land",0.0838,0.26
+"Dry grasslands","Iris pumila","Permanent crop",0.1902,0.048
+"Dry grasslands","Iris variegata","Forest",0.1561,0.053
+"Dry grasslands","Isatis tinctoria","Grassland",0.0233,1
+"Dry grasslands","Jacobaea erratica","Arable land",0.0309,0.97
+"Dry grasslands","Jacobaea erucifolia","Forest",0.0506,0.288
+"Dry grasslands","Jacobaea vulgaris","Arable land",0.1666,0.335
+"Dry grasslands","Jasione montana","Settlement",0.1487,0.186
+"Dry grasslands","Jovibarba globifera","Grassland",0.2156,0.04
+"Dry grasslands","Juglans regia","Permanent crop",0.1132,0.066
+"Dry grasslands","Juncus bufonius aggr.","Forest",0.0431,0.29
+"Dry grasslands","Juncus conglomeratus","Grassland",0.0329,0.748
+"Dry grasslands","Juncus effusus","Forest",0.0846,0.082
+"Dry grasslands","Juncus filiformis","Forest",0.0431,0.232
+"Dry grasslands","Juncus tenuis","Forest",0.0747,0.037
+"Dry grasslands","Juniperus communis subsp. communis","Arable land",0.0661,0.679
+"Dry grasslands","Jurinea mollis","Permanent crop",0.1964,0.048
+"Dry grasslands","Kernera saxatilis","Grassland",0.0233,1
+"Dry grasslands","Klasea lycopifolia","Grassland",0.0957,0.139
+"Dry grasslands","Knautia arvensis","Permanent crop",0.2656,0.081
+"Dry grasslands","Knautia drymeia","Permanent crop",0.1815,0.01
+"Dry grasslands","Knautia kitaibelii","Arable land",0.2359,0.017
+"Dry grasslands","Knautia maxima","Permanent crop",0.0555,0.114
+"Dry grasslands","Koeleria glauca","Arable land",0.1119,0.024
+"Dry grasslands","Koeleria macrantha","Settlement",0.2991,0.437
+"Dry grasslands","Koeleria pyramidata","Arable land",0.2193,0.064
+"Dry grasslands","Krascheninnikovia ceratoides","Arable land",0.0536,0.108
+"Dry grasslands","Lactuca perennis","Forest",0.0421,0.266
+"Dry grasslands","Lactuca saligna","Grassland",0.0233,1
+"Dry grasslands","Lactuca serriola","Settlement",0.2686,0.001
+"Dry grasslands","Lactuca viminea","Forest",0.121,0.037
+"Dry grasslands","Lamium album","Permanent crop",0.0519,0.126
+"Dry grasslands","Lamium amplexicaule","Forest",0.1059,0.135
+"Dry grasslands","Lamium maculatum","Forest",0.0521,0.187
+"Dry grasslands","Lamium purpureum","Settlement",0.2144,0.001
+"Dry grasslands","Lappula squarrosa","Forest",0.0704,0.301
+"Dry grasslands","Lapsana communis","Forest",0.0844,0.073
+"Dry grasslands","Larix decidua","Arable land",0.0289,0.859
+"Dry grasslands","Laser trilobum","Permanent crop",0.0519,0.111
+"Dry grasslands","Laserpitium latifolium","Grassland",0.093,0.145
+"Dry grasslands","Lathyrus hirsutus","Arable land",0.0364,0.444
+"Dry grasslands","Lathyrus latifolius","Permanent crop",0.1514,0.099
+"Dry grasslands","Lathyrus niger","Grassland",0.1314,0.081
+"Dry grasslands","Lathyrus pannonicus","Arable land",0.0925,0.162
+"Dry grasslands","Lathyrus pratensis","Permanent crop",0.1589,0.16
+"Dry grasslands","Lathyrus sylvestris","Settlement",0.0878,0.173
+"Dry grasslands","Lathyrus tuberosus","Permanent crop",0.2113,0.016
+"Dry grasslands","Lathyrus vernus","Forest",0.0431,0.308
+"Dry grasslands","Lembotropis nigricans","Forest",0.1709,0.064
+"Dry grasslands","Leontodon hispidus","Arable land",0.2685,0.086
+"Dry grasslands","Leontodon incanus aggr.","Forest",0.0429,0.421
+"Dry grasslands","Leopoldia comosa","Arable land",0.1316,0.087
+"Dry grasslands","Leopoldia tenuiflora","Forest",0.0458,0.489
+"Dry grasslands","Lepidium campestre","Settlement",0.0684,0.55
+"Dry grasslands","Lepidium draba","Permanent crop",0.0508,0.378
+"Dry grasslands","Lepidium ruderale","Grassland",0.0233,1
+"Dry grasslands","Leucanthemum adustum","Permanent crop",0.0714,0.062
+"Dry grasslands","Leucanthemum vulgare aggr.","Permanent crop",0.2134,0.089
+"Dry grasslands","Ligustrum vulgare","Forest",0.1524,0.139
+"Dry grasslands","Lilium bulbiferum","Grassland",0.057,0.216
+"Dry grasslands","Lilium martagon","Grassland",0.0615,0.756
+"Dry grasslands","Linaria genistifolia","Grassland",0.1829,0.184
+"Dry grasslands","Linaria vulgaris","Permanent crop",0.1444,0.054
+"Dry grasslands","Linum austriacum","Grassland",0.0308,0.931
+"Dry grasslands","Linum catharticum","Arable land",0.2844,0.017
+"Dry grasslands","Linum flavum","Permanent crop",0.1617,0.041
+"Dry grasslands","Linum hirsutum","Permanent crop",0.1356,0.036
+"Dry grasslands","Linum perenne","Forest",0.0804,0.082
+"Dry grasslands","Linum tenuifolium","Permanent crop",0.2145,0.034
+"Dry grasslands","Lipandra polysperma","Arable land",0.0379,0.502
+"Dry grasslands","Lithospermum officinale","Forest",0.0374,0.685
+"Dry grasslands","Lolium perenne","Settlement",0.2354,0.001
+"Dry grasslands","Lonicera caprifolium","Grassland",0.0233,1
+"Dry grasslands","Lonicera xylosteum","Grassland",0.0233,1
+"Dry grasslands","Lotus borbasii","Forest",0.1462,0.056
+"Dry grasslands","Lotus corniculatus","Permanent crop",0.2927,0.131
+"Dry grasslands","Lotus maritimus","Arable land",0.0892,0.24
+"Dry grasslands","Lotus pedunculatus","Grassland",0.0233,1
+"Dry grasslands","Lotus tenuis","Arable land",0.0379,0.468
+"Dry grasslands","Lupinus polyphyllus","Grassland",0.0329,0.782
+"Dry grasslands","Luzula campestris aggr.","Grassland",0.1677,0.443
+"Dry grasslands","Luzula luzuloides","Forest",0.0963,0.136
+"Dry grasslands","Luzula pilosa","Forest",0.0426,0.297
+"Dry grasslands","Luzula sylvatica","Forest",0.0431,0.27
+"Dry grasslands","Lycium barbarum","Grassland",0.0233,1
+"Dry grasslands","Lycopsis arvensis","Forest",0.0862,0.071
+"Dry grasslands","Lycopus europaeus","Arable land",0.0379,0.444
+"Dry grasslands","Lysimachia nemorum","Grassland",0.0233,1
+"Dry grasslands","Lysimachia nummularia","Forest",0.054,0.28
+"Dry grasslands","Lysimachia vulgaris","Grassland",0.0329,0.72
+"Dry grasslands","Lythrum salicaria","Grassland",0.0233,1
+"Dry grasslands","Malus pumila","Permanent crop",0.0421,0.565
+"Dry grasslands","Malus sylvestris","Grassland",0.0329,0.87
+"Dry grasslands","Malva thuringiaca","Forest",0.0389,0.653
+"Dry grasslands","Marrubium peregrinum","Settlement",0.1384,0.011
+"Dry grasslands","Marrubium vulgare","Arable land",0.0306,0.971
+"Dry grasslands","Medicago falcata","Settlement",0.3031,0.09
+"Dry grasslands","Medicago lupulina","Settlement",0.2295,0.077
+"Dry grasslands","Medicago minima","Forest",0.1241,0.614
+"Dry grasslands","Medicago monspeliaca","Grassland",0.0364,0.806
+"Dry grasslands","Medicago prostrata","Arable land",0.0718,0.456
+"Dry grasslands","Medicago x varia","Permanent crop",0.1826,0.005
+"Dry grasslands","Melampyrum arvense","Permanent crop",0.3102,0.002
+"Dry grasslands","Melampyrum cristatum","Settlement",0.1364,0.066
+"Dry grasslands","Melampyrum nemorosum aggr.","Forest",0.0948,0.393
+"Dry grasslands","Melampyrum pratense","Forest",0.0757,0.253
+"Dry grasslands","Melica ciliata aggr.","Settlement",0.1737,0.175
+"Dry grasslands","Melica nutans","Forest",0.0564,0.325
+"Dry grasslands","Melica picta","Forest",0.061,0.059
+"Dry grasslands","Melica transsilvanica","Forest",0.2281,0.02
+"Dry grasslands","Melica uniflora","Permanent crop",0.0521,0.359
+"Dry grasslands","Melilotus albus","Arable land",0.0564,0.442
+"Dry grasslands","Melilotus officinalis","Permanent crop",0.2472,0.003
+"Dry grasslands","Melittis melissophyllum","Forest",0.0931,0.095
+"Dry grasslands","Mentha arvensis","Forest",0.0401,0.505
+"Dry grasslands","Mercurialis annua","Grassland",0.0233,1
+"Dry grasslands","Mercurialis ovata","Permanent crop",0.0444,0.426
+"Dry grasslands","Mercurialis perennis","Forest",0.0377,0.356
+"Dry grasslands","Microrrhinum minus","Grassland",0.0442,0.65
+"Dry grasslands","Minuartia glaucina","Grassland",0.0715,0.202
+"Dry grasslands","Minuartia rubra","Arable land",0.1074,0.251
+"Dry grasslands","Minuartia setacea","Settlement",0.2365,0.009
+"Dry grasslands","Minuartia verna aggr.","Grassland",0.0426,0.596
+"Dry grasslands","Minuartia viscosa","Forest",0.08,0.136
+"Dry grasslands","Moehringia trinervia","Forest",0.0714,0.063
+"Dry grasslands","Molinia caerulea aggr.","Grassland",0.1587,0.065
+"Dry grasslands","Muscari botryoides","Forest",0.029,0.896
+"Dry grasslands","Muscari neglectum","Forest",0.0941,0.129
+"Dry grasslands","Myosotis arvensis","Forest",0.1274,0.173
+"Dry grasslands","Myosotis ramosissima","Grassland",0.1122,0.38
+"Dry grasslands","Myosotis sparsiflora","Arable land",0.0379,0.485
+"Dry grasslands","Myosotis stricta","Settlement",0.1403,0.307
+"Dry grasslands","Myosotis sylvatica","Forest",0.0937,0.117
+"Dry grasslands","Nardus stricta","Forest",0.1073,0.213
+"Dry grasslands","Neotinea tridentata","Arable land",0.0772,0.125
+"Dry grasslands","Neotinea ustulata","Forest",0.0775,0.491
+"Dry grasslands","Neottia ovata","Grassland",0.0597,0.417
+"Dry grasslands","Nepeta nuda","Grassland",0.0329,0.774
+"Dry grasslands","Neslia paniculata","Grassland",0.0329,0.736
+"Dry grasslands","Nigella arvensis","Arable land",0.0798,0.135
+"Dry grasslands","Noccaea caerulescens","Forest",0.061,0.066
+"Dry grasslands","Noccaea perfoliata","Settlement",0.2021,0.045
+"Dry grasslands","Nonea pulla","Arable land",0.1568,0.059
+"Dry grasslands","Ochlopoa annua","Settlement",0.0732,0.194
+"Dry grasslands","Odontites luteus","Permanent crop",0.2336,0.004
+"Dry grasslands","Odontites vulgaris aggr.","Permanent crop",0.1043,0.072
+"Dry grasslands","Oenothera biennis","Forest",0.0624,0.19
+"Dry grasslands","Oenothera biennis aggr.","Forest",0.0431,0.289
+"Dry grasslands","Onobrychis arenaria","Arable land",0.1645,0.185
+"Dry grasslands","Onobrychis viciifolia","Permanent crop",0.3169,0.001
+"Dry grasslands","Ononis pusilla","Forest",0.0431,0.263
+"Dry grasslands","Ononis spinosa","Permanent crop",0.2098,0.078
+"Dry grasslands","Onopordum acanthium","Permanent crop",0.0457,0.809
+"Dry grasslands","Ophioglossum vulgatum","Arable land",0.0341,0.585
+"Dry grasslands","Ophrys apifera","Grassland",0.0233,1
+"Dry grasslands","Ophrys insectifera","Permanent crop",0.0519,0.123
+"Dry grasslands","Ophrys sphegodes","Permanent crop",0.1038,0.056
+"Dry grasslands","Orchis mascula","Grassland",0.0329,0.857
+"Dry grasslands","Orchis militaris","Arable land",0.1138,0.218
+"Dry grasslands","Orchis purpurea","Permanent crop",0.0405,0.326
+"Dry grasslands","Origanum vulgare","Forest",0.2981,0.004
+"Dry grasslands","Orlaya grandiflora","Forest",0.0952,0.115
+"Dry grasslands","Ornithogalum pyramidale","Arable land",0.0434,0.294
+"Dry grasslands","Ornithogalum umbellatum","Forest",0.0869,0.157
+"Dry grasslands","Orobanche alba","Grassland",0.1197,0.121
+"Dry grasslands","Orobanche alsatica","Arable land",0.054,0.255
+"Dry grasslands","Orobanche artemisiae-campestris","Arable land",0.0379,0.485
+"Dry grasslands","Orobanche caryophyllacea","Grassland",0.0233,1
+"Dry grasslands","Orobanche elatior","Permanent crop",0.1034,0.084
+"Dry grasslands","Orobanche gracilis","Permanent crop",0.0765,0.14
+"Dry grasslands","Orobanche lutea","Permanent crop",0.058,0.718
+"Dry grasslands","Orobanche minor","Forest",0.0317,0.787
+"Dry grasslands","Orobanche reticulata","Forest",0.061,0.065
+"Dry grasslands","Orobanche teucrii","Permanent crop",0.0382,0.562
+"Dry grasslands","Oxalis acetosella","Grassland",0.0233,1
+"Dry grasslands","Oxytropis pilosa","Permanent crop",0.15,0.095
+"Dry grasslands","Papaver albiflorum","Forest",0.061,0.059
+"Dry grasslands","Papaver dubium aggr.","Settlement",0.2184,0.001
+"Dry grasslands","Papaver rhoeas","Arable land",0.0625,0.253
+"Dry grasslands","Paragymnopteris marantae","Grassland",0.0389,0.542
+"Dry grasslands","Pastinaca sativa","Permanent crop",0.1379,0.081
+"Dry grasslands","Pedicularis sylvatica","Grassland",0.0465,0.304
+"Dry grasslands","Persicaria lapathifolia","Settlement",0.1414,0.025
+"Dry grasslands","Petasites paradoxus","Forest",0.0431,0.294
+"Dry grasslands","Petrorhagia prolifera","Permanent crop",0.0977,0.129
+"Dry grasslands","Petrorhagia saxifraga","Forest",0.2007,0.016
+"Dry grasslands","Peucedanum alsaticum","Permanent crop",0.3224,0.003
+"Dry grasslands","Peucedanum arenarium","Forest",0.025,0.889
+"Dry grasslands","Peucedanum cervaria","Permanent crop",0.4131,0.001
+"Dry grasslands","Peucedanum oreoselinum","Permanent crop",0.1159,0.312
+"Dry grasslands","Phelipanche arenaria","Grassland",0.0233,1
+"Dry grasslands","Phelipanche purpurea","Permanent crop",0.032,0.715
+"Dry grasslands","Philadelphus coronarius","Settlement",0.1414,0.016
+"Dry grasslands","Phleum phleoides","Arable land",0.2389,0.409
+"Dry grasslands","Phleum pratense","Settlement",0.1092,0.068
+"Dry grasslands","Phlomis tuberosa","Permanent crop",0.0447,0.723
+"Dry grasslands","Phragmites australis","Arable land",0.035,0.487
+"Dry grasslands","Physalis alkekengi","Forest",0.0428,0.268
+"Dry grasslands","Phyteuma orbiculare","Permanent crop",0.0734,0.049
+"Dry grasslands","Phyteuma spicatum","Grassland",0.052,0.278
+"Dry grasslands","Picea abies","Arable land",0.0579,0.47
+"Dry grasslands","Picris hieracioides","Permanent crop",0.2486,0.012
+"Dry grasslands","Pilosella aurantiaca","Forest",0.0392,0.522
+"Dry grasslands","Pilosella bauhini","Arable land",0.1731,0.128
+"Dry grasslands","Pilosella caespitosa","Forest",0.0662,0.11
+"Dry grasslands","Pilosella cymosa","Forest",0.1282,0.019
+"Dry grasslands","Pilosella densiflora","Permanent crop",0.0415,0.886
+"Dry grasslands","Pilosella echioides","Grassland",0.1715,0.077
+"Dry grasslands","Pilosella floribunda","Permanent crop",0.08,0.163
+"Dry grasslands","Pilosella hoppeana","Forest",0.0964,0.068
+"Dry grasslands","Pilosella lactucella","Arable land",0.0344,0.576
+"Dry grasslands","Pilosella officinarum","Arable land",0.2483,0.248
+"Dry grasslands","Pilosella piloselloides","Permanent crop",0.0734,0.033
+"Dry grasslands","Pimpinella major","Forest",0.1005,0.1
+"Dry grasslands","Pimpinella nigra","Grassland",0.0962,0.315
+"Dry grasslands","Pimpinella saxifraga","Arable land",0.366,0.018
+"Dry grasslands","Pinus nigra","Permanent crop",0.0474,0.622
+"Dry grasslands","Pinus sylvestris","Forest",0.1765,0.043
+"Dry grasslands","Plantago arenaria","Forest",0.0662,0.253
+"Dry grasslands","Plantago lanceolata","Settlement",0.2737,0.19
+"Dry grasslands","Plantago major","Settlement",0.186,0.002
+"Dry grasslands","Plantago media","Arable land",0.3139,0.08
+"Dry grasslands","Platanthera bifolia","Grassland",0.0658,0.169
+"Dry grasslands","Platanthera chlorantha","Grassland",0.0233,1
+"Dry grasslands","Poa badensis aggr.","Grassland",0.1705,0.073
+"Dry grasslands","Poa bulbosa","Settlement",0.1615,0.242
+"Dry grasslands","Poa compressa","Settlement",0.5043,0.001
+"Dry grasslands","Poa nemoralis","Forest",0.0869,0.211
+"Dry grasslands","Poa palustris","Permanent crop",0.0447,0.259
+"Dry grasslands","Poa pratensis aggr.","Permanent crop",0.3293,0.22
+"Dry grasslands","Poa trivialis","Permanent crop",0.0943,0.08
+"Dry grasslands","Polycnemum arvense","Grassland",0.0437,0.832
+"Dry grasslands","Polycnemum majus","Forest",0.0431,0.274
+"Dry grasslands","Polygala amara","Arable land",0.0364,0.567
+"Dry grasslands","Polygala amarella","Forest",0.133,0.056
+"Dry grasslands","Polygala comosa","Arable land",0.1661,0.073
+"Dry grasslands","Polygala major","Permanent crop",0.2371,0.018
+"Dry grasslands","Polygala vulgaris","Forest",0.1055,0.134
+"Dry grasslands","Polygonatum multiflorum","Arable land",0.0536,0.105
+"Dry grasslands","Polygonatum odoratum","Forest",0.1908,0.035
+"Dry grasslands","Polygonum aviculare aggr.","Settlement",0.1037,0.075
+"Dry grasslands","Polypodium vulgare","Forest",0.1068,0.104
+"Dry grasslands","Pontechium maculatum","Grassland",0.0641,0.472
+"Dry grasslands","Populus alba","Grassland",0.0341,0.88
+"Dry grasslands","Populus nigra","Grassland",0.0233,1
+"Dry grasslands","Populus tremula","Arable land",0.0573,0.503
+"Dry grasslands","Populus x canadensis","Grassland",0.0233,1
+"Dry grasslands","Portulaca oleracea","Forest",0.0431,0.284
+"Dry grasslands","Potentilla alba","Grassland",0.2278,0.023
+"Dry grasslands","Potentilla argentea","Settlement",0.3551,0.001
+"Dry grasslands","Potentilla collina","Grassland",0.0281,0.965
+"Dry grasslands","Potentilla erecta","Grassland",0.124,0.109
+"Dry grasslands","Potentilla heptaphylla","Arable land",0.1952,0.119
+"Dry grasslands","Potentilla incana","Grassland",0.3875,0.022
+"Dry grasslands","Potentilla inclinata","Forest",0.0438,0.43
+"Dry grasslands","Potentilla pusilla","Arable land",0.1106,0.18
+"Dry grasslands","Potentilla recta","Permanent crop",0.2018,0.005
+"Dry grasslands","Potentilla reptans","Arable land",0.0571,0.677
+"Dry grasslands","Potentilla tabernaemontani","Arable land",0.2228,0.013
+"Dry grasslands","Primula acaulis","Grassland",0.0233,1
+"Dry grasslands","Primula elatior","Forest",0.0407,0.329
+"Dry grasslands","Primula veris","Grassland",0.1637,0.464
+"Dry grasslands","Prunella grandiflora","Arable land",0.1631,0.198
+"Dry grasslands","Prunella vulgaris","Arable land",0.0781,0.913
+"Dry grasslands","Prunus armeniaca","Grassland",0.0233,1
+"Dry grasslands","Prunus avium","Permanent crop",0.0888,0.309
+"Dry grasslands","Prunus cerasifera","Grassland",0.0403,0.432
+"Dry grasslands","Prunus cerasus","Arable land",0.0554,0.272
+"Dry grasslands","Prunus domestica","Settlement",0.0986,0.154
+"Dry grasslands","Prunus fruticosa","Permanent crop",0.179,0.026
+"Dry grasslands","Prunus mahaleb","Permanent crop",0.1075,0.153
+"Dry grasslands","Prunus padus","Arable land",0.0379,0.461
+"Dry grasslands","Prunus spinosa","Permanent crop",0.2197,0.031
+"Dry grasslands","Prunus tenella","Permanent crop",0.0519,0.109
+"Dry grasslands","Pseudopodospermum hispanicum","Permanent crop",0.2041,0.013
+"Dry grasslands","Pseudoturritis turrita","Forest",0.051,0.366
+"Dry grasslands","Pteridium aquilinum","Grassland",0.0233,1
+"Dry grasslands","Puccinellia distans","Arable land",0.0379,0.465
+"Dry grasslands","Pulmonaria angustifolia","Grassland",0.16,0.047
+"Dry grasslands","Pulmonaria mollis","Grassland",0.0972,0.236
+"Dry grasslands","Pulmonaria obscura","Forest",0.0431,0.286
+"Dry grasslands","Pulmonaria officinalis","Forest",0.074,0.059
+"Dry grasslands","Pulsatilla pratensis","Permanent crop",0.1374,0.084
+"Dry grasslands","Pulsatilla vulgaris","Arable land",0.1397,0.682
+"Dry grasslands","Pyrus communis","Permanent crop",0.1429,0.045
+"Dry grasslands","Quercus cerris","Forest",0.0559,0.609
+"Dry grasslands","Quercus dalechampii","Permanent crop",0.0734,0.045
+"Dry grasslands","Quercus petraea","Forest",0.1658,0.037
+"Dry grasslands","Quercus pubescens","Forest",0.0903,0.253
+"Dry grasslands","Quercus robur","Forest",0.1387,0.148
+"Dry grasslands","Quercus rubra","Forest",0.0431,0.274
+"Dry grasslands","Ranunculus acris aggr.","Forest",0.0923,0.437
+"Dry grasslands","Ranunculus auricomus aggr.","Grassland",0.1372,0.057
+"Dry grasslands","Ranunculus bulbosus","Settlement",0.1558,0.118
+"Dry grasslands","Ranunculus flammula","Forest",0.0431,0.29
+"Dry grasslands","Ranunculus illyricus","Forest",0.0713,0.633
+"Dry grasslands","Ranunculus lanuginosus","Grassland",0.0233,1
+"Dry grasslands","Ranunculus polyanthemos","Permanent crop",0.2516,0.044
+"Dry grasslands","Rapistrum perenne","Permanent crop",0.1854,0.024
+"Dry grasslands","Reseda lutea","Settlement",0.1392,0.092
+"Dry grasslands","Reseda luteola","Forest",0.1032,0.134
+"Dry grasslands","Rhamnus cathartica","Permanent crop",0.0752,0.605
+"Dry grasslands","Rhamnus saxatilis","Forest",0.1252,0.016
+"Dry grasslands","Rhinanthus alectorolophus","Arable land",0.0715,0.144
+"Dry grasslands","Rhinanthus angustifolius","Settlement",0.1236,0.087
+"Dry grasslands","Rhinanthus minor","Settlement",0.1549,0.253
+"Dry grasslands","Robinia pseudoacacia","Settlement",0.0723,0.596
+"Dry grasslands","Rosa canina","Permanent crop",0.1814,0.086
+"Dry grasslands","Rosa canina aggr.","Permanent crop",0.1673,0.344
+"Dry grasslands","Rosa gallica","Arable land",0.0887,0.196
+"Dry grasslands","Rosa inodora","Grassland",0.0233,1
+"Dry grasslands","Rosa marginata","Grassland",0.0329,0.76
+"Dry grasslands","Rosa rubiginosa aggr.","Permanent crop",0.0552,0.235
+"Dry grasslands","Rosa spinosissima","Permanent crop",0.2059,0.002
+"Dry grasslands","Rubus caesius","Permanent crop",0.2124,0.008
+"Dry grasslands","Rubus fruticosus aggr.","Permanent crop",0.1265,0.03
+"Dry grasslands","Rubus idaeus","Forest",0.0598,0.298
+"Dry grasslands","Rumex acetosa","Grassland",0.1976,0.062
+"Dry grasslands","Rumex acetosella","Grassland",0.229,0.169
+"Dry grasslands","Rumex crispus","Grassland",0.0233,1
+"Dry grasslands","Rumex thyrsiflorus","Grassland",0.0862,0.255
+"Dry grasslands","Salix aurita","Grassland",0.0233,1
+"Dry grasslands","Salix caprea","Settlement",0.1386,0.012
+"Dry grasslands","Salix purpurea","Forest",0.0431,0.263
+"Dry grasslands","Salix repens","Grassland",0.0233,1
+"Dry grasslands","Salsola kali aggr.","Permanent crop",0.0534,0.306
+"Dry grasslands","Salvia aethiopis","Grassland",0.0329,0.725
+"Dry grasslands","Salvia glutinosa","Permanent crop",0.0828,0.186
+"Dry grasslands","Salvia nemorosa","Settlement",0.1864,0.157
+"Dry grasslands","Salvia officinalis","Arable land",0.0536,0.097
+"Dry grasslands","Salvia pratensis","Permanent crop",0.3919,0.007
+"Dry grasslands","Salvia verticillata","Permanent crop",0.3026,0.002
+"Dry grasslands","Sambucus nigra","Grassland",0.0233,1
+"Dry grasslands","Sanguisorba minor aggr.","Grassland",0.2937,0.307
+"Dry grasslands","Sanguisorba officinalis","Grassland",0.1945,0.025
+"Dry grasslands","Saponaria officinalis","Arable land",0.0411,0.554
+"Dry grasslands","Saxifraga bulbifera","Permanent crop",0.0995,0.165
+"Dry grasslands","Saxifraga granulata","Forest",0.0841,0.073
+"Dry grasslands","Saxifraga paniculata","Grassland",0.0635,0.542
+"Dry grasslands","Saxifraga rosacea","Forest",0.0431,0.289
+"Dry grasslands","Saxifraga tridactylites","Forest",0.0758,0.811
+"Dry grasslands","Scabiosa canescens","Arable land",0.1942,0.117
+"Dry grasslands","Scabiosa columbaria aggr.","Forest",0.144,0.023
+"Dry grasslands","Scabiosa ochroleuca","Arable land",0.2871,0.231
+"Dry grasslands","Schedonorus arundinaceus","Arable land",0.0543,0.244
+"Dry grasslands","Schedonorus pratensis","Permanent crop",0.1243,0.775
+"Dry grasslands","Scirpoides holoschoenus","Grassland",0.052,0.288
+"Dry grasslands","Scleranthus annuus","Settlement",0.1075,0.055
+"Dry grasslands","Scleranthus perennis","Settlement",0.1388,0.402
+"Dry grasslands","Scleranthus polycarpos","Grassland",0.0616,0.243
+"Dry grasslands","Sclerochloa dura","Grassland",0.0233,1
+"Dry grasslands","Scorzonera cana","Arable land",0.0793,0.127
+"Dry grasslands","Scorzonera humilis","Grassland",0.0304,0.915
+"Dry grasslands","Scorzonera laciniata","Arable land",0.0673,0.211
+"Dry grasslands","Scorzonera purpurea","Grassland",0.065,0.887
+"Dry grasslands","Scorzoneroides autumnalis","Arable land",0.0468,0.795
+"Dry grasslands","Securigera varia","Permanent crop",0.3458,0.027
+"Dry grasslands","Sedum acre","Settlement",0.3535,0.002
+"Dry grasslands","Sedum album","Settlement",0.3682,0.002
+"Dry grasslands","Sedum rupestre","Settlement",0.1784,0.032
+"Dry grasslands","Sedum sexangulare","Forest",0.1915,0.26
+"Dry grasslands","Sedum spurium","Settlement",0.1379,0.023
+"Dry grasslands","Selaginella helvetica","Forest",0.1765,0.005
+"Dry grasslands","Selinum carvifolia","Grassland",0.0233,1
+"Dry grasslands","Selinum dubium","Grassland",0.0233,1
+"Dry grasslands","Sempervivum tectorum","Arable land",0.1651,0.017
+"Dry grasslands","Senecio doria aggr.","Grassland",0.0329,0.766
+"Dry grasslands","Senecio leucanthemifolius","Forest",0.0431,0.27
+"Dry grasslands","Senecio nemorensis aggr.","Forest",0.0401,0.309
+"Dry grasslands","Senecio sarracenicus","Forest",0.061,0.049
+"Dry grasslands","Senecio sylvaticus","Forest",0.0356,0.391
+"Dry grasslands","Senecio viscosus","Forest",0.0575,0.316
+"Dry grasslands","Senecio vulgaris","Forest",0.0364,0.453
+"Dry grasslands","Serratula tinctoria","Grassland",0.1952,0.022
+"Dry grasslands","Seseli annuum","Grassland",0.1491,0.305
+"Dry grasslands","Seseli hippomarathrum","Settlement",0.2233,0.103
+"Dry grasslands","Seseli libanotis","Permanent crop",0.4007,0.001
+"Dry grasslands","Seseli osseum","Grassland",0.2372,0.244
+"Dry grasslands","Seseli pallasii","Permanent crop",0.0704,0.659
+"Dry grasslands","Sesleria caerulea","Grassland",0.1903,0.043
+"Dry grasslands","Setaria pumila","Settlement",0.1176,0.048
+"Dry grasslands","Setaria viridis","Arable land",0.0809,0.388
+"Dry grasslands","Sideritis montana","Permanent crop",0.1019,0.074
+"Dry grasslands","Silaum silaus","Permanent crop",0.0491,0.334
+"Dry grasslands","Silene conica","Forest",0.0428,0.268
+"Dry grasslands","Silene coronaria","Permanent crop",0.0519,0.118
+"Dry grasslands","Silene dichotoma","Grassland",0.0233,1
+"Dry grasslands","Silene flos-cuculi","Grassland",0.0432,0.457
+"Dry grasslands","Silene italica aggr.","Grassland",0.0233,1
+"Dry grasslands","Silene latifolia","Permanent crop",0.1226,0.122
+"Dry grasslands","Silene noctiflora","Arable land",0.0461,0.342
+"Dry grasslands","Silene nutans","Settlement",0.1387,0.198
+"Dry grasslands","Silene otites aggr.","Grassland",0.2019,0.159
+"Dry grasslands","Silene viscaria","Settlement",0.1786,0.093
+"Dry grasslands","Silene viscosa","Grassland",0.0714,0.187
+"Dry grasslands","Silene vulgaris","Permanent crop",0.2578,0.015
+"Dry grasslands","Sisymbrium altissimum","Arable land",0.0665,0.237
+"Dry grasslands","Sisymbrium loeselii","Settlement",0.3984,0.001
+"Dry grasslands","Sisymbrium orientale","Permanent crop",0.0995,0.08
+"Dry grasslands","Sisymbrium strictissimum","Forest",0.0747,0.062
+"Dry grasslands","Solanum nigrum","Arable land",0.0325,0.872
+"Dry grasslands","Soldanella montana","Grassland",0.0233,1
+"Dry grasslands","Solidago canadensis","Arable land",0.0603,0.269
+"Dry grasslands","Solidago gigantea","Permanent crop",0.0575,0.43
+"Dry grasslands","Solidago virgaurea","Permanent crop",0.0921,0.558
+"Dry grasslands","Sonchus oleraceus","Grassland",0.0282,0.9
+"Dry grasslands","Sorbus aria aggr.","Permanent crop",0.0598,0.238
+"Dry grasslands","Sorbus aucuparia","Forest",0.052,0.26
+"Dry grasslands","Sorbus domestica","Grassland",0.0233,1
+"Dry grasslands","Sorbus torminalis","Forest",0.0808,0.086
+"Dry grasslands","Spergula morisonii","Forest",0.1548,0.046
+"Dry grasslands","Spergula pentandra","Grassland",0.0403,0.474
+"Dry grasslands","Spergularia rubra","Forest",0.099,0.113
+"Dry grasslands","Stachys annua","Permanent crop",0.041,0.341
+"Dry grasslands","Stachys germanica","Grassland",0.0403,0.474
+"Dry grasslands","Stachys officinalis","Grassland",0.1559,0.526
+"Dry grasslands","Stachys recta","Forest",0.2619,0.081
+"Dry grasslands","Stachys sylvatica","Grassland",0.0233,1
+"Dry grasslands","Stellaria graminea","Settlement",0.1306,0.086
+"Dry grasslands","Stellaria holostea","Forest",0.1017,0.107
+"Dry grasslands","Stellaria media","Settlement",0.1301,0.029
+"Dry grasslands","Stellaria palustris","Grassland",0.0233,1
+"Dry grasslands","Stipa borysthenica aggr.","Forest",0.1135,0.108
+"Dry grasslands","Stipa capillata","Permanent crop",0.2293,0.175
+"Dry grasslands","Stipa dasyphylla","Grassland",0.0995,0.182
+"Dry grasslands","Stipa eriocaulis","Grassland",0.0507,0.41
+"Dry grasslands","Stipa pennata","Permanent crop",0.2638,0.018
+"Dry grasslands","Stipa pulcherrima","Arable land",0.1684,0.079
+"Dry grasslands","Stipa tirsa","Permanent crop",0.0876,0.122
+"Dry grasslands","Stipa zalesskii","Grassland",0.0233,1
+"Dry grasslands","Succisa pratensis","Arable land",0.0406,0.682
+"Dry grasslands","Symphyotrichum novi-belgii aggr.","Arable land",0.0337,0.561
+"Dry grasslands","Symphytum officinale","Grassland",0.0376,0.63
+"Dry grasslands","Symphytum tuberosum aggr.","Grassland",0.0761,0.372
+"Dry grasslands","Syringa vulgaris","Settlement",0.271,0.001
+"Dry grasslands","Takhtajaniantha austriaca","Permanent crop",0.1546,0.079
+"Dry grasslands","Tanacetum corymbosum","Permanent crop",0.2516,0.028
+"Dry grasslands","Tanacetum vulgare","Arable land",0.0601,0.275
+"Dry grasslands","Taraxacum sect. Erythrosperma","Grassland",0.0906,0.572
+"Dry grasslands","Taraxacum sect. Palustria","Arable land",0.0379,0.462
+"Dry grasslands","Taraxacum sect. Taraxacum","Settlement",0.3189,0.001
+"Dry grasslands","Taraxacum serotinum","Arable land",0.1001,0.241
+"Dry grasslands","Taxus baccata","Settlement",0.1414,0.016
+"Dry grasslands","Teesdalia nudicaulis","Forest",0.1432,0.019
+"Dry grasslands","Tephroseris integrifolia","Arable land",0.0871,0.264
+"Dry grasslands","Teucrium botrys","Grassland",0.033,0.937
+"Dry grasslands","Teucrium chamaedrys","Forest",0.4203,0.002
+"Dry grasslands","Teucrium montanum","Grassland",0.1532,0.11
+"Dry grasslands","Thalictrum aquilegiifolium","Grassland",0.057,0.23
+"Dry grasslands","Thalictrum foetidum","Grassland",0.0736,0.15
+"Dry grasslands","Thalictrum lucidum","Grassland",0.0233,1
+"Dry grasslands","Thalictrum minus","Grassland",0.1441,0.45
+"Dry grasslands","Thalictrum simplex","Grassland",0.0329,0.767
+"Dry grasslands","Thesium alpinum","Forest",0.0431,0.294
+"Dry grasslands","Thesium dollineri","Arable land",0.0751,0.135
+"Dry grasslands","Thesium linophyllon","Permanent crop",0.2996,0.007
+"Dry grasslands","Thesium ramosum","Permanent crop",0.0738,0.442
+"Dry grasslands","Thlaspi arvense","Settlement",0.1725,0.002
+"Dry grasslands","Thymelaea passerina","Forest",0.0562,0.088
+"Dry grasslands","Thymus odoratissimus aggr.","Arable land",0.2794,0.129
+"Dry grasslands","Thymus praecox","Grassland",0.2755,0.09
+"Dry grasslands","Thymus pulcherrimus","Grassland",0.0233,1
+"Dry grasslands","Thymus pulegioides","Arable land",0.2429,0.041
+"Dry grasslands","Thymus serpyllum","Grassland",0.1096,0.294
+"Dry grasslands","Tilia cordata","Forest",0.0888,0.195
+"Dry grasslands","Tilia platyphyllos","Permanent crop",0.049,0.344
+"Dry grasslands","Torilis japonica","Forest",0.0462,0.347
+"Dry grasslands","Tragopogon dubius","Forest",0.0633,0.812
+"Dry grasslands","Tragopogon pratensis","Permanent crop",0.1932,0.116
+"Dry grasslands","Traunsteinera globosa","Grassland",0.0819,0.312
+"Dry grasslands","Trifolium alpestre","Forest",0.2016,0.156
+"Dry grasslands","Trifolium arvense","Settlement",0.2358,0.041
+"Dry grasslands","Trifolium aureum","Arable land",0.0558,0.259
+"Dry grasslands","Trifolium campestre","Grassland",0.135,0.847
+"Dry grasslands","Trifolium dubium","Settlement",0.1886,0.013
+"Dry grasslands","Trifolium fragiferum","Arable land",0.0379,0.468
+"Dry grasslands","Trifolium hybridum","Settlement",0.195,0.001
+"Dry grasslands","Trifolium medium","Arable land",0.1818,0.083
+"Dry grasslands","Trifolium montanum","Permanent crop",0.2296,0.136
+"Dry grasslands","Trifolium ochroleucon","Forest",0.0328,0.754
+"Dry grasslands","Trifolium pratense","Permanent crop",0.2272,0.032
+"Dry grasslands","Trifolium repens","Arable land",0.1146,0.213
+"Dry grasslands","Trifolium retusum","Permanent crop",0.0419,0.448
+"Dry grasslands","Trifolium rubens","Grassland",0.0627,0.997
+"Dry grasslands","Trifolium striatum","Forest",0.037,0.661
+"Dry grasslands","Trinia glauca","Grassland",0.0452,0.58
+"Dry grasslands","Tripleurospermum maritimum aggr.","Forest",0.0318,0.934
+"Dry grasslands","Tripolium pannonicum","Arable land",0.0379,0.468
+"Dry grasslands","Trisetum flavescens","Permanent crop",0.178,0.094
+"Dry grasslands","Turritis glabra","Forest",0.0587,0.684
+"Dry grasslands","Tussilago farfara","Permanent crop",0.0532,0.29
+"Dry grasslands","Ulmus minor","Permanent crop",0.0907,0.209
+"Dry grasslands","Urtica dioica","Settlement",0.1205,0.044
+"Dry grasslands","Vaccinium myrtillus","Forest",0.0785,0.271
+"Dry grasslands","Vaccinium uliginosum","Grassland",0.0383,0.614
+"Dry grasslands","Vaccinium vitis-idaea","Grassland",0.0422,0.839
+"Dry grasslands","Valeriana officinalis aggr.","Grassland",0.0816,0.287
+"Dry grasslands","Valeriana stolonifera","Grassland",0.1108,0.18
+"Dry grasslands","Valerianella carinata","Forest",0.0431,0.28
+"Dry grasslands","Valerianella locusta","Forest",0.1555,0.04
+"Dry grasslands","Verbascum blattaria","Arable land",0.0536,0.094
+"Dry grasslands","Verbascum chaixii","Forest",0.281,0.007
+"Dry grasslands","Verbascum densiflorum","Forest",0.0647,0.205
+"Dry grasslands","Verbascum lychnitis","Settlement",0.2187,0.03
+"Dry grasslands","Verbascum nigrum","Permanent crop",0.0926,0.111
+"Dry grasslands","Verbascum phlomoides","Arable land",0.0428,0.827
+"Dry grasslands","Verbascum phoeniceum","Arable land",0.1356,0.218
+"Dry grasslands","Verbascum speciosum","Grassland",0.0488,0.416
+"Dry grasslands","Verbascum thapsus","Settlement",0.0959,0.148
+"Dry grasslands","Verbena officinalis","Arable land",0.0379,0.452
+"Dry grasslands","Veronica agrestis","Grassland",0.0772,0.151
+"Dry grasslands","Veronica anagallis-aquatica","Forest",0.0396,0.348
+"Dry grasslands","Veronica arvensis","Settlement",0.1968,0.032
+"Dry grasslands","Veronica austriaca","Forest",0.1311,0.368
+"Dry grasslands","Veronica chamaedrys aggr.","Forest",0.1937,0.226
+"Dry grasslands","Veronica dillenii","Forest",0.1773,0.09
+"Dry grasslands","Veronica hederifolia aggr.","Settlement",0.1204,0.06
+"Dry grasslands","Veronica montana","Forest",0.0431,0.252
+"Dry grasslands","Veronica officinalis","Forest",0.0914,0.288
+"Dry grasslands","Veronica orchidea","Permanent crop",0.0839,0.289
+"Dry grasslands","Veronica persica","Settlement",0.1241,0.04
+"Dry grasslands","Veronica polita","Settlement",0.1401,0.003
+"Dry grasslands","Veronica praecox","Forest",0.1295,0.101
+"Dry grasslands","Veronica prostrata","Arable land",0.1934,0.185
+"Dry grasslands","Veronica spicata","Grassland",0.2622,0.049
+"Dry grasslands","Veronica triphyllos","Settlement",0.1404,0.045
+"Dry grasslands","Veronica verna","Settlement",0.1381,0.235
+"Dry grasslands","Viburnum lantana","Permanent crop",0.1605,0.019
+"Dry grasslands","Viburnum opulus","Grassland",0.0329,0.872
+"Dry grasslands","Vicia cracca","Permanent crop",0.3392,0.001
+"Dry grasslands","Vicia dumetorum","Arable land",0.0379,0.466
+"Dry grasslands","Vicia hirsuta","Settlement",0.1466,0.159
+"Dry grasslands","Vicia lathyroides","Forest",0.0796,0.656
+"Dry grasslands","Vicia lutea","Arable land",0.0379,0.428
+"Dry grasslands","Vicia pisiformis","Permanent crop",0.0519,0.127
+"Dry grasslands","Vicia sativa","Settlement",0.1701,0.081
+"Dry grasslands","Vicia sepium","Settlement",0.1176,0.043
+"Dry grasslands","Vicia sylvatica","Grassland",0.0403,0.476
+"Dry grasslands","Vicia tenuifolia","Permanent crop",0.1818,0.089
+"Dry grasslands","Vicia tetrasperma","Forest",0.1035,0.395
+"Dry grasslands","Vicia villosa","Arable land",0.0525,0.63
+"Dry grasslands","Vinca herbacea","Forest",0.0475,0.187
+"Dry grasslands","Vincetoxicum hirundinaria","Forest",0.3262,0.011
+"Dry grasslands","Viola ambigua","Permanent crop",0.1482,0.192
+"Dry grasslands","Viola arvensis","Settlement",0.2501,0.007
+"Dry grasslands","Viola canina","Settlement",0.1242,0.109
+"Dry grasslands","Viola collina","Arable land",0.0739,0.355
+"Dry grasslands","Viola elatior","Forest",0.0431,0.282
+"Dry grasslands","Viola hirta","Permanent crop",0.2765,0.076
+"Dry grasslands","Viola kitaibeliana","Forest",0.0558,0.272
+"Dry grasslands","Viola mirabilis","Forest",0.0751,0.098
+"Dry grasslands","Viola odorata","Forest",0.0415,0.906
+"Dry grasslands","Viola palustris","Forest",0.0344,0.727
+"Dry grasslands","Viola pumila","Forest",0.0308,0.735
+"Dry grasslands","Viola reichenbachiana","Arable land",0.0499,0.674
+"Dry grasslands","Viola riviniana","Grassland",0.0323,0.825
+"Dry grasslands","Viola rupestris","Arable land",0.121,0.311
+"Dry grasslands","Viola suavis","Grassland",0.0329,0.868
+"Dry grasslands","Viola tricolor aggr.","Forest",0.1443,0.047
+"Dry grasslands","Vitis vinifera","Permanent crop",0.0836,0.188
+"Dry grasslands","Vulpia myuros","Arable land",0.0473,0.553
+"Dry grasslands","Willemetia stipitata","Forest",0.0431,0.26
+"Dry grasslands","Xanthium strumarium","Arable land",0.0379,0.452
+"Dry grasslands","Xeranthemum annuum","Forest",0.059,0.174
+"Mesic grasslands","Abies alba","Forest",0.0674,0.242
+"Mesic grasslands","Acer campestre","Permanent crop",0.1924,0.003
+"Mesic grasslands","Acer negundo","Forest",0.0963,0.213
+"Mesic grasslands","Acer platanoides","Settlement",0.1222,0.029
+"Mesic grasslands","Acer pseudoplatanus","Settlement",0.0804,0.617
+"Mesic grasslands","Achillea millefolium aggr.","Settlement",0.4413,0.222
+"Mesic grasslands","Achillea pannonica","Permanent crop",0.1372,0.008
+"Mesic grasslands","Achillea ptarmica","Forest",0.0681,0.787
+"Mesic grasslands","Aconitum napellus aggr.","Forest",0.0953,0.099
+"Mesic grasslands","Adoxa moschatellina","Grassland",0.0525,0.762
+"Mesic grasslands","Aegopodium podagraria","Permanent crop",0.2093,0.076
+"Mesic grasslands","Aesculus hippocastanum","Arable land",0.0379,0.875
+"Mesic grasslands","Agrimonia eupatoria","Arable land",0.2957,0.001
+"Mesic grasslands","Agrostis canina","Grassland",0.1454,0.062
+"Mesic grasslands","Agrostis capillaris","Arable land",0.3766,0.007
+"Mesic grasslands","Agrostis gigantea","Arable land",0.0822,0.549
+"Mesic grasslands","Agrostis stolonifera","Settlement",0.1238,0.629
+"Mesic grasslands","Agrostis vinealis","Forest",0.0975,0.191
+"Mesic grasslands","Ajuga chamaepitys","Forest",0.0674,0.261
+"Mesic grasslands","Ajuga genevensis","Forest",0.0839,0.844
+"Mesic grasslands","Ajuga reptans","Grassland",0.2209,0.17
+"Mesic grasslands","Alchemilla glabra","Grassland",0.0742,0.41
+"Mesic grasslands","Alchemilla glaucescens","Grassland",0.0802,0.51
+"Mesic grasslands","Alchemilla hybrida","Settlement",0.0862,0.206
+"Mesic grasslands","Alchemilla micans","Forest",0.0758,0.605
+"Mesic grasslands","Alchemilla monticola","Arable land",0.2554,0.018
+"Mesic grasslands","Alchemilla subcrenata","Grassland",0.0525,0.694
+"Mesic grasslands","Alchemilla vulgaris aggr.","Arable land",0.2398,0.037
+"Mesic grasslands","Alchemilla xanthochlora","Grassland",0.074,0.542
+"Mesic grasslands","Alliaria petiolata","Permanent crop",0.1048,0.061
+"Mesic grasslands","Allium angulosum","Forest",0.0991,0.064
+"Mesic grasslands","Allium carinatum","Forest",0.0448,0.776
+"Mesic grasslands","Allium oleraceum","Permanent crop",0.1645,0.008
+"Mesic grasslands","Allium rotundum","Arable land",0.0469,0.56
+"Mesic grasslands","Allium scorodoprasum","Permanent crop",0.2569,0.001
+"Mesic grasslands","Allium ursinum","Grassland",0.0525,0.584
+"Mesic grasslands","Allium vineale","Grassland",0.0742,0.402
+"Mesic grasslands","Alnus glutinosa","Grassland",0.0797,0.277
+"Mesic grasslands","Alopecurus aequalis","Forest",0.0674,0.279
+"Mesic grasslands","Alopecurus geniculatus","Grassland",0.0525,0.597
+"Mesic grasslands","Alopecurus pratensis","Forest",0.3615,0.047
+"Mesic grasslands","Althaea officinalis","Settlement",0.0766,0.233
+"Mesic grasslands","Alyssum alyssoides","Grassland",0.0371,1
+"Mesic grasslands","Alyssum montanum aggr.","Grassland",0.0371,1
+"Mesic grasslands","Amaranthus hybridus aggr.","Settlement",0.0803,0.212
+"Mesic grasslands","Amaranthus retroflexus","Settlement",0.0891,0.165
+"Mesic grasslands","Anacamptis morio","Forest",0.0468,0.921
+"Mesic grasslands","Anagallis arvensis","Arable land",0.2108,0.002
+"Mesic grasslands","Anagallis foemina","Arable land",0.1242,0.029
+"Mesic grasslands","Anchusa officinalis","Grassland",0.0525,0.652
+"Mesic grasslands","Anemone nemorosa","Grassland",0.1723,0.097
+"Mesic grasslands","Anemone ranunculoides","Grassland",0.0525,0.628
+"Mesic grasslands","Anemone sylvestris","Permanent crop",0.0627,0.362
+"Mesic grasslands","Angelica sylvestris","Grassland",0.2026,0.116
+"Mesic grasslands","Anisantha sterilis","Permanent crop",0.1802,0.006
+"Mesic grasslands","Anisantha tectorum","Permanent crop",0.1387,0.02
+"Mesic grasslands","Antennaria dioica","Grassland",0.0371,1
+"Mesic grasslands","Anthemis arvensis","Settlement",0.0854,0.184
+"Mesic grasslands","Anthemis ruthenica","Permanent crop",0.0774,0.245
+"Mesic grasslands","Anthericum ramosum","Forest",0.0712,0.252
+"Mesic grasslands","Anthoxanthum odoratum aggr.","Forest",0.3307,0.328
+"Mesic grasslands","Anthriscus sylvestris","Settlement",0.2517,0.175
+"Mesic grasslands","Anthyllis vulneraria","Arable land",0.2129,0.008
+"Mesic grasslands","Apera spica-venti","Arable land",0.0616,0.561
+"Mesic grasslands","Aphanes arvensis","Arable land",0.0469,0.528
+"Mesic grasslands","Aquilegia atrata","Arable land",0.0469,0.538
+"Mesic grasslands","Aquilegia vulgaris","Settlement",0.0637,0.668
+"Mesic grasslands","Arabidopsis arenosa","Arable land",0.0469,0.532
+"Mesic grasslands","Arabidopsis halleri","Grassland",0.114,0.402
+"Mesic grasslands","Arabidopsis thaliana","Permanent crop",0.0897,0.621
+"Mesic grasslands","Arabis hirsuta aggr.","Permanent crop",0.2012,0.004
+"Mesic grasslands","Arctium lappa","Settlement",0.1476,0.079
+"Mesic grasslands","Arctium minus","Forest",0.0588,0.464
+"Mesic grasslands","Arctium nemorosum","Permanent crop",0.0858,0.183
+"Mesic grasslands","Arctium tomentosum","Settlement",0.1446,0.05
+"Mesic grasslands","Arenaria serpyllifolia","Settlement",0.1929,0.024
+"Mesic grasslands","Argentina anserina","Settlement",0.2475,0.002
+"Mesic grasslands","Aristolochia clematitis","Permanent crop",0.1305,0.011
+"Mesic grasslands","Armeria maritima","Forest",0.1265,0.028
+"Mesic grasslands","Armoracia rusticana","Settlement",0.1404,0.016
+"Mesic grasslands","Arnica montana","Grassland",0.0741,0.478
+"Mesic grasslands","Arrhenatherum elatius","Permanent crop",0.5887,0.001
+"Mesic grasslands","Artemisia absinthium","Grassland",0.045,0.808
+"Mesic grasslands","Artemisia campestris","Grassland",0.0371,1
+"Mesic grasslands","Artemisia vulgaris","Settlement",0.2881,0.005
+"Mesic grasslands","Asarum europaeum","Arable land",0.0813,0.242
+"Mesic grasslands","Asclepias syriaca","Arable land",0.0469,0.525
+"Mesic grasslands","Asparagus officinalis","Permanent crop",0.0815,0.219
+"Mesic grasslands","Asperula cynanchica","Permanent crop",0.1478,0.013
+"Mesic grasslands","Asperula tinctoria","Grassland",0.1099,0.11
+"Mesic grasslands","Aster amellus","Grassland",0.0371,1
+"Mesic grasslands","Astragalus asper","Permanent crop",0.1037,0.035
+"Mesic grasslands","Astragalus cicer","Permanent crop",0.324,0.001
+"Mesic grasslands","Astragalus danicus","Forest",0.0809,0.191
+"Mesic grasslands","Astragalus glycyphyllos","Permanent crop",0.2186,0.005
+"Mesic grasslands","Astragalus onobrychis","Arable land",0.0664,0.344
+"Mesic grasslands","Astrantia major","Arable land",0.0528,0.969
+"Mesic grasslands","Atriplex oblongifolia","Arable land",0.0469,0.559
+"Mesic grasslands","Atriplex patula","Settlement",0.1424,0.01
+"Mesic grasslands","Atriplex prostrata","Arable land",0.0469,0.559
+"Mesic grasslands","Atriplex sagittata","Permanent crop",0.0373,0.913
+"Mesic grasslands","Atriplex tatarica","Grassland",0.0525,0.628
+"Mesic grasslands","Avenella flexuosa","Grassland",0.0841,0.685
+"Mesic grasslands","Avenula pubescens","Permanent crop",0.3429,0.021
+"Mesic grasslands","Ballota nigra","Settlement",0.1896,0.012
+"Mesic grasslands","Barbarea stricta","Forest",0.0604,0.417
+"Mesic grasslands","Barbarea vulgaris","Arable land",0.0935,0.189
+"Mesic grasslands","Bellis perennis","Settlement",0.3592,0.001
+"Mesic grasslands","Berberis vulgaris","Forest",0.0644,0.394
+"Mesic grasslands","Berteroa incana","Permanent crop",0.0962,0.339
+"Mesic grasslands","Berula erecta","Permanent crop",0.1048,0.065
+"Mesic grasslands","Betula pendula","Arable land",0.1503,0.082
+"Mesic grasslands","Bidens cernua","Grassland",0.0371,1
+"Mesic grasslands","Bidens tripartita","Grassland",0.0525,0.64
+"Mesic grasslands","Biscutella laevigata","Forest",0.0674,0.262
+"Mesic grasslands","Bistorta officinalis","Grassland",0.1661,0.114
+"Mesic grasslands","Blitum bonus-henricus","Arable land",0.0469,0.53
+"Mesic grasslands","Bolboschoenus maritimus aggr.","Grassland",0.0371,1
+"Mesic grasslands","Bothriochloa ischaemum","Forest",0.0456,0.794
+"Mesic grasslands","Botrychium lunaria","Grassland",0.037,1
+"Mesic grasslands","Botrychium matricariifolium","Arable land",0.1214,0.053
+"Mesic grasslands","Brachypodium pinnatum","Permanent crop",0.4555,0.001
+"Mesic grasslands","Brachypodium sylvaticum","Forest",0.0867,0.322
+"Mesic grasslands","Briza media","Grassland",0.273,0.154
+"Mesic grasslands","Bromopsis erecta","Permanent crop",0.4989,0.001
+"Mesic grasslands","Bromopsis inermis","Grassland",0.1294,0.1
+"Mesic grasslands","Bromus hordeaceus","Settlement",0.2106,0.067
+"Mesic grasslands","Bromus japonicus","Arable land",0.0759,0.305
+"Mesic grasslands","Buglossoides arvensis aggr.","Permanent crop",0.1816,0.001
+"Mesic grasslands","Bunias orientalis","Arable land",0.0813,0.234
+"Mesic grasslands","Buphthalmum salicifolium","Permanent crop",0.4451,0.001
+"Mesic grasslands","Bupleurum falcatum","Permanent crop",0.0592,0.652
+"Mesic grasslands","Calamagrostis arundinacea","Forest",0.0598,0.571
+"Mesic grasslands","Calamagrostis epigejos","Arable land",0.1884,0.418
+"Mesic grasslands","Calamagrostis villosa","Forest",0.0674,0.268
+"Mesic grasslands","Calluna vulgaris","Forest",0.1181,0.08
+"Mesic grasslands","Caltha palustris","Grassland",0.1126,0.271
+"Mesic grasslands","Calystegia sepium","Forest",0.1016,0.107
+"Mesic grasslands","Camelina microcarpa","Arable land",0.0469,0.527
+"Mesic grasslands","Campanula cervicaria","Grassland",0.0371,1
+"Mesic grasslands","Campanula glomerata","Settlement",0.1445,0.174
+"Mesic grasslands","Campanula patula aggr.","Grassland",0.2963,0.138
+"Mesic grasslands","Campanula persicifolia","Permanent crop",0.1294,0.11
+"Mesic grasslands","Campanula rapunculoides","Permanent crop",0.3868,0.001
+"Mesic grasslands","Campanula rotundifolia","Arable land",0.2538,0.007
+"Mesic grasslands","Campanula scheuchzeri","Arable land",0.0469,0.549
+"Mesic grasslands","Campanula sibirica","Permanent crop",0.093,0.103
+"Mesic grasslands","Campanula trachelium","Arable land",0.0726,0.42
+"Mesic grasslands","Cannabis sativa","Forest",0.0674,0.261
+"Mesic grasslands","Capsella bursa-pastoris","Settlement",0.2147,0.006
+"Mesic grasslands","Cardamine amara","Grassland",0.0742,0.415
+"Mesic grasslands","Cardamine hirsuta","Grassland",0.0371,1
+"Mesic grasslands","Cardamine impatiens aggr.","Forest",0.0484,0.705
+"Mesic grasslands","Cardamine matthioli","Forest",0.2039,0.003
+"Mesic grasslands","Cardamine pratensis","Grassland",0.2366,0.073
+"Mesic grasslands","Carduus acanthoides","Arable land",0.1751,0.035
+"Mesic grasslands","Carduus crispus","Arable land",0.0472,0.951
+"Mesic grasslands","Carduus defloratus aggr.","Arable land",0.0469,0.538
+"Mesic grasslands","Carduus nutans","Arable land",0.0469,0.576
+"Mesic grasslands","Carduus personata","Arable land",0.0469,0.554
+"Mesic grasslands","Carex acuta","Arable land",0.0722,0.734
+"Mesic grasslands","Carex acutiformis","Forest",0.0628,0.397
+"Mesic grasslands","Carex alba","Forest",0.0674,0.25
+"Mesic grasslands","Carex brizoides","Grassland",0.1374,0.323
+"Mesic grasslands","Carex buekii","Grassland",0.0371,1
+"Mesic grasslands","Carex canescens","Grassland",0.0534,0.598
+"Mesic grasslands","Carex caryophyllea","Forest",0.1857,0.19
+"Mesic grasslands","Carex cespitosa","Grassland",0.0642,0.5
+"Mesic grasslands","Carex davalliana","Grassland",0.0687,0.512
+"Mesic grasslands","Carex digitata","Forest",0.0674,0.242
+"Mesic grasslands","Carex distans","Arable land",0.045,0.786
+"Mesic grasslands","Carex disticha","Grassland",0.0525,0.688
+"Mesic grasslands","Carex echinata","Settlement",0.0533,0.886
+"Mesic grasslands","Carex filiformis","Forest",0.1487,0.068
+"Mesic grasslands","Carex flacca","Permanent crop",0.1296,0.202
+"Mesic grasslands","Carex flava","Settlement",0.0818,0.254
+"Mesic grasslands","Carex hartmaniorum","Grassland",0.0913,0.272
+"Mesic grasslands","Carex hirta","Grassland",0.2554,0.017
+"Mesic grasslands","Carex humilis","Forest",0.0883,0.133
+"Mesic grasslands","Carex lepidocarpa","Forest",0.0674,0.253
+"Mesic grasslands","Carex leporina","Grassland",0.1707,0.126
+"Mesic grasslands","Carex melanostachya","Grassland",0.0776,0.268
+"Mesic grasslands","Carex michelii","Forest",0.05,0.72
+"Mesic grasslands","Carex montana","Permanent crop",0.1491,0.05
+"Mesic grasslands","Carex muricata","Forest",0.0941,0.786
+"Mesic grasslands","Carex nigra","Grassland",0.1752,0.159
+"Mesic grasslands","Carex ornithopoda","Arable land",0.0601,0.591
+"Mesic grasslands","Carex pallescens","Grassland",0.2706,0.002
+"Mesic grasslands","Carex pallidula","Grassland",0.0371,1
+"Mesic grasslands","Carex panicea","Grassland",0.2002,0.063
+"Mesic grasslands","Carex pilulifera","Grassland",0.1089,0.418
+"Mesic grasslands","Carex praecox","Forest",0.2777,0.001
+"Mesic grasslands","Carex pulicaris","Forest",0.0945,0.09
+"Mesic grasslands","Carex riparia","Grassland",0.0642,0.48
+"Mesic grasslands","Carex rostrata","Grassland",0.0742,0.335
+"Mesic grasslands","Carex secalina","Arable land",0.0432,0.826
+"Mesic grasslands","Carex spicata","Forest",0.1063,0.336
+"Mesic grasslands","Carex supina","Forest",0.0674,0.271
+"Mesic grasslands","Carex sylvatica","Forest",0.0901,0.119
+"Mesic grasslands","Carex umbrosa","Grassland",0.1123,0.203
+"Mesic grasslands","Carex vesicaria","Grassland",0.0968,0.16
+"Mesic grasslands","Carex vulpina","Forest",0.0685,0.566
+"Mesic grasslands","Carlina acaulis","Arable land",0.2076,0.028
+"Mesic grasslands","Carlina vulgaris aggr.","Grassland",0.0884,0.32
+"Mesic grasslands","Carpinus betulus","Arable land",0.0853,0.378
+"Mesic grasslands","Carum carvi","Settlement",0.164,0.231
+"Mesic grasslands","Centaurea jacea","Permanent crop",0.5023,0.001
+"Mesic grasslands","Centaurea oxylepis","Settlement",0.0832,0.158
+"Mesic grasslands","Centaurea phrygia aggr.","Grassland",0.08,0.446
+"Mesic grasslands","Centaurea scabiosa","Permanent crop",0.494,0.001
+"Mesic grasslands","Centaurea stoebe","Permanent crop",0.1515,0.017
+"Mesic grasslands","Centaurea thuillieri","Grassland",0.0642,0.48
+"Mesic grasslands","Centaurium erythraea","Arable land",0.0929,0.228
+"Mesic grasslands","Cerastium arvense","Arable land",0.1828,0.176
+"Mesic grasslands","Cerastium brachypetalum","Permanent crop",0.2174,0.001
+"Mesic grasslands","Cerastium dubium","Forest",0.0621,0.413
+"Mesic grasslands","Cerastium fontanum subsp. vulgare","Grassland",0.3195,0.72
+"Mesic grasslands","Cerastium glomeratum","Grassland",0.0488,0.865
+"Mesic grasslands","Cerastium pumilum","Grassland",0.1205,0.176
+"Mesic grasslands","Cerastium semidecandrum","Permanent crop",0.0877,0.158
+"Mesic grasslands","Cerinthe minor","Arable land",0.0694,0.449
+"Mesic grasslands","Chaerophyllum aromaticum","Permanent crop",0.2842,0.001
+"Mesic grasslands","Chaerophyllum aureum","Grassland",0.08,0.874
+"Mesic grasslands","Chaerophyllum bulbosum","Forest",0.0854,0.142
+"Mesic grasslands","Chaerophyllum hirsutum","Grassland",0.0706,0.786
+"Mesic grasslands","Chaiturus marrubiastrum","Grassland",0.0371,1
+"Mesic grasslands","Chelidonium majus","Settlement",0.1399,0.025
+"Mesic grasslands","Chenopodium album aggr.","Settlement",0.1593,0.027
+"Mesic grasslands","Chenopodium opulifolium","Grassland",0.0371,1
+"Mesic grasslands","Chenopodium suecicum","Settlement",0.0949,0.111
+"Mesic grasslands","Chondrilla juncea","Permanent crop",0.1002,0.034
+"Mesic grasslands","Cichorium intybus","Settlement",0.2469,0.001
+"Mesic grasslands","Cirsium arvense","Forest",0.2239,0.625
+"Mesic grasslands","Cirsium brachycephalum","Arable land",0.0359,1
+"Mesic grasslands","Cirsium canum","Forest",0.2731,0.001
+"Mesic grasslands","Cirsium heterophyllum aggr.","Grassland",0.1701,0.07
+"Mesic grasslands","Cirsium oleraceum","Grassland",0.1131,0.462
+"Mesic grasslands","Cirsium palustre","Grassland",0.1955,0.098
+"Mesic grasslands","Cirsium pannonicum","Grassland",0.1786,0.039
+"Mesic grasslands","Cirsium rivulare","Forest",0.157,0.008
+"Mesic grasslands","Cirsium vulgare","Arable land",0.1886,0.012
+"Mesic grasslands","Clematis integrifolia","Permanent crop",0.1048,0.062
+"Mesic grasslands","Clematis recta","Grassland",0.0949,0.285
+"Mesic grasslands","Clematis vitalba","Permanent crop",0.2643,0.001
+"Mesic grasslands","Clinopodium acinos","Settlement",0.0834,0.188
+"Mesic grasslands","Clinopodium vulgare","Permanent crop",0.2006,0.026
+"Mesic grasslands","Colchicum autumnale","Permanent crop",0.3171,0.002
+"Mesic grasslands","Comarum palustre","Grassland",0.0642,0.462
+"Mesic grasslands","Conium maculatum","Permanent crop",0.0992,0.034
+"Mesic grasslands","Consolida regalis","Arable land",0.0469,0.559
+"Mesic grasslands","Convallaria majalis","Forest",0.0953,0.088
+"Mesic grasslands","Convolvulus arvensis","Settlement",0.424,0.001
+"Mesic grasslands","Cornus sanguinea","Permanent crop",0.184,0.003
+"Mesic grasslands","Corylus avellana","Arable land",0.0391,0.945
+"Mesic grasslands","Cota tinctoria","Grassland",0.0371,1
+"Mesic grasslands","Crataegus macrocarpa","Arable land",0.0469,0.542
+"Mesic grasslands","Crataegus monogyna","Permanent crop",0.1804,0.008
+"Mesic grasslands","Crepis biennis","Settlement",0.3936,0.001
+"Mesic grasslands","Crepis capillaris","Settlement",0.0936,0.133
+"Mesic grasslands","Crepis foetida aggr.","Permanent crop",0.099,0.051
+"Mesic grasslands","Crepis mollis","Grassland",0.1818,0.029
+"Mesic grasslands","Crepis paludosa","Arable land",0.0636,0.555
+"Mesic grasslands","Crepis praemorsa aggr.","Forest",0.0825,0.184
+"Mesic grasslands","Crepis tectorum","Arable land",0.0664,0.351
+"Mesic grasslands","Cruciata glabra","Grassland",0.1337,0.311
+"Mesic grasslands","Cruciata laevipes","Permanent crop",0.227,0.001
+"Mesic grasslands","Cruciata pedemontana","Forest",0.1073,0.081
+"Mesic grasslands","Cuscuta epithymum","Settlement",0.0938,0.317
+"Mesic grasslands","Cuscuta europaea","Grassland",0.0371,1
+"Mesic grasslands","Cyclamen purpurascens","Forest",0.0953,0.092
+"Mesic grasslands","Cynodon dactylon","Grassland",0.0497,0.68
+"Mesic grasslands","Cynoglossum officinale","Forest",0.0953,0.087
+"Mesic grasslands","Cynosurus cristatus","Arable land",0.2165,0.103
+"Mesic grasslands","Cytisus hirsutus","Permanent crop",0.0613,0.678
+"Mesic grasslands","Cytisus ratisbonensis","Forest",0.0674,0.26
+"Mesic grasslands","Cytisus scoparius","Arable land",0.0349,1
+"Mesic grasslands","Dactylis glomerata","Forest",0.4489,0.036
+"Mesic grasslands","Dactylorhiza incarnata","Grassland",0.0371,1
+"Mesic grasslands","Dactylorhiza maculata aggr.","Forest",0.0848,0.159
+"Mesic grasslands","Dactylorhiza majalis","Grassland",0.1037,0.188
+"Mesic grasslands","Dactylorhiza sambucina","Forest",0.1168,0.028
+"Mesic grasslands","Danthonia decumbens","Arable land",0.1675,0.044
+"Mesic grasslands","Daphne cneorum","Forest",0.0674,0.262
+"Mesic grasslands","Datura stramonium","Forest",0.0674,0.261
+"Mesic grasslands","Daucus carota","Arable land",0.3617,0.007
+"Mesic grasslands","Deschampsia cespitosa aggr.","Grassland",0.3116,0.006
+"Mesic grasslands","Dianthus armeria","Arable land",0.0469,0.523
+"Mesic grasslands","Dianthus carthusianorum","Permanent crop",0.1375,0.074
+"Mesic grasslands","Dianthus carthusianorum aggr.","Permanent crop",0.2467,0.004
+"Mesic grasslands","Dianthus deltoides","Arable land",0.233,0.014
+"Mesic grasslands","Dianthus seguieri","Forest",0.064,0.491
+"Mesic grasslands","Dianthus superbus","Arable land",0.0839,0.472
+"Mesic grasslands","Digitalis grandiflora","Arable land",0.0469,0.558
+"Mesic grasslands","Digitaria sanguinalis","Grassland",0.0525,0.64
+"Mesic grasslands","Dipsacus laciniatus","Grassland",0.0371,1
+"Mesic grasslands","Dorycnium pentaphyllum","Grassland",0.0371,1
+"Mesic grasslands","Draba nemorosa","Permanent crop",0.1048,0.053
+"Mesic grasslands","Draba verna aggr.","Grassland",0.1266,0.132
+"Mesic grasslands","Drabella muralis","Permanent crop",0.1816,0.001
+"Mesic grasslands","Echinochloa crus-galli","Settlement",0.0949,0.134
+"Mesic grasslands","Echinops sphaerocephalus","Arable land",0.0838,0.161
+"Mesic grasslands","Echium vulgare","Permanent crop",0.1246,0.182
+"Mesic grasslands","Elymus caninus","Grassland",0.0525,0.685
+"Mesic grasslands","Elytrigia intermedia","Permanent crop",0.1549,0.011
+"Mesic grasslands","Elytrigia repens aggr.","Arable land",0.2382,0.755
+"Mesic grasslands","Epilobium angustifolium","Arable land",0.0473,0.917
+"Mesic grasslands","Epilobium ciliatum","Grassland",0.0473,0.902
+"Mesic grasslands","Epilobium hirsutum","Arable land",0.0813,0.212
+"Mesic grasslands","Epilobium montanum","Permanent crop",0.0642,0.597
+"Mesic grasslands","Epilobium palustre","Grassland",0.0697,0.496
+"Mesic grasslands","Epilobium tetragonum","Arable land",0.0377,0.874
+"Mesic grasslands","Epipactis atrorubens","Arable land",0.0469,0.561
+"Mesic grasslands","Epipactis helleborine","Forest",0.047,0.871
+"Mesic grasslands","Epipactis palustris","Arable land",0.0469,0.535
+"Mesic grasslands","Equisetum arvense","Permanent crop",0.3003,0.011
+"Mesic grasslands","Equisetum fluviatile","Grassland",0.0895,0.172
+"Mesic grasslands","Equisetum palustre","Grassland",0.1599,0.044
+"Mesic grasslands","Equisetum pratense","Forest",0.0545,0.498
+"Mesic grasslands","Equisetum ramosissimum","Arable land",0.0469,0.525
+"Mesic grasslands","Equisetum sylvaticum","Grassland",0.0648,0.636
+"Mesic grasslands","Eragrostis minor","Arable land",0.0369,0.894
+"Mesic grasslands","Erigeron acris","Arable land",0.1371,0.042
+"Mesic grasslands","Erigeron annuus","Permanent crop",0.2621,0.001
+"Mesic grasslands","Erigeron canadensis","Settlement",0.1968,0.006
+"Mesic grasslands","Eriophorum angustifolium","Arable land",0.0452,0.952
+"Mesic grasslands","Erodium cicutarium","Forest",0.0724,0.38
+"Mesic grasslands","Eryngium campestre","Arable land",0.2635,0.001
+"Mesic grasslands","Erysimum cheiranthoides","Grassland",0.0525,0.663
+"Mesic grasslands","Erysimum marschallianum","Arable land",0.0469,0.527
+"Mesic grasslands","Euonymus europaeus","Permanent crop",0.1468,0.011
+"Mesic grasslands","Eupatorium cannabinum","Forest",0.0476,0.857
+"Mesic grasslands","Euphorbia cyparissias","Forest",0.2068,0.025
+"Mesic grasslands","Euphorbia dulcis","Permanent crop",0.1248,0.024
+"Mesic grasslands","Euphorbia esula","Grassland",0.2371,0.011
+"Mesic grasslands","Euphorbia helioscopia","Settlement",0.081,0.229
+"Mesic grasslands","Euphorbia illirica","Grassland",0.0525,0.635
+"Mesic grasslands","Euphorbia lucida","Forest",0.0674,0.274
+"Mesic grasslands","Euphorbia palustris","Grassland",0.0371,1
+"Mesic grasslands","Euphorbia peplus","Settlement",0.1342,0.01
+"Mesic grasslands","Euphorbia salicifolia","Permanent crop",0.1048,0.075
+"Mesic grasslands","Euphorbia verrucosa","Arable land",0.0391,0.988
+"Mesic grasslands","Euphrasia nemorosa","Settlement",0.0608,0.679
+"Mesic grasslands","Euphrasia rostkoviana","Arable land",0.1513,0.081
+"Mesic grasslands","Euphrasia stricta","Arable land",0.1455,0.026
+"Mesic grasslands","Fagus sylvatica","Forest",0.0491,0.768
+"Mesic grasslands","Falcaria vulgaris","Permanent crop",0.2013,0.009
+"Mesic grasslands","Fallopia convolvulus","Arable land",0.2074,0.004
+"Mesic grasslands","Fallopia dumetorum","Forest",0.0536,0.688
+"Mesic grasslands","Festuca filiformis","Grassland",0.0572,0.912
+"Mesic grasslands","Festuca heterophylla","Forest",0.0661,0.327
+"Mesic grasslands","Festuca ovina","Arable land",0.2621,0.006
+"Mesic grasslands","Festuca pallens","Grassland",0.0371,1
+"Mesic grasslands","Festuca rubra aggr.","Grassland",0.4707,0.001
+"Mesic grasslands","Festuca stricta subsp. sulcata","Permanent crop",0.2837,0.011
+"Mesic grasslands","Festuca stricta subsp. trachyphylla","Settlement",0.1002,0.192
+"Mesic grasslands","Festuca valesiaca aggr.","Grassland",0.0682,0.773
+"Mesic grasslands","Ficaria calthifolia","Forest",0.0804,0.229
+"Mesic grasslands","Ficaria verna","Forest",0.1188,0.262
+"Mesic grasslands","Filago arvensis","Permanent crop",0.1386,0.008
+"Mesic grasslands","Filago germanica","Grassland",0.0494,0.832
+"Mesic grasslands","Filago minima","Arable land",0.0469,0.532
+"Mesic grasslands","Filipendula ulmaria","Grassland",0.1832,0.102
+"Mesic grasslands","Filipendula vulgaris","Permanent crop",0.2968,0.001
+"Mesic grasslands","Fragaria moschata","Permanent crop",0.117,0.059
+"Mesic grasslands","Fragaria vesca","Arable land",0.1697,0.226
+"Mesic grasslands","Fragaria viridis","Grassland",0.2149,0.092
+"Mesic grasslands","Fraxinus angustifolia","Grassland",0.0833,0.372
+"Mesic grasslands","Fraxinus excelsior","Forest",0.135,0.105
+"Mesic grasslands","Fumaria officinalis","Arable land",0.0939,0.082
+"Mesic grasslands","Galanthus nivalis","Forest",0.0674,0.284
+"Mesic grasslands","Galega officinalis","Grassland",0.0371,1
+"Mesic grasslands","Galeopsis ladanum","Grassland",0.0371,1
+"Mesic grasslands","Galeopsis pubescens","Forest",0.0674,0.261
+"Mesic grasslands","Galeopsis speciosa","Grassland",0.0371,1
+"Mesic grasslands","Galeopsis tetrahit aggr.","Grassland",0.0748,0.822
+"Mesic grasslands","Galinsoga quadriradiata","Settlement",0.0837,0.235
+"Mesic grasslands","Galium album","Settlement",0.1244,0.94
+"Mesic grasslands","Galium aparine","Permanent crop",0.133,0.491
+"Mesic grasslands","Galium austriacum","Permanent crop",0.1444,0.004
+"Mesic grasslands","Galium boreale","Grassland",0.2329,0.02
+"Mesic grasslands","Galium glaucum","Grassland",0.0371,1
+"Mesic grasslands","Galium mollugo aggr.","Permanent crop",0.3912,0.034
+"Mesic grasslands","Galium odoratum","Arable land",0.0469,0.543
+"Mesic grasslands","Galium palustre aggr.","Grassland",0.1216,0.121
+"Mesic grasslands","Galium pumilum","Settlement",0.2413,0.009
+"Mesic grasslands","Galium rivale","Forest",0.1281,0.022
+"Mesic grasslands","Galium rubioides","Forest",0.0953,0.077
+"Mesic grasslands","Galium saxatile","Forest",0.0674,0.222
+"Mesic grasslands","Galium spurium","Arable land",0.0469,0.555
+"Mesic grasslands","Galium sylvaticum","Grassland",0.0371,1
+"Mesic grasslands","Galium uliginosum","Grassland",0.2361,0.021
+"Mesic grasslands","Galium verum","Arable land",0.2709,0.22
+"Mesic grasslands","Galium x pomeranicum","Arable land",0.0469,0.513
+"Mesic grasslands","Genista germanica","Forest",0.0829,0.298
+"Mesic grasslands","Genista pilosa","Forest",0.0674,0.262
+"Mesic grasslands","Genista tinctoria","Arable land",0.1032,0.45
+"Mesic grasslands","Gentiana pannonica","Forest",0.0876,0.119
+"Mesic grasslands","Gentiana pneumonanthe","Arable land",0.0469,0.532
+"Mesic grasslands","Gentianella amarella","Forest",0.0674,0.252
+"Mesic grasslands","Gentianella austriaca","Arable land",0.0784,0.668
+"Mesic grasslands","Geranium columbinum","Arable land",0.0387,0.888
+"Mesic grasslands","Geranium dissectum","Settlement",0.0674,0.362
+"Mesic grasslands","Geranium palustre","Forest",0.0546,0.722
+"Mesic grasslands","Geranium phaeum","Arable land",0.0664,0.278
+"Mesic grasslands","Geranium pratense","Settlement",0.2962,0.003
+"Mesic grasslands","Geranium pusillum","Settlement",0.2373,0.001
+"Mesic grasslands","Geranium pyrenaicum","Grassland",0.0824,0.236
+"Mesic grasslands","Geranium robertianum","Settlement",0.0693,0.464
+"Mesic grasslands","Geranium sanguineum","Grassland",0.1792,0.021
+"Mesic grasslands","Geranium sylvaticum aggr.","Grassland",0.0695,0.743
+"Mesic grasslands","Geum rivale","Grassland",0.0917,0.297
+"Mesic grasslands","Geum urbanum","Settlement",0.1829,0.039
+"Mesic grasslands","Glechoma hederacea","Settlement",0.3631,0.001
+"Mesic grasslands","Glechoma hirsuta","Arable land",0.0469,0.567
+"Mesic grasslands","Glyceria declinata","Grassland",0.0525,0.614
+"Mesic grasslands","Glyceria fluitans aggr.","Forest",0.0591,0.625
+"Mesic grasslands","Glyceria maxima","Grassland",0.0525,0.652
+"Mesic grasslands","Gnaphalium sylvaticum","Arable land",0.1025,0.22
+"Mesic grasslands","Gnaphalium uliginosum","Forest",0.0609,0.42
+"Mesic grasslands","Gymnadenia conopsea","Forest",0.0786,0.241
+"Mesic grasslands","Gypsophila muralis","Forest",0.0599,0.404
+"Mesic grasslands","Hedera helix aggr.","Permanent crop",0.1048,0.045
+"Mesic grasslands","Helianthemum nummularium","Arable land",0.1127,0.416
+"Mesic grasslands","Helianthus tuberosus","Settlement",0.1342,0.01
+"Mesic grasslands","Helictochloa pratensis","Settlement",0.0606,0.769
+"Mesic grasslands","Hepatica nobilis","Permanent crop",0.1363,0.008
+"Mesic grasslands","Heracleum sphondylium","Permanent crop",0.3405,0.024
+"Mesic grasslands","Herniaria glabra","Grassland",0.0584,0.548
+"Mesic grasslands","Hesperis tristis","Forest",0.0674,0.283
+"Mesic grasslands","Hieracium lachenalii","Grassland",0.0725,0.538
+"Mesic grasslands","Hieracium laevigatum","Arable land",0.0528,0.672
+"Mesic grasslands","Hieracium murorum","Grassland",0.0371,1
+"Mesic grasslands","Hieracium sabaudum","Arable land",0.0935,0.382
+"Mesic grasslands","Hieracium umbellatum","Arable land",0.1363,0.159
+"Mesic grasslands","Holcus lanatus","Grassland",0.2988,0.464
+"Mesic grasslands","Holcus mollis","Forest",0.1739,0.277
+"Mesic grasslands","Holosteum umbellatum","Settlement",0.1108,0.054
+"Mesic grasslands","Homogyne alpina","Forest",0.0674,0.222
+"Mesic grasslands","Hordeum murinum","Permanent crop",0.085,0.143
+"Mesic grasslands","Humulus lupulus","Arable land",0.0355,1
+"Mesic grasslands","Hylotelephium maximum","Arable land",0.0704,0.602
+"Mesic grasslands","Hylotelephium telephium","Grassland",0.0365,1
+"Mesic grasslands","Hyoscyamus albus","Forest",0.0953,0.089
+"Mesic grasslands","Hypericum hirsutum","Permanent crop",0.1048,0.075
+"Mesic grasslands","Hypericum humifusum","Forest",0.0674,0.248
+"Mesic grasslands","Hypericum maculatum aggr.","Grassland",0.2704,0.016
+"Mesic grasslands","Hypericum perforatum","Arable land",0.3276,0.004
+"Mesic grasslands","Hypericum tetrapterum","Arable land",0.0499,0.791
+"Mesic grasslands","Hypochaeris maculata","Grassland",0.0525,0.648
+"Mesic grasslands","Hypochaeris radicata","Arable land",0.1946,0.043
+"Mesic grasslands","Impatiens noli-tangere","Grassland",0.0525,0.732
+"Mesic grasslands","Impatiens parviflora","Arable land",0.0469,0.552
+"Mesic grasslands","Inula britannica","Arable land",0.0677,0.6
+"Mesic grasslands","Inula conyzae","Grassland",0.0494,0.865
+"Mesic grasslands","Inula salicina","Permanent crop",0.1498,0.145
+"Mesic grasslands","Iris graminea","Grassland",0.0371,1
+"Mesic grasslands","Iris pseudacorus","Forest",0.0606,0.407
+"Mesic grasslands","Iris sibirica","Grassland",0.1044,0.145
+"Mesic grasslands","Iris variegata","Grassland",0.0371,1
+"Mesic grasslands","Isolepis setacea","Grassland",0.0371,1
+"Mesic grasslands","Jacobaea aquatica","Arable land",0.1212,0.232
+"Mesic grasslands","Jacobaea erratica","Forest",0.0675,0.55
+"Mesic grasslands","Jacobaea vulgaris","Arable land",0.1601,0.024
+"Mesic grasslands","Jasione montana","Arable land",0.0842,0.314
+"Mesic grasslands","Juglans regia","Arable land",0.0411,0.867
+"Mesic grasslands","Juncus acutiflorus","Grassland",0.0371,1
+"Mesic grasslands","Juncus articulatus","Grassland",0.0913,0.308
+"Mesic grasslands","Juncus bufonius aggr.","Forest",0.0649,0.39
+"Mesic grasslands","Juncus compressus","Grassland",0.0371,1
+"Mesic grasslands","Juncus conglomeratus","Grassland",0.1045,0.734
+"Mesic grasslands","Juncus effusus","Grassland",0.1755,0.052
+"Mesic grasslands","Juncus filiformis","Grassland",0.121,0.348
+"Mesic grasslands","Juncus inflexus","Grassland",0.0371,1
+"Mesic grasslands","Juncus tenuis","Forest",0.1493,0.006
+"Mesic grasslands","Juniperus communis subsp. communis","Arable land",0.0469,0.561
+"Mesic grasslands","Klasea lycopifolia","Grassland",0.0525,0.623
+"Mesic grasslands","Knautia arvensis","Permanent crop",0.4068,0.001
+"Mesic grasslands","Knautia drymeia","Permanent crop",0.2605,0.001
+"Mesic grasslands","Knautia kitaibelii","Grassland",0.07,0.465
+"Mesic grasslands","Knautia maxima","Forest",0.0942,0.212
+"Mesic grasslands","Koeleria macrantha","Grassland",0.066,0.679
+"Mesic grasslands","Koeleria pyramidata","Arable land",0.1711,0.058
+"Mesic grasslands","Lactuca serriola","Settlement",0.1238,0.143
+"Mesic grasslands","Lamium album","Settlement",0.2232,0.002
+"Mesic grasslands","Lamium amplexicaule","Grassland",0.0371,1
+"Mesic grasslands","Lamium galeobdolon","Forest",0.0674,0.265
+"Mesic grasslands","Lamium maculatum","Permanent crop",0.0822,0.376
+"Mesic grasslands","Lamium purpureum","Settlement",0.1583,0.009
+"Mesic grasslands","Lapsana communis","Settlement",0.1545,0.005
+"Mesic grasslands","Larix decidua","Arable land",0.0664,0.315
+"Mesic grasslands","Laserpitium latifolium","Grassland",0.0371,1
+"Mesic grasslands","Laserpitium prutenicum","Forest",0.0434,0.846
+"Mesic grasslands","Lathyrus latifolius","Permanent crop",0.2107,0.004
+"Mesic grasslands","Lathyrus niger","Grassland",0.1063,0.13
+"Mesic grasslands","Lathyrus palustris","Forest",0.0602,0.414
+"Mesic grasslands","Lathyrus pratensis","Forest",0.3663,0.013
+"Mesic grasslands","Lathyrus sylvestris","Permanent crop",0.1902,0.003
+"Mesic grasslands","Lathyrus tuberosus","Permanent crop",0.1596,0.029
+"Mesic grasslands","Leersia oryzoides","Grassland",0.0371,1
+"Mesic grasslands","Lembotropis nigricans","Forest",0.0935,0.091
+"Mesic grasslands","Leontodon hispidus","Arable land",0.3788,0.006
+"Mesic grasslands","Leopoldia comosa","Permanent crop",0.0728,0.348
+"Mesic grasslands","Lepidium campestre","Arable land",0.0469,0.519
+"Mesic grasslands","Lepidium draba","Arable land",0.0659,0.476
+"Mesic grasslands","Lepidium ruderale","Grassland",0.0371,1
+"Mesic grasslands","Leucanthemum vulgare aggr.","Forest",0.3346,0.074
+"Mesic grasslands","Ligustrum vulgare","Forest",0.1,0.096
+"Mesic grasslands","Lilium bulbiferum","Arable land",0.0295,1
+"Mesic grasslands","Lilium martagon","Grassland",0.0642,0.445
+"Mesic grasslands","Linaria genistifolia","Grassland",0.0371,1
+"Mesic grasslands","Linaria vulgaris","Arable land",0.1733,0.04
+"Mesic grasslands","Linum catharticum","Arable land",0.1458,0.38
+"Mesic grasslands","Lithospermum officinale","Grassland",0.0371,1
+"Mesic grasslands","Lolium multiflorum","Grassland",0.0547,0.812
+"Mesic grasslands","Lolium perenne","Settlement",0.5236,0.001
+"Mesic grasslands","Lotus borbasii","Grassland",0.0371,1
+"Mesic grasslands","Lotus corniculatus","Arable land",0.433,0.001
+"Mesic grasslands","Lotus maritimus","Grassland",0.0904,0.364
+"Mesic grasslands","Lotus pedunculatus","Grassland",0.0712,0.586
+"Mesic grasslands","Lotus tenuis","Grassland",0.0583,0.743
+"Mesic grasslands","Lupinus polyphyllus","Settlement",0.0638,0.635
+"Mesic grasslands","Luzula campestris aggr.","Grassland",0.3177,0.099
+"Mesic grasslands","Luzula forsteri","Arable land",0.0469,0.527
+"Mesic grasslands","Luzula luzuloides","Arable land",0.0969,0.289
+"Mesic grasslands","Luzula pilosa","Forest",0.0735,0.406
+"Mesic grasslands","Luzula sylvatica","Forest",0.0538,0.714
+"Mesic grasslands","Lycopus europaeus","Permanent crop",0.1,0.038
+"Mesic grasslands","Lysimachia nemorum","Forest",0.0571,0.487
+"Mesic grasslands","Lysimachia nummularia","Grassland",0.1669,0.382
+"Mesic grasslands","Lysimachia punctata","Forest",0.062,0.403
+"Mesic grasslands","Lysimachia thyrsiflora","Arable land",0.0469,0.53
+"Mesic grasslands","Lysimachia vulgaris","Grassland",0.1391,0.086
+"Mesic grasslands","Lythrum salicaria","Permanent crop",0.0727,0.55
+"Mesic grasslands","Lythrum virgatum","Forest",0.0501,0.761
+"Mesic grasslands","Malus pumila","Arable land",0.037,0.869
+"Mesic grasslands","Malus sylvestris","Forest",0.06,0.431
+"Mesic grasslands","Malva alcea","Grassland",0.0371,1
+"Mesic grasslands","Malva moschata","Grassland",0.0742,0.376
+"Mesic grasslands","Malva neglecta","Settlement",0.0856,0.219
+"Mesic grasslands","Malva sylvestris","Grassland",0.0525,0.72
+"Mesic grasslands","Matricaria discoidea","Settlement",0.0554,0.816
+"Mesic grasslands","Medicago falcata","Permanent crop",0.3105,0.001
+"Mesic grasslands","Medicago lupulina","Permanent crop",0.3526,0.002
+"Mesic grasslands","Medicago minima","Grassland",0.0525,0.7
+"Mesic grasslands","Medicago x varia","Permanent crop",0.4241,0.001
+"Mesic grasslands","Melampyrum arvense","Permanent crop",0.0892,0.14
+"Mesic grasslands","Melampyrum nemorosum aggr.","Arable land",0.0725,0.557
+"Mesic grasslands","Melampyrum pratense","Forest",0.0418,0.884
+"Mesic grasslands","Melampyrum sylvaticum","Forest",0.0674,0.266
+"Mesic grasslands","Melica nutans","Forest",0.0674,0.265
+"Mesic grasslands","Melica transsilvanica","Permanent crop",0.0833,0.181
+"Mesic grasslands","Melilotus albus","Arable land",0.0386,0.891
+"Mesic grasslands","Melilotus dentatus","Arable land",0.0377,0.872
+"Mesic grasslands","Melilotus indicus","Grassland",0.0371,1
+"Mesic grasslands","Melilotus officinalis","Permanent crop",0.0721,0.646
+"Mesic grasslands","Mentha aquatica","Forest",0.0609,0.532
+"Mesic grasslands","Mentha arvensis","Grassland",0.153,0.099
+"Mesic grasslands","Mentha longifolia","Permanent crop",0.1384,0.018
+"Mesic grasslands","Mentha x verticillata aggr.","Settlement",0.0924,0.259
+"Mesic grasslands","Mercurialis annua","Grassland",0.0371,1
+"Mesic grasslands","Mimulus guttatus","Grassland",0.0371,1
+"Mesic grasslands","Molinia caerulea aggr.","Grassland",0.1481,0.314
+"Mesic grasslands","Muscari botryoides","Grassland",0.0371,1
+"Mesic grasslands","Myosotis arvensis","Grassland",0.1754,0.16
+"Mesic grasslands","Myosotis discolor","Grassland",0.0768,0.625
+"Mesic grasslands","Myosotis ramosissima","Forest",0.2173,0.001
+"Mesic grasslands","Myosotis scorpioides aggr.","Grassland",0.2013,0.16
+"Mesic grasslands","Myosotis sparsiflora","Forest",0.0953,0.095
+"Mesic grasslands","Myosotis stricta","Arable land",0.0538,0.931
+"Mesic grasslands","Myosotis sylvatica","Settlement",0.1137,0.113
+"Mesic grasslands","Myosoton aquaticum","Permanent crop",0.0815,0.246
+"Mesic grasslands","Myrrhis odorata","Grassland",0.0371,1
+"Mesic grasslands","Nardus stricta","Forest",0.1799,0.178
+"Mesic grasslands","Neotinea tridentata","Forest",0.0919,0.085
+"Mesic grasslands","Neotinea ustulata","Grassland",0.0467,0.806
+"Mesic grasslands","Neottia ovata","Permanent crop",0.0701,0.779
+"Mesic grasslands","Nepeta nuda","Grassland",0.0371,1
+"Mesic grasslands","Neslia paniculata","Grassland",0.0371,1
+"Mesic grasslands","Noccaea caerulescens","Forest",0.109,0.129
+"Mesic grasslands","Noccaea perfoliata","Forest",0.0947,0.21
+"Mesic grasslands","Nonea pulla","Arable land",0.0469,0.562
+"Mesic grasslands","Ochlopoa annua","Settlement",0.2374,0.002
+"Mesic grasslands","Ochlopoa supina","Forest",0.0953,0.082
+"Mesic grasslands","Odontites vulgaris aggr.","Grassland",0.0894,0.387
+"Mesic grasslands","Oenothera biennis","Permanent crop",0.0946,0.108
+"Mesic grasslands","Onobrychis arenaria","Arable land",0.0846,0.171
+"Mesic grasslands","Onobrychis viciifolia","Permanent crop",0.5234,0.001
+"Mesic grasslands","Ononis spinosa","Permanent crop",0.3604,0.001
+"Mesic grasslands","Onopordum acanthium","Grassland",0.0525,0.689
+"Mesic grasslands","Ophioglossum vulgatum","Forest",0.1246,0.055
+"Mesic grasslands","Orchis mascula","Settlement",0.0875,0.184
+"Mesic grasslands","Origanum vulgare","Permanent crop",0.1404,0.047
+"Mesic grasslands","Ornithogalum sphaerocarpum","Arable land",0.0469,0.559
+"Mesic grasslands","Ornithogalum umbellatum","Forest",0.1821,0.004
+"Mesic grasslands","Orobanche gracilis","Forest",0.0674,0.262
+"Mesic grasslands","Orobanche lutea","Permanent crop",0.1482,0.004
+"Mesic grasslands","Orthilia secunda","Arable land",0.0469,0.561
+"Mesic grasslands","Oxalis corniculata","Grassland",0.0371,1
+"Mesic grasslands","Oxalis dillenii","Forest",0.0953,0.095
+"Mesic grasslands","Oxalis stricta","Settlement",0.093,0.117
+"Mesic grasslands","Oxybasis chenopodioides","Arable land",0.0469,0.559
+"Mesic grasslands","Panicum miliaceum","Forest",0.0674,0.261
+"Mesic grasslands","Papaver rhoeas","Permanent crop",0.0746,0.34
+"Mesic grasslands","Parthenocissus quinquefolia aggr.","Arable land",0.0469,0.556
+"Mesic grasslands","Pastinaca sativa","Settlement",0.4962,0.001
+"Mesic grasslands","Pedicularis sylvatica","Grassland",0.0371,1
+"Mesic grasslands","Persicaria amphibia","Settlement",0.0856,0.383
+"Mesic grasslands","Persicaria hydropiper","Grassland",0.0371,1
+"Mesic grasslands","Persicaria maculosa","Grassland",0.0371,1
+"Mesic grasslands","Persicaria minor","Grassland",0.0525,0.701
+"Mesic grasslands","Petasites albus","Permanent crop",0.1048,0.061
+"Mesic grasslands","Petasites hybridus","Grassland",0.0348,0.938
+"Mesic grasslands","Petrorhagia prolifera","Permanent crop",0.0636,0.496
+"Mesic grasslands","Petrorhagia saxifraga","Arable land",0.0469,0.547
+"Mesic grasslands","Peucedanum alsaticum","Permanent crop",0.067,0.509
+"Mesic grasslands","Peucedanum austriacum","Arable land",0.0469,0.513
+"Mesic grasslands","Peucedanum cervaria","Grassland",0.1481,0.021
+"Mesic grasslands","Peucedanum oreoselinum","Permanent crop",0.1306,0.09
+"Mesic grasslands","Peucedanum palustre","Forest",0.0953,0.099
+"Mesic grasslands","Phalaroides arundinacea","Forest",0.1244,0.144
+"Mesic grasslands","Phleum alpinum aggr.","Grassland",0.0371,1
+"Mesic grasslands","Phleum nodosum","Grassland",0.0371,1
+"Mesic grasslands","Phleum phleoides","Settlement",0.0567,0.849
+"Mesic grasslands","Phleum pratense","Arable land",0.221,0.198
+"Mesic grasslands","Phlomis tuberosa","Arable land",0.0469,0.525
+"Mesic grasslands","Phragmites australis","Permanent crop",0.1516,0.024
+"Mesic grasslands","Physalis alkekengi","Forest",0.0674,0.261
+"Mesic grasslands","Phyteuma nigrum","Arable land",0.1511,0.142
+"Mesic grasslands","Phyteuma orbiculare","Arable land",0.0469,0.549
+"Mesic grasslands","Phyteuma spicatum","Grassland",0.0664,0.543
+"Mesic grasslands","Picea abies","Forest",0.0797,0.547
+"Mesic grasslands","Picris hieracioides","Arable land",0.2794,0.001
+"Mesic grasslands","Pilosella acutifolia","Grassland",0.0371,1
+"Mesic grasslands","Pilosella aurantiaca","Grassland",0.0371,1
+"Mesic grasslands","Pilosella bauhini","Forest",0.0819,0.52
+"Mesic grasslands","Pilosella caespitosa","Forest",0.0466,0.895
+"Mesic grasslands","Pilosella echioides","Arable land",0.0469,0.538
+"Mesic grasslands","Pilosella floribunda","Permanent crop",0.1874,0.001
+"Mesic grasslands","Pilosella lactucella","Arable land",0.0551,0.627
+"Mesic grasslands","Pilosella officinarum","Arable land",0.1747,0.207
+"Mesic grasslands","Pimpinella major","Forest",0.2739,0.037
+"Mesic grasslands","Pimpinella nigra","Grassland",0.0525,0.766
+"Mesic grasslands","Pimpinella saxifraga","Arable land",0.2999,0.021
+"Mesic grasslands","Pinus sylvestris","Arable land",0.0842,0.38
+"Mesic grasslands","Plantago lanceolata","Arable land",0.4864,0.002
+"Mesic grasslands","Plantago major","Settlement",0.2599,0.019
+"Mesic grasslands","Plantago maritima","Grassland",0.0468,0.887
+"Mesic grasslands","Plantago media","Settlement",0.2954,0.009
+"Mesic grasslands","Platanthera bifolia","Grassland",0.049,0.862
+"Mesic grasslands","Poa bulbosa","Settlement",0.0949,0.12
+"Mesic grasslands","Poa chaixii","Grassland",0.1314,0.124
+"Mesic grasslands","Poa compressa","Arable land",0.1035,0.406
+"Mesic grasslands","Poa nemoralis","Arable land",0.0526,0.923
+"Mesic grasslands","Poa palustris","Arable land",0.1063,0.511
+"Mesic grasslands","Poa pratensis aggr.","Forest",0.462,0.009
+"Mesic grasslands","Poa trivialis","Forest",0.2564,0.086
+"Mesic grasslands","Polycnemum majus","Forest",0.0674,0.272
+"Mesic grasslands","Polygala amara","Forest",0.0674,0.253
+"Mesic grasslands","Polygala amarella","Arable land",0.0469,0.538
+"Mesic grasslands","Polygala comosa","Forest",0.1478,0.037
+"Mesic grasslands","Polygala major","Permanent crop",0.0739,0.397
+"Mesic grasslands","Polygala vulgaris","Forest",0.1674,0.1
+"Mesic grasslands","Polygonatum odoratum","Grassland",0.0371,1
+"Mesic grasslands","Polygonum aviculare aggr.","Settlement",0.17,0.055
+"Mesic grasslands","Populus alba","Forest",0.0913,0.163
+"Mesic grasslands","Populus nigra","Grassland",0.0371,1
+"Mesic grasslands","Populus tremula","Forest",0.1044,0.287
+"Mesic grasslands","Populus x canadensis","Grassland",0.0371,1
+"Mesic grasslands","Potentilla alba","Grassland",0.2115,0.008
+"Mesic grasslands","Potentilla argentea","Arable land",0.2058,0.059
+"Mesic grasslands","Potentilla erecta","Grassland",0.294,0.005
+"Mesic grasslands","Potentilla heptaphylla","Grassland",0.0962,0.482
+"Mesic grasslands","Potentilla incana","Permanent crop",0.0959,0.111
+"Mesic grasslands","Potentilla inclinata","Arable land",0.0469,0.572
+"Mesic grasslands","Potentilla norvegica","Grassland",0.0371,1
+"Mesic grasslands","Potentilla pusilla","Arable land",0.0355,1
+"Mesic grasslands","Potentilla recta","Permanent crop",0.1683,0.005
+"Mesic grasslands","Potentilla reptans","Settlement",0.2641,0.002
+"Mesic grasslands","Potentilla sterilis","Arable land",0.0813,0.284
+"Mesic grasslands","Potentilla supina","Grassland",0.0371,1
+"Mesic grasslands","Potentilla tabernaemontani","Arable land",0.1759,0.032
+"Mesic grasslands","Primula acaulis","Forest",0.0674,0.266
+"Mesic grasslands","Primula elatior","Forest",0.1203,0.083
+"Mesic grasslands","Primula veris","Permanent crop",0.3075,0.001
+"Mesic grasslands","Prunella grandiflora","Settlement",0.0536,0.969
+"Mesic grasslands","Prunella vulgaris","Settlement",0.2503,0.435
+"Mesic grasslands","Prunus avium","Permanent crop",0.069,0.636
+"Mesic grasslands","Prunus cerasifera","Permanent crop",0.0915,0.089
+"Mesic grasslands","Prunus cerasus","Arable land",0.0397,0.885
+"Mesic grasslands","Prunus domestica","Arable land",0.099,0.17
+"Mesic grasslands","Prunus fruticosa","Grassland",0.0371,1
+"Mesic grasslands","Prunus spinosa","Permanent crop",0.0884,0.574
+"Mesic grasslands","Puccinellia distans","Arable land",0.0469,0.559
+"Mesic grasslands","Pulicaria dysenterica","Arable land",0.0371,0.881
+"Mesic grasslands","Pulmonaria angustifolia","Grassland",0.0908,0.133
+"Mesic grasslands","Pulmonaria mollis","Grassland",0.1586,0.034
+"Mesic grasslands","Pulmonaria officinalis","Permanent crop",0.0705,0.391
+"Mesic grasslands","Pulsatilla vulgaris","Arable land",0.0336,1
+"Mesic grasslands","Pyrus communis","Permanent crop",0.086,0.175
+"Mesic grasslands","Quercus cerris","Grassland",0.0525,0.613
+"Mesic grasslands","Quercus dalechampii","Forest",0.0674,0.262
+"Mesic grasslands","Quercus petraea","Permanent crop",0.1246,0.064
+"Mesic grasslands","Quercus pubescens","Grassland",0.0371,1
+"Mesic grasslands","Quercus robur","Forest",0.1057,0.464
+"Mesic grasslands","Ranunculus acris aggr.","Forest",0.4099,0.006
+"Mesic grasslands","Ranunculus auricomus aggr.","Grassland",0.3143,0.002
+"Mesic grasslands","Ranunculus bulbosus","Permanent crop",0.2012,0.145
+"Mesic grasslands","Ranunculus flammula","Grassland",0.1277,0.054
+"Mesic grasslands","Ranunculus illyricus","Grassland",0.0371,1
+"Mesic grasslands","Ranunculus polyanthemos","Permanent crop",0.3478,0.001
+"Mesic grasslands","Ranunculus repens","Forest",0.2617,0.087
+"Mesic grasslands","Ranunculus sardous","Grassland",0.0371,1
+"Mesic grasslands","Raphanus raphanistrum","Arable land",0.0664,0.272
+"Mesic grasslands","Rapistrum perenne","Permanent crop",0.1004,0.055
+"Mesic grasslands","Reseda lutea","Settlement",0.0698,0.436
+"Mesic grasslands","Rhamnus cathartica","Grassland",0.062,0.715
+"Mesic grasslands","Rhinanthus alectorolophus","Arable land",0.1001,0.143
+"Mesic grasslands","Rhinanthus angustifolius","Permanent crop",0.1001,0.34
+"Mesic grasslands","Rhinanthus minor","Permanent crop",0.3151,0.009
+"Mesic grasslands","Robinia pseudoacacia","Settlement",0.1342,0.009
+"Mesic grasslands","Rorippa austriaca","Forest",0.0435,0.886
+"Mesic grasslands","Rorippa palustris","Forest",0.0674,0.265
+"Mesic grasslands","Rorippa sylvestris","Forest",0.0757,0.352
+"Mesic grasslands","Rosa canina","Permanent crop",0.1344,0.106
+"Mesic grasslands","Rosa canina aggr.","Arable land",0.2622,0.002
+"Mesic grasslands","Rosa gallica","Grassland",0.0371,1
+"Mesic grasslands","Rosa pendulina","Grassland",0.0525,0.739
+"Mesic grasslands","Rubus caesius","Arable land",0.1232,0.174
+"Mesic grasslands","Rubus fruticosus aggr.","Forest",0.0795,0.338
+"Mesic grasslands","Rubus idaeus","Grassland",0.0572,0.872
+"Mesic grasslands","Rumex acetosa","Grassland",0.4311,0.003
+"Mesic grasslands","Rumex acetosella","Forest",0.1464,0.578
+"Mesic grasslands","Rumex arifolius","Grassland",0.0371,1
+"Mesic grasslands","Rumex conglomeratus","Arable land",0.0469,0.53
+"Mesic grasslands","Rumex crispus","Forest",0.1186,0.387
+"Mesic grasslands","Rumex maritimus","Arable land",0.0469,0.532
+"Mesic grasslands","Rumex obtusifolius","Arable land",0.1689,0.163
+"Mesic grasslands","Rumex sanguineus","Arable land",0.0469,0.552
+"Mesic grasslands","Rumex thyrsiflorus","Permanent crop",0.126,0.132
+"Mesic grasslands","Sagina apetala","Forest",0.0674,0.237
+"Mesic grasslands","Sagina procumbens","Grassland",0.0816,0.688
+"Mesic grasslands","Salix aurita","Grassland",0.0642,0.468
+"Mesic grasslands","Salix caprea","Arable land",0.1901,0.003
+"Mesic grasslands","Salix cinerea subsp. cinerea","Grassland",0.0742,0.405
+"Mesic grasslands","Salix euxina","Grassland",0.0371,1
+"Mesic grasslands","Salix repens","Forest",0.048,0.706
+"Mesic grasslands","Salvia glutinosa","Permanent crop",0.2788,0.001
+"Mesic grasslands","Salvia nemorosa","Grassland",0.0893,0.273
+"Mesic grasslands","Salvia pratensis","Permanent crop",0.5546,0.001
+"Mesic grasslands","Salvia verticillata","Permanent crop",0.3782,0.001
+"Mesic grasslands","Sambucus nigra","Grassland",0.0305,1
+"Mesic grasslands","Sanguisorba minor aggr.","Arable land",0.3293,0.001
+"Mesic grasslands","Sanguisorba officinalis","Grassland",0.3056,0.014
+"Mesic grasslands","Saponaria officinalis","Permanent crop",0.0567,0.772
+"Mesic grasslands","Saxifraga bulbifera","Permanent crop",0.1232,0.098
+"Mesic grasslands","Saxifraga granulata","Arable land",0.1646,0.135
+"Mesic grasslands","Scabiosa canescens","Forest",0.0674,0.27
+"Mesic grasslands","Scabiosa columbaria aggr.","Forest",0.0688,0.475
+"Mesic grasslands","Scabiosa ochroleuca","Settlement",0.0942,0.569
+"Mesic grasslands","Schedonorus arundinaceus","Arable land",0.1296,0.26
+"Mesic grasslands","Schedonorus giganteus","Settlement",0.0883,0.143
+"Mesic grasslands","Schedonorus pratensis","Permanent crop",0.4132,0.005
+"Mesic grasslands","Schoenoplectus lacustris subsp. glaucus","Arable land",0.0469,0.559
+"Mesic grasslands","Scirpoides holoschoenus","Grassland",0.0525,0.632
+"Mesic grasslands","Scirpus sylvaticus","Grassland",0.1883,0.017
+"Mesic grasslands","Scleranthus annuus","Grassland",0.059,0.795
+"Mesic grasslands","Scleranthus perennis","Grassland",0.0525,0.626
+"Mesic grasslands","Scorzonera cana","Settlement",0.0867,0.194
+"Mesic grasslands","Scorzonera humilis","Grassland",0.1268,0.293
+"Mesic grasslands","Scorzoneroides autumnalis","Settlement",0.3368,0.001
+"Mesic grasslands","Scrophularia nodosa","Arable land",0.038,0.908
+"Mesic grasslands","Scrophularia umbrosa","Permanent crop",0.1048,0.065
+"Mesic grasslands","Scutellaria hastifolia","Forest",0.0946,0.163
+"Mesic grasslands","Securigera varia","Arable land",0.3209,0.002
+"Mesic grasslands","Sedum acre","Arable land",0.0982,0.26
+"Mesic grasslands","Sedum album","Grassland",0.0371,1
+"Mesic grasslands","Sedum sexangulare","Permanent crop",0.1078,0.146
+"Mesic grasslands","Sedum spurium","Grassland",0.0371,1
+"Mesic grasslands","Selinum carvifolia","Grassland",0.1405,0.163
+"Mesic grasslands","Selinum dubium","Forest",0.1177,0.136
+"Mesic grasslands","Senecio doria aggr.","Grassland",0.0371,1
+"Mesic grasslands","Senecio nemorensis aggr.","Forest",0.0841,0.195
+"Mesic grasslands","Senecio sarracenicus","Forest",0.0674,0.265
+"Mesic grasslands","Senecio vulgaris","Arable land",0.0573,0.654
+"Mesic grasslands","Serratula tinctoria","Grassland",0.2103,0.022
+"Mesic grasslands","Seseli annuum","Forest",0.0907,0.105
+"Mesic grasslands","Seseli libanotis","Permanent crop",0.1885,0.002
+"Mesic grasslands","Seseli osseum","Grassland",0.0371,1
+"Mesic grasslands","Setaria pumila","Grassland",0.0442,0.972
+"Mesic grasslands","Setaria verticillata","Settlement",0.1342,0.008
+"Mesic grasslands","Setaria viridis","Settlement",0.075,0.334
+"Mesic grasslands","Silaum silaus","Forest",0.1716,0.007
+"Mesic grasslands","Silene baccifera","Arable land",0.0469,0.533
+"Mesic grasslands","Silene dioica","Arable land",0.0716,0.678
+"Mesic grasslands","Silene flos-cuculi","Grassland",0.3076,0.005
+"Mesic grasslands","Silene latifolia","Settlement",0.1497,0.08
+"Mesic grasslands","Silene noctiflora","Grassland",0.0371,1
+"Mesic grasslands","Silene nutans","Arable land",0.1252,0.252
+"Mesic grasslands","Silene viscaria","Arable land",0.1426,0.28
+"Mesic grasslands","Silene vulgaris","Permanent crop",0.3074,0.001
+"Mesic grasslands","Sinapis arvensis","Settlement",0.0672,0.503
+"Mesic grasslands","Sisymbrium loeselii","Grassland",0.0371,1
+"Mesic grasslands","Sisymbrium officinale","Grassland",0.0371,1
+"Mesic grasslands","Sisymbrium strictissimum","Arable land",0.0664,0.314
+"Mesic grasslands","Solanum dulcamara","Arable land",0.0469,0.559
+"Mesic grasslands","Solanum nigrum","Settlement",0.0949,0.134
+"Mesic grasslands","Soldanella montana","Arable land",0.0469,0.544
+"Mesic grasslands","Solidago canadensis","Arable land",0.0706,0.465
+"Mesic grasslands","Solidago gigantea","Forest",0.1645,0.01
+"Mesic grasslands","Solidago virgaurea","Forest",0.056,0.652
+"Mesic grasslands","Sonchus arvensis","Permanent crop",0.0982,0.085
+"Mesic grasslands","Sonchus asper","Arable land",0.0743,0.369
+"Mesic grasslands","Sonchus oleraceus","Settlement",0.1162,0.141
+"Mesic grasslands","Sorbus aucuparia","Forest",0.0512,0.743
+"Mesic grasslands","Sorbus torminalis","Grassland",0.0371,1
+"Mesic grasslands","Sparganium emersum","Permanent crop",0.1048,0.065
+"Mesic grasslands","Spergularia rubra","Grassland",0.0829,0.219
+"Mesic grasslands","Spiraea salicifolia","Grassland",0.0371,1
+"Mesic grasslands","Stachys annua","Arable land",0.0469,0.566
+"Mesic grasslands","Stachys officinalis","Grassland",0.2097,0.2
+"Mesic grasslands","Stachys palustris","Forest",0.0716,0.428
+"Mesic grasslands","Stachys recta","Permanent crop",0.1358,0.036
+"Mesic grasslands","Stachys sylvatica","Grassland",0.0371,1
+"Mesic grasslands","Stellaria alsine","Grassland",0.0371,1
+"Mesic grasslands","Stellaria graminea","Grassland",0.3012,0.098
+"Mesic grasslands","Stellaria holostea","Settlement",0.13,0.017
+"Mesic grasslands","Stellaria media","Settlement",0.1545,0.05
+"Mesic grasslands","Stellaria nemorum","Grassland",0.0525,0.686
+"Mesic grasslands","Stellaria pallida","Settlement",0.0949,0.108
+"Mesic grasslands","Stellaria palustris","Grassland",0.0371,1
+"Mesic grasslands","Stipa borysthenica aggr.","Grassland",0.0525,0.723
+"Mesic grasslands","Stipa pennata","Grassland",0.0371,1
+"Mesic grasslands","Succisa pratensis","Forest",0.2081,0.07
+"Mesic grasslands","Symphyotrichum novi-belgii aggr.","Forest",0.0612,0.651
+"Mesic grasslands","Symphytum officinale","Forest",0.2187,0.009
+"Mesic grasslands","Symphytum tuberosum aggr.","Forest",0.0687,0.485
+"Mesic grasslands","Syringa vulgaris","Settlement",0.1584,0.001
+"Mesic grasslands","Tanacetum corymbosum","Permanent crop",0.1521,0.033
+"Mesic grasslands","Tanacetum vulgare","Grassland",0.1147,0.772
+"Mesic grasslands","Taraxacum nordstedtii","Grassland",0.0371,1
+"Mesic grasslands","Taraxacum sect. Erythrosperma","Forest",0.0674,0.259
+"Mesic grasslands","Taraxacum sect. Palustria","Grassland",0.0371,1
+"Mesic grasslands","Taraxacum sect. Taraxacum","Settlement",0.573,0.001
+"Mesic grasslands","Tephroseris crispa","Grassland",0.1159,0.196
+"Mesic grasslands","Tephroseris integrifolia","Forest",0.0953,0.1
+"Mesic grasslands","Teucrium chamaedrys","Permanent crop",0.1004,0.143
+"Mesic grasslands","Thalictrum aquilegiifolium","Grassland",0.0371,1
+"Mesic grasslands","Thalictrum flavum","Forest",0.0674,0.26
+"Mesic grasslands","Thalictrum lucidum","Grassland",0.087,0.245
+"Mesic grasslands","Thalictrum simplex","Grassland",0.0525,0.725
+"Mesic grasslands","Thesium dollineri","Arable land",0.0469,0.55
+"Mesic grasslands","Thesium linophyllon","Permanent crop",0.1266,0.1
+"Mesic grasslands","Thesium pyrenaicum","Arable land",0.0664,0.351
+"Mesic grasslands","Thlaspi arvense","Arable land",0.0469,0.558
+"Mesic grasslands","Thymus odoratissimus aggr.","Grassland",0.0637,0.614
+"Mesic grasslands","Thymus praecox","Permanent crop",0.0709,0.216
+"Mesic grasslands","Thymus pulegioides","Arable land",0.2129,0.075
+"Mesic grasslands","Thymus serpyllum","Forest",0.0596,0.678
+"Mesic grasslands","Tilia cordata","Grassland",0.061,0.595
+"Mesic grasslands","Tilia platyphyllos","Arable land",0.0664,0.342
+"Mesic grasslands","Torilis japonica","Permanent crop",0.0546,0.888
+"Mesic grasslands","Tragopogon dubius","Settlement",0.0949,0.126
+"Mesic grasslands","Tragopogon pratensis","Permanent crop",0.5573,0.001
+"Mesic grasslands","Traunsteinera globosa","Grassland",0.0371,1
+"Mesic grasslands","Trifolium alpestre","Grassland",0.116,0.177
+"Mesic grasslands","Trifolium arvense","Arable land",0.1828,0.03
+"Mesic grasslands","Trifolium aureum","Arable land",0.1534,0.017
+"Mesic grasslands","Trifolium campestre","Permanent crop",0.3384,0.001
+"Mesic grasslands","Trifolium dubium","Forest",0.2085,0.08
+"Mesic grasslands","Trifolium hybridum","Grassland",0.2159,0.039
+"Mesic grasslands","Trifolium medium","Arable land",0.3223,0.002
+"Mesic grasslands","Trifolium montanum","Permanent crop",0.3281,0.001
+"Mesic grasslands","Trifolium pratense","Permanent crop",0.4909,0.001
+"Mesic grasslands","Trifolium repens","Settlement",0.4603,0.001
+"Mesic grasslands","Trifolium rubens","Forest",0.0561,0.5
+"Mesic grasslands","Trifolium spadiceum","Grassland",0.0659,0.582
+"Mesic grasslands","Trifolium striatum","Grassland",0.0371,1
+"Mesic grasslands","Tripleurospermum maritimum aggr.","Settlement",0.1372,0.132
+"Mesic grasslands","Trisetum flavescens","Permanent crop",0.4418,0.001
+"Mesic grasslands","Trollius europaeus","Arable land",0.0413,0.92
+"Mesic grasslands","Turritis glabra","Arable land",0.0688,0.587
+"Mesic grasslands","Tussilago farfara","Settlement",0.0859,0.212
+"Mesic grasslands","Typha latifolia","Grassland",0.0371,1
+"Mesic grasslands","Ulmus minor","Permanent crop",0.0763,0.284
+"Mesic grasslands","Urtica dioica","Settlement",0.2631,0.015
+"Mesic grasslands","Vaccinium myrtillus","Grassland",0.065,0.795
+"Mesic grasslands","Vaccinium uliginosum","Grassland",0.0525,0.739
+"Mesic grasslands","Vaccinium vitis-idaea","Grassland",0.0642,0.479
+"Mesic grasslands","Valeriana dioica","Forest",0.1328,0.279
+"Mesic grasslands","Valeriana officinalis aggr.","Permanent crop",0.149,0.027
+"Mesic grasslands","Valeriana stolonifera","Grassland",0.1388,0.024
+"Mesic grasslands","Valerianella dentata","Arable land",0.0469,0.569
+"Mesic grasslands","Valerianella locusta","Permanent crop",0.101,0.645
+"Mesic grasslands","Verbascum blattaria","Permanent crop",0.1006,0.034
+"Mesic grasslands","Verbascum chaixii","Permanent crop",0.1174,0.114
+"Mesic grasslands","Verbascum lychnitis","Settlement",0.0824,0.425
+"Mesic grasslands","Verbascum nigrum","Permanent crop",0.0653,0.591
+"Mesic grasslands","Verbascum phlomoides","Settlement",0.1206,0.021
+"Mesic grasslands","Verbascum phoeniceum","Forest",0.091,0.088
+"Mesic grasslands","Verbascum speciosum","Grassland",0.0371,1
+"Mesic grasslands","Verbena officinalis","Settlement",0.1927,0.001
+"Mesic grasslands","Veronica agrestis","Permanent crop",0.198,0.001
+"Mesic grasslands","Veronica anagallis-aquatica","Grassland",0.0371,1
+"Mesic grasslands","Veronica arvensis","Forest",0.2618,0.043
+"Mesic grasslands","Veronica austriaca","Forest",0.0621,0.689
+"Mesic grasslands","Veronica chamaedrys aggr.","Grassland",0.4002,0.052
+"Mesic grasslands","Veronica filiformis","Grassland",0.0642,0.452
+"Mesic grasslands","Veronica hederifolia aggr.","Settlement",0.0659,0.534
+"Mesic grasslands","Veronica longifolia","Grassland",0.0371,1
+"Mesic grasslands","Veronica officinalis","Grassland",0.136,0.42
+"Mesic grasslands","Veronica orchidea","Permanent crop",0.1041,0.027
+"Mesic grasslands","Veronica persica","Settlement",0.1105,0.097
+"Mesic grasslands","Veronica polita","Settlement",0.1342,0.015
+"Mesic grasslands","Veronica prostrata","Forest",0.1121,0.043
+"Mesic grasslands","Veronica serpyllifolia","Grassland",0.1783,0.097
+"Mesic grasslands","Veronica spicata","Arable land",0.056,0.621
+"Mesic grasslands","Veronica verna","Permanent crop",0.1368,0.02
+"Mesic grasslands","Viburnum lantana","Permanent crop",0.1048,0.061
+"Mesic grasslands","Viburnum opulus","Forest",0.0674,0.252
+"Mesic grasslands","Vicia cassubica","Grassland",0.0371,1
+"Mesic grasslands","Vicia cracca","Permanent crop",0.4098,0.003
+"Mesic grasslands","Vicia hirsuta","Forest",0.2296,0.015
+"Mesic grasslands","Vicia lathyroides","Forest",0.1574,0.011
+"Mesic grasslands","Vicia pannonica","Forest",0.0674,0.253
+"Mesic grasslands","Vicia sativa","Permanent crop",0.1957,0.214
+"Mesic grasslands","Vicia sepium","Permanent crop",0.2873,0.002
+"Mesic grasslands","Vicia tenuifolia","Grassland",0.0663,0.964
+"Mesic grasslands","Vicia tetrasperma","Grassland",0.1975,0.124
+"Mesic grasslands","Vicia villosa","Forest",0.0875,0.308
+"Mesic grasslands","Vincetoxicum hirundinaria","Permanent crop",0.1629,0.007
+"Mesic grasslands","Viola arvensis","Arable land",0.1286,0.168
+"Mesic grasslands","Viola canina","Arable land",0.1838,0.096
+"Mesic grasslands","Viola collina","Forest",0.0726,0.357
+"Mesic grasslands","Viola elatior","Forest",0.0953,0.084
+"Mesic grasslands","Viola hirta","Permanent crop",0.2446,0.007
+"Mesic grasslands","Viola mirabilis","Forest",0.0674,0.261
+"Mesic grasslands","Viola odorata","Settlement",0.2813,0.001
+"Mesic grasslands","Viola palustris","Grassland",0.1032,0.453
+"Mesic grasslands","Viola pumila","Grassland",0.1018,0.166
+"Mesic grasslands","Viola reichenbachiana","Permanent crop",0.0714,0.433
+"Mesic grasslands","Viola riviniana","Arable land",0.0414,0.872
+"Mesic grasslands","Viola stagnina","Forest",0.0635,0.407
+"Mesic grasslands","Viola suavis","Arable land",0.0469,0.533
+"Mesic grasslands","Viola tricolor aggr.","Grassland",0.0612,0.736
+"Mesic grasslands","Vitis vinifera","Arable land",0.0502,0.847
+"Mesic grasslands","Willemetia stipitata","Forest",0.1051,0.195
+"Wet grasslands","Abies alba","Forest",0.0946,0.023
+"Wet grasslands","Acer campestre","Settlement",0.0683,0.51
+"Wet grasslands","Acer negundo","Forest",0.1245,0.054
+"Wet grasslands","Acer platanoides","Forest",0.0773,0.244
+"Wet grasslands","Acer pseudoplatanus","Forest",0.1119,0.136
+"Wet grasslands","Achillea aspleniifolia","Grassland",0.0543,0.585
+"Wet grasslands","Achillea millefolium aggr.","Settlement",0.2894,0.027
+"Wet grasslands","Achillea ptarmica","Water body",0.1483,0.094
+"Wet grasslands","Aconitum napellus aggr.","Forest",0.0734,0.409
+"Wet grasslands","Aconitum variegatum","Grassland",0.0701,0.393
+"Wet grasslands","Acorus calamus","Arable land",0.0394,0.907
+"Wet grasslands","Actaea spicata","Forest",0.0546,0.433
+"Wet grasslands","Adoxa moschatellina","Forest",0.0709,0.311
+"Wet grasslands","Aegopodium podagraria","Settlement",0.2026,0.209
+"Wet grasslands","Aethusa cynapium","Settlement",0.1107,0.044
+"Wet grasslands","Agrimonia eupatoria","Arable land",0.0802,0.199
+"Wet grasslands","Agrostis canina","Water body",0.2791,0.012
+"Wet grasslands","Agrostis capillaris","Grassland",0.1997,0.215
+"Wet grasslands","Agrostis gigantea","Water body",0.0968,0.127
+"Wet grasslands","Agrostis stolonifera","Water body",0.3616,0.005
+"Wet grasslands","Ajuga reptans","Forest",0.2148,0.08
+"Wet grasslands","Alchemilla cymatophylla","Forest",0.0546,0.448
+"Wet grasslands","Alchemilla glabra","Forest",0.0759,0.27
+"Wet grasslands","Alchemilla micans","Grassland",0.0778,0.425
+"Wet grasslands","Alchemilla monticola","Arable land",0.1114,0.279
+"Wet grasslands","Alchemilla subcrenata","Forest",0.1093,0.039
+"Wet grasslands","Alchemilla vulgaris aggr.","Arable land",0.1697,0.115
+"Wet grasslands","Alchemilla xanthochlora","Forest",0.0606,0.662
+"Wet grasslands","Alisma gramineum","Forest",0.0722,0.372
+"Wet grasslands","Alisma lanceolatum","Forest",0.1325,0.026
+"Wet grasslands","Alisma plantago-aquatica","Settlement",0.0736,0.882
+"Wet grasslands","Alliaria petiolata","Settlement",0.0949,0.186
+"Wet grasslands","Allium angulosum","Forest",0.1721,0.028
+"Wet grasslands","Allium carinatum","Arable land",0.1232,0.072
+"Wet grasslands","Allium scorodoprasum","Forest",0.0839,0.329
+"Wet grasslands","Allium ursinum","Grassland",0.0443,0.871
+"Wet grasslands","Alnus glutinosa","Arable land",0.1523,0.06
+"Wet grasslands","Alopecurus aequalis","Water body",0.1429,0.048
+"Wet grasslands","Alopecurus geniculatus","Forest",0.0599,0.952
+"Wet grasslands","Alopecurus pratensis","Arable land",0.351,0.052
+"Wet grasslands","Althaea officinalis","Water body",0.1273,0.046
+"Wet grasslands","Amaranthus blitum","Grassland",0.0314,1
+"Wet grasslands","Amaranthus hybridus aggr.","Grassland",0.0314,1
+"Wet grasslands","Amaranthus retroflexus","Arable land",0.0868,0.128
+"Wet grasslands","Amorpha fruticosa","Arable land",0.0567,0.271
+"Wet grasslands","Anacamptis palustris aggr.","Grassland",0.084,0.305
+"Wet grasslands","Anagallis arvensis","Arable land",0.0791,0.36
+"Wet grasslands","Anemone nemorosa","Grassland",0.1484,0.507
+"Wet grasslands","Anemone ranunculoides","Grassland",0.0314,1
+"Wet grasslands","Angelica palustris","Grassland",0.0314,1
+"Wet grasslands","Angelica sylvestris","Arable land",0.3187,0.08
+"Wet grasslands","Anisantha sterilis","Arable land",0.0938,0.109
+"Wet grasslands","Antennaria dioica","Grassland",0.0314,1
+"Wet grasslands","Anthemis arvensis","Settlement",0.1393,0.004
+"Wet grasslands","Anthemis cotula","Settlement",0.2278,0.001
+"Wet grasslands","Anthericum ramosum","Grassland",0.0471,0.838
+"Wet grasslands","Anthoxanthum odoratum aggr.","Grassland",0.2744,0.037
+"Wet grasslands","Anthriscus cerefolium","Grassland",0.0314,1
+"Wet grasslands","Anthriscus nitidus","Forest",0.1545,0.004
+"Wet grasslands","Anthriscus sylvestris","Settlement",0.2797,0.001
+"Wet grasslands","Anthyllis vulneraria","Grassland",0.0543,0.601
+"Wet grasslands","Apera spica-venti","Settlement",0.0861,0.165
+"Wet grasslands","Aphanes arvensis","Arable land",0.0567,0.264
+"Wet grasslands","Arabidopsis arenosa","Arable land",0.0567,0.272
+"Wet grasslands","Arabidopsis halleri","Forest",0.1004,0.125
+"Wet grasslands","Arabidopsis thaliana","Forest",0.053,0.437
+"Wet grasslands","Arctium lappa","Arable land",0.0646,0.928
+"Wet grasslands","Arctium minus","Grassland",0.0314,1
+"Wet grasslands","Arctium nemorosum","Forest",0.0546,0.485
+"Wet grasslands","Arctium tomentosum","Arable land",0.1328,0.108
+"Wet grasslands","Arenaria serpyllifolia","Arable land",0.0802,0.241
+"Wet grasslands","Argentina anserina","Settlement",0.4436,0.001
+"Wet grasslands","Aristolochia clematitis","Forest",0.1112,0.064
+"Wet grasslands","Armoracia rusticana","Settlement",0.0622,0.58
+"Wet grasslands","Arnica montana","Grassland",0.0562,0.741
+"Wet grasslands","Arrhenatherum elatius","Settlement",0.1639,0.098
+"Wet grasslands","Artemisia absinthium","Settlement",0.1294,0.021
+"Wet grasslands","Artemisia vulgaris","Settlement",0.2993,0.003
+"Wet grasslands","Arum cylindraceum","Forest",0.0423,0.911
+"Wet grasslands","Arum maculatum","Arable land",0.0567,0.272
+"Wet grasslands","Aruncus dioicus","Grassland",0.0314,1
+"Wet grasslands","Asarum europaeum","Forest",0.0467,0.959
+"Wet grasslands","Asparagus officinalis","Forest",0.0561,0.666
+"Wet grasslands","Asperula cynanchica","Arable land",0.0802,0.21
+"Wet grasslands","Asperula tinctoria","Grassland",0.0443,0.872
+"Wet grasslands","Astrantia major","Grassland",0.0543,0.572
+"Wet grasslands","Athyrium distentifolium","Forest",0.0546,0.444
+"Wet grasslands","Athyrium filix-femina","Forest",0.2153,0.001
+"Wet grasslands","Atriplex oblongifolia","Arable land",0.0567,0.277
+"Wet grasslands","Atriplex patula","Forest",0.0762,0.527
+"Wet grasslands","Atriplex prostrata","Water body",0.1568,0.015
+"Wet grasslands","Atriplex sagittata","Forest",0.0571,0.812
+"Wet grasslands","Atriplex tatarica","Arable land",0.0567,0.271
+"Wet grasslands","Atropa bella-donna","Forest",0.0539,0.657
+"Wet grasslands","Avena fatua","Settlement",0.0913,0.093
+"Wet grasslands","Avenella flexuosa","Forest",0.0734,0.358
+"Wet grasslands","Avenula pubescens","Grassland",0.213,0.089
+"Wet grasslands","Ballota nigra","Settlement",0.2266,0.001
+"Wet grasslands","Barbarea stricta","Water body",0.0681,0.463
+"Wet grasslands","Barbarea vulgaris","Grassland",0.0443,0.814
+"Wet grasslands","Bellis perennis","Arable land",0.0874,0.197
+"Wet grasslands","Berteroa incana","Arable land",0.0802,0.125
+"Wet grasslands","Berula erecta","Forest",0.0917,0.136
+"Wet grasslands","Betula pendula","Arable land",0.0747,0.62
+"Wet grasslands","Betula pubescens","Arable land",0.0736,0.355
+"Wet grasslands","Bidens cernua","Arable land",0.0522,0.624
+"Wet grasslands","Bidens radiata","Arable land",0.0778,0.246
+"Wet grasslands","Bidens tripartita","Water body",0.1498,0.188
+"Wet grasslands","Bistorta officinalis","Arable land",0.2239,0.249
+"Wet grasslands","Blitum bonus-henricus","Settlement",0.166,0.002
+"Wet grasslands","Blysmus compressus","Settlement",0.0698,0.347
+"Wet grasslands","Bolboschoenus maritimus aggr.","Water body",0.1644,0.012
+"Wet grasslands","Bothriochloa ischaemum","Arable land",0.0567,0.272
+"Wet grasslands","Brachypodium pinnatum","Grassland",0.0504,0.937
+"Wet grasslands","Brachypodium sylvaticum","Forest",0.1954,0.003
+"Wet grasslands","Brassica nigra","Forest",0.0698,0.392
+"Wet grasslands","Briza media","Grassland",0.2412,0.085
+"Wet grasslands","Bromopsis erecta","Grassland",0.0559,0.815
+"Wet grasslands","Bromopsis inermis","Forest",0.0939,0.198
+"Wet grasslands","Bromopsis ramosa aggr.","Forest",0.0436,0.97
+"Wet grasslands","Bromus hordeaceus","Settlement",0.0651,0.533
+"Wet grasslands","Bromus japonicus","Settlement",0.0843,0.19
+"Wet grasslands","Bromus racemosus","Grassland",0.0314,1
+"Wet grasslands","Bryonia alba","Grassland",0.0314,1
+"Wet grasslands","Bunias orientalis","Arable land",0.0802,0.248
+"Wet grasslands","Bupleurum tenuissimum","Arable land",0.0567,0.282
+"Wet grasslands","Butomus umbellatus","Forest",0.0589,0.743
+"Wet grasslands","Calamagrostis arundinacea","Forest",0.1489,0.014
+"Wet grasslands","Calamagrostis canescens","Water body",0.175,0.012
+"Wet grasslands","Calamagrostis epigejos","Water body",0.2916,0.001
+"Wet grasslands","Calamagrostis pseudophragmites","Arable land",0.0621,0.531
+"Wet grasslands","Calamagrostis villosa","Forest",0.1606,0.006
+"Wet grasslands","Calla palustris","Arable land",0.0391,0.915
+"Wet grasslands","Callitriche palustris","Water body",0.0917,0.131
+"Wet grasslands","Calluna vulgaris","Water body",0.072,0.651
+"Wet grasslands","Caltha palustris","Arable land",0.3168,0.16
+"Wet grasslands","Calystegia sepium","Forest",0.189,0.095
+"Wet grasslands","Campanula patula aggr.","Arable land",0.1272,0.06
+"Wet grasslands","Campanula rapunculoides","Settlement",0.0955,0.05
+"Wet grasslands","Campanula rotundifolia","Grassland",0.0543,0.585
+"Wet grasslands","Campanula trachelium","Settlement",0.1644,0.002
+"Wet grasslands","Cannabis sativa","Grassland",0.0314,1
+"Wet grasslands","Capsella bursa-pastoris","Settlement",0.1985,0.002
+"Wet grasslands","Cardamine amara","Forest",0.1703,0.092
+"Wet grasslands","Cardamine bulbifera","Grassland",0.0314,1
+"Wet grasslands","Cardamine flexuosa","Forest",0.0417,1
+"Wet grasslands","Cardamine impatiens aggr.","Forest",0.072,0.365
+"Wet grasslands","Cardamine matthioli","Grassland",0.1119,0.24
+"Wet grasslands","Cardamine parviflora","Grassland",0.0638,0.611
+"Wet grasslands","Cardamine pratensis","Arable land",0.2919,0.058
+"Wet grasslands","Cardamine trifolia","Forest",0.0546,0.454
+"Wet grasslands","Carduus acanthoides","Settlement",0.17,0.001
+"Wet grasslands","Carduus crispus","Settlement",0.1541,0.084
+"Wet grasslands","Carduus personata","Forest",0.0773,0.261
+"Wet grasslands","Carex acuta","Arable land",0.2019,0.556
+"Wet grasslands","Carex acutiformis","Arable land",0.1305,0.791
+"Wet grasslands","Carex appropinquata","Settlement",0.1492,0.026
+"Wet grasslands","Carex bohemica","Water body",0.084,0.161
+"Wet grasslands","Carex brizoides","Arable land",0.1638,0.732
+"Wet grasslands","Carex buekii","Forest",0.1385,0.065
+"Wet grasslands","Carex buxbaumii","Grassland",0.1142,0.107
+"Wet grasslands","Carex canescens","Water body",0.1388,0.468
+"Wet grasslands","Carex caryophyllea","Arable land",0.0609,0.694
+"Wet grasslands","Carex cespitosa","Settlement",0.1425,0.185
+"Wet grasslands","Carex cuprina","Water body",0.2299,0.001
+"Wet grasslands","Carex davalliana","Arable land",0.1273,0.36
+"Wet grasslands","Carex demissa","Grassland",0.0709,0.534
+"Wet grasslands","Carex diandra","Water body",0.078,0.216
+"Wet grasslands","Carex digitata","Forest",0.0623,0.301
+"Wet grasslands","Carex distans","Water body",0.2741,0.001
+"Wet grasslands","Carex disticha","Grassland",0.1201,0.482
+"Wet grasslands","Carex echinata","Grassland",0.1626,0.512
+"Wet grasslands","Carex elata","Grassland",0.1189,0.235
+"Wet grasslands","Carex elongata","Forest",0.0964,0.226
+"Wet grasslands","Carex filiformis","Grassland",0.0859,0.478
+"Wet grasslands","Carex flacca","Grassland",0.1121,0.618
+"Wet grasslands","Carex flava","Grassland",0.0799,0.89
+"Wet grasslands","Carex fritschii","Forest",0.0546,0.448
+"Wet grasslands","Carex hartmaniorum","Water body",0.2089,0.071
+"Wet grasslands","Carex hirta","Arable land",0.1616,0.737
+"Wet grasslands","Carex hostiana","Arable land",0.1016,0.369
+"Wet grasslands","Carex lasiocarpa","Grassland",0.0652,0.659
+"Wet grasslands","Carex lepidocarpa","Arable land",0.07,0.465
+"Wet grasslands","Carex leporina","Water body",0.1579,0.428
+"Wet grasslands","Carex melanostachya","Forest",0.1121,0.5
+"Wet grasslands","Carex michelii","Forest",0.0546,0.448
+"Wet grasslands","Carex muricata","Arable land",0.0486,0.758
+"Wet grasslands","Carex nigra","Grassland",0.3314,0.027
+"Wet grasslands","Carex pallescens","Water body",0.1973,0.093
+"Wet grasslands","Carex pallidula","Arable land",0.0467,0.535
+"Wet grasslands","Carex panicea","Water body",0.3635,0.006
+"Wet grasslands","Carex paniculata","Forest",0.0755,0.543
+"Wet grasslands","Carex pendula","Forest",0.0773,0.209
+"Wet grasslands","Carex pilosa","Forest",0.0457,0.644
+"Wet grasslands","Carex pilulifera","Water body",0.1045,0.371
+"Wet grasslands","Carex praecox","Forest",0.1636,0.039
+"Wet grasslands","Carex pulicaris","Water body",0.1143,0.193
+"Wet grasslands","Carex remota","Forest",0.2571,0.001
+"Wet grasslands","Carex riparia","Water body",0.0979,0.488
+"Wet grasslands","Carex rostrata","Grassland",0.1818,0.279
+"Wet grasslands","Carex secalina","Water body",0.069,0.428
+"Wet grasslands","Carex spicata","Forest",0.0654,0.492
+"Wet grasslands","Carex sylvatica","Forest",0.1243,0.037
+"Wet grasslands","Carex umbrosa","Grassland",0.1822,0.018
+"Wet grasslands","Carex vesicaria","Water body",0.2677,0.005
+"Wet grasslands","Carex viridula","Water body",0.0974,0.028
+"Wet grasslands","Carex vulpina","Grassland",0.158,0.387
+"Wet grasslands","Carlina vulgaris aggr.","Grassland",0.0627,0.441
+"Wet grasslands","Carpinus betulus","Forest",0.0502,0.513
+"Wet grasslands","Carum carvi","Settlement",0.1472,0.007
+"Wet grasslands","Centaurea jacea","Grassland",0.1755,0.32
+"Wet grasslands","Centaurea phrygia aggr.","Grassland",0.1083,0.121
+"Wet grasslands","Centaurea scabiosa","Forest",0.0546,0.454
+"Wet grasslands","Centaurea thuillieri","Arable land",0.0712,0.301
+"Wet grasslands","Centaurium erythraea","Arable land",0.0788,0.217
+"Wet grasslands","Centaurium pulchellum","Water body",0.1717,0.014
+"Wet grasslands","Cerastium arvense","Grassland",0.0314,1
+"Wet grasslands","Cerastium dubium","Water body",0.0953,0.315
+"Wet grasslands","Cerastium fontanum subsp. vulgare","Arable land",0.2029,0.08
+"Wet grasslands","Cerastium glomeratum","Forest",0.0483,0.549
+"Wet grasslands","Cerastium pumilum","Forest",0.0423,1
+"Wet grasslands","Cerastium semidecandrum","Grassland",0.0314,1
+"Wet grasslands","Chaerophyllum aromaticum","Settlement",0.1746,0.011
+"Wet grasslands","Chaerophyllum aureum","Settlement",0.0737,0.334
+"Wet grasslands","Chaerophyllum bulbosum","Forest",0.1157,0.046
+"Wet grasslands","Chaerophyllum hirsutum","Forest",0.2633,0.003
+"Wet grasslands","Chaerophyllum temulum","Settlement",0.1331,0.015
+"Wet grasslands","Chaiturus marrubiastrum","Forest",0.0905,0.208
+"Wet grasslands","Chelidonium majus","Settlement",0.1129,0.051
+"Wet grasslands","Chenopodiastrum hybridum","Grassland",0.0314,1
+"Wet grasslands","Chenopodiastrum murale","Arable land",0.0567,0.268
+"Wet grasslands","Chenopodium album aggr.","Settlement",0.1238,0.165
+"Wet grasslands","Chenopodium ficifolium","Arable land",0.0588,0.695
+"Wet grasslands","Chondrilla juncea","Grassland",0.0314,1
+"Wet grasslands","Chrysosplenium alternifolium","Forest",0.2395,0.001
+"Wet grasslands","Cichorium intybus","Arable land",0.1125,0.076
+"Wet grasslands","Cicuta virosa","Arable land",0.0567,0.28
+"Wet grasslands","Circaea alpina","Forest",0.1175,0.043
+"Wet grasslands","Circaea lutetiana","Forest",0.1579,0.006
+"Wet grasslands","Circaea x intermedia","Forest",0.1093,0.04
+"Wet grasslands","Cirsium arvense","Forest",0.1996,0.517
+"Wet grasslands","Cirsium brachycephalum","Grassland",0.0882,0.179
+"Wet grasslands","Cirsium canum","Arable land",0.1256,0.806
+"Wet grasslands","Cirsium heterophyllum aggr.","Forest",0.1105,0.857
+"Wet grasslands","Cirsium oleraceum","Arable land",0.1641,0.615
+"Wet grasslands","Cirsium palustre","Grassland",0.289,0.505
+"Wet grasslands","Cirsium pannonicum","Grassland",0.0314,1
+"Wet grasslands","Cirsium rivulare","Forest",0.1754,0.036
+"Wet grasslands","Cirsium vulgare","Water body",0.0875,0.296
+"Wet grasslands","Clematis integrifolia","Grassland",0.0508,0.949
+"Wet grasslands","Clematis recta","Arable land",0.0566,0.387
+"Wet grasslands","Clematis vitalba","Settlement",0.0716,0.35
+"Wet grasslands","Clinopodium acinos","Grassland",0.0314,1
+"Wet grasslands","Clinopodium vulgare","Grassland",0.0314,1
+"Wet grasslands","Colchicum autumnale","Forest",0.1545,0.144
+"Wet grasslands","Comarum palustre","Water body",0.2358,0.001
+"Wet grasslands","Conium maculatum","Forest",0.0744,0.26
+"Wet grasslands","Convallaria majalis","Forest",0.0531,0.458
+"Wet grasslands","Convolvulus arvensis","Settlement",0.1768,0.006
+"Wet grasslands","Cornus sanguinea","Forest",0.0546,0.46
+"Wet grasslands","Corydalis intermedia","Grassland",0.0314,1
+"Wet grasslands","Corydalis solida","Grassland",0.0314,1
+"Wet grasslands","Corylus avellana","Arable land",0.0501,0.686
+"Wet grasslands","Crataegus laevigata","Arable land",0.0302,0.906
+"Wet grasslands","Crataegus monogyna","Forest",0.0428,0.859
+"Wet grasslands","Crepis biennis","Settlement",0.0754,0.352
+"Wet grasslands","Crepis mollis","Grassland",0.1606,0.115
+"Wet grasslands","Crepis paludosa","Forest",0.249,0.011
+"Wet grasslands","Crepis setosa","Arable land",0.0567,0.282
+"Wet grasslands","Cruciata glabra","Grassland",0.0768,0.271
+"Wet grasslands","Cruciata laevipes","Forest",0.0768,0.348
+"Wet grasslands","Crypsis aculeata","Arable land",0.0567,0.277
+"Wet grasslands","Crypsis alopecuroides","Arable land",0.0567,0.287
+"Wet grasslands","Crypsis schoenoides","Forest",0.0773,0.281
+"Wet grasslands","Cuscuta epithymum","Grassland",0.0768,0.274
+"Wet grasslands","Cuscuta europaea","Arable land",0.0637,0.755
+"Wet grasslands","Cynodon dactylon","Settlement",0.1194,0.032
+"Wet grasslands","Cynosurus cristatus","Arable land",0.0744,0.748
+"Wet grasslands","Cyperus fuscus","Forest",0.1431,0.035
+"Wet grasslands","Cyperus michelianus","Forest",0.0546,0.453
+"Wet grasslands","Cystopteris fragilis","Forest",0.0773,0.254
+"Wet grasslands","Cytisus hirsutus","Forest",0.0546,0.448
+"Wet grasslands","Dactylis glomerata","Arable land",0.1863,0.386
+"Wet grasslands","Dactylorhiza incarnata","Arable land",0.0522,0.331
+"Wet grasslands","Dactylorhiza maculata aggr.","Forest",0.0879,0.428
+"Wet grasslands","Dactylorhiza majalis","Grassland",0.1355,0.48
+"Wet grasslands","Dactylorhiza traunsteineri","Arable land",0.0567,0.289
+"Wet grasslands","Danthonia decumbens","Arable land",0.1246,0.386
+"Wet grasslands","Daphne mezereum","Forest",0.0546,0.448
+"Wet grasslands","Daucus carota","Settlement",0.1249,0.108
+"Wet grasslands","Deschampsia cespitosa aggr.","Water body",0.339,0.073
+"Wet grasslands","Descurainia sophia","Settlement",0.0985,0.112
+"Wet grasslands","Dianthus carthusianorum","Grassland",0.0314,1
+"Wet grasslands","Dianthus carthusianorum aggr.","Grassland",0.0314,1
+"Wet grasslands","Dianthus deltoides","Water body",0.0852,0.109
+"Wet grasslands","Dianthus superbus","Grassland",0.0946,0.414
+"Wet grasslands","Digitaria sanguinalis","Settlement",0.077,0.237
+"Wet grasslands","Diplotaxis muralis","Grassland",0.0314,1
+"Wet grasslands","Dipsacus fullonum","Water body",0.0967,0.037
+"Wet grasslands","Dipsacus laciniatus","Arable land",0.0758,0.225
+"Wet grasslands","Dipsacus pilosus","Forest",0.0546,0.442
+"Wet grasslands","Doronicum austriacum","Grassland",0.0314,1
+"Wet grasslands","Dorycnium pentaphyllum","Arable land",0.0567,0.312
+"Wet grasslands","Drosera rotundifolia","Forest",0.0546,0.453
+"Wet grasslands","Drymochloa sylvatica","Forest",0.0946,0.03
+"Wet grasslands","Dryopteris carthusiana aggr.","Forest",0.21,0.004
+"Wet grasslands","Dryopteris cristata","Arable land",0.0578,0.596
+"Wet grasslands","Dryopteris filix-mas","Forest",0.169,0.008
+"Wet grasslands","Dysphania ambrosioides","Settlement",0.0985,0.111
+"Wet grasslands","Echinochloa crus-galli","Forest",0.2107,0.012
+"Wet grasslands","Echinocystis lobata","Forest",0.0915,0.243
+"Wet grasslands","Echinops sphaerocephalus","Arable land",0.0476,0.561
+"Wet grasslands","Echium vulgare","Arable land",0.052,0.334
+"Wet grasslands","Elatine hydropiper","Grassland",0.0314,1
+"Wet grasslands","Eleocharis acicularis","Forest",0.0912,0.059
+"Wet grasslands","Eleocharis mamillata","Grassland",0.0314,1
+"Wet grasslands","Eleocharis ovata","Arable land",0.0539,0.348
+"Wet grasslands","Eleocharis palustris","Forest",0.1094,0.594
+"Wet grasslands","Eleocharis uniglumis","Grassland",0.1377,0.201
+"Wet grasslands","Elymus caninus","Forest",0.1123,0.131
+"Wet grasslands","Elytrigia intermedia","Forest",0.0455,0.661
+"Wet grasslands","Elytrigia repens aggr.","Arable land",0.2158,0.138
+"Wet grasslands","Epilobium angustifolium","Grassland",0.07,0.409
+"Wet grasslands","Epilobium ciliatum","Settlement",0.1165,0.627
+"Wet grasslands","Epilobium hirsutum","Settlement",0.2241,0.003
+"Wet grasslands","Epilobium montanum","Grassland",0.0687,0.808
+"Wet grasslands","Epilobium obscurum","Settlement",0.1794,0.022
+"Wet grasslands","Epilobium palustre","Grassland",0.192,0.247
+"Wet grasslands","Epilobium parviflorum","Grassland",0.0527,0.91
+"Wet grasslands","Epilobium roseum","Water body",0.0943,0.163
+"Wet grasslands","Epilobium tetragonum","Water body",0.1131,0.136
+"Wet grasslands","Epipactis helleborine","Settlement",0.0985,0.118
+"Wet grasslands","Epipactis palustris","Grassland",0.1135,0.215
+"Wet grasslands","Equisetum arvense","Forest",0.2047,0.188
+"Wet grasslands","Equisetum fluviatile","Grassland",0.1934,0.294
+"Wet grasslands","Equisetum palustre","Arable land",0.2427,0.286
+"Wet grasslands","Equisetum pratense","Forest",0.0433,0.83
+"Wet grasslands","Equisetum sylvaticum","Forest",0.2391,0.002
+"Wet grasslands","Equisetum telmateia","Forest",0.0672,0.446
+"Wet grasslands","Equisetum variegatum","Arable land",0.0549,0.378
+"Wet grasslands","Erigeron annuus","Forest",0.1178,0.056
+"Wet grasslands","Erigeron canadensis","Settlement",0.1839,0.017
+"Wet grasslands","Eriophorum angustifolium","Grassland",0.1793,0.239
+"Wet grasslands","Eriophorum latifolium","Forest",0.1843,0.003
+"Wet grasslands","Eriophorum vaginatum","Grassland",0.058,0.591
+"Wet grasslands","Erodium cicutarium","Arable land",0.0567,0.262
+"Wet grasslands","Erysimum cheiranthoides","Grassland",0.0543,0.594
+"Wet grasslands","Euonymus europaeus","Forest",0.0587,0.685
+"Wet grasslands","Eupatorium cannabinum","Forest",0.1284,0.064
+"Wet grasslands","Euphorbia amygdaloides","Forest",0.0546,0.458
+"Wet grasslands","Euphorbia cyparissias","Forest",0.0546,0.448
+"Wet grasslands","Euphorbia dulcis","Grassland",0.0314,1
+"Wet grasslands","Euphorbia esula","Arable land",0.0687,0.62
+"Wet grasslands","Euphorbia helioscopia","Grassland",0.0314,1
+"Wet grasslands","Euphorbia illirica","Grassland",0.0543,0.594
+"Wet grasslands","Euphorbia lucida","Grassland",0.0992,0.137
+"Wet grasslands","Euphorbia palustris","Grassland",0.0376,0.906
+"Wet grasslands","Euphorbia platyphyllos","Grassland",0.0314,1
+"Wet grasslands","Euphorbia stricta","Grassland",0.0314,1
+"Wet grasslands","Euphrasia rostkoviana","Grassland",0.0706,0.59
+"Wet grasslands","Fagus sylvatica","Forest",0.0663,0.407
+"Wet grasslands","Fallopia convolvulus","Arable land",0.0509,0.896
+"Wet grasslands","Fallopia dumetorum","Forest",0.0574,0.662
+"Wet grasslands","Festuca filiformis","Water body",0.141,0.027
+"Wet grasslands","Festuca heterophylla","Grassland",0.0314,1
+"Wet grasslands","Festuca ovina","Arable land",0.1228,0.633
+"Wet grasslands","Festuca rubra aggr.","Arable land",0.2909,0.079
+"Wet grasslands","Festuca stricta subsp. sulcata","Grassland",0.0768,0.262
+"Wet grasslands","Festuca trichophylla","Arable land",0.0567,0.288
+"Wet grasslands","Ficaria verna","Grassland",0.097,0.641
+"Wet grasslands","Filipendula ulmaria","Grassland",0.3072,0.248
+"Wet grasslands","Filipendula vulgaris","Grassland",0.1402,0.116
+"Wet grasslands","Fragaria vesca","Arable land",0.0517,0.834
+"Wet grasslands","Fragaria viridis","Settlement",0.0794,0.245
+"Wet grasslands","Frangula alnus","Arable land",0.1128,0.181
+"Wet grasslands","Fraxinus angustifolia","Forest",0.1162,0.054
+"Wet grasslands","Fraxinus excelsior","Forest",0.109,0.15
+"Wet grasslands","Gagea lutea","Grassland",0.0443,0.937
+"Wet grasslands","Galega officinalis","Settlement",0.0961,0.161
+"Wet grasslands","Galeopsis pubescens","Water body",0.1023,0.135
+"Wet grasslands","Galeopsis speciosa","Forest",0.0806,0.411
+"Wet grasslands","Galeopsis tetrahit aggr.","Forest",0.1306,0.73
+"Wet grasslands","Galinsoga parviflora","Settlement",0.0726,0.377
+"Wet grasslands","Galinsoga quadriradiata","Settlement",0.1011,0.125
+"Wet grasslands","Galium album","Grassland",0.0835,0.517
+"Wet grasslands","Galium aparine","Forest",0.1864,0.57
+"Wet grasslands","Galium boreale","Arable land",0.1921,0.218
+"Wet grasslands","Galium intermedium","Grassland",0.0314,1
+"Wet grasslands","Galium mollugo aggr.","Grassland",0.1265,0.696
+"Wet grasslands","Galium odoratum","Forest",0.1157,0.046
+"Wet grasslands","Galium palustre aggr.","Grassland",0.2661,0.794
+"Wet grasslands","Galium pumilum","Settlement",0.0675,0.498
+"Wet grasslands","Galium rivale","Arable land",0.0535,0.632
+"Wet grasslands","Galium rubioides","Grassland",0.0314,1
+"Wet grasslands","Galium sylvaticum","Grassland",0.0314,1
+"Wet grasslands","Galium uliginosum","Water body",0.291,0.626
+"Wet grasslands","Galium verum","Arable land",0.1696,0.163
+"Wet grasslands","Genista tinctoria","Grassland",0.1553,0.036
+"Wet grasslands","Gentiana pneumonanthe","Arable land",0.1529,0.012
+"Wet grasslands","Gentianella austriaca","Grassland",0.0314,1
+"Wet grasslands","Geranium dissectum","Grassland",0.0314,1
+"Wet grasslands","Geranium palustre","Arable land",0.1097,0.577
+"Wet grasslands","Geranium pratense","Settlement",0.1228,0.289
+"Wet grasslands","Geranium pusillum","Arable land",0.0418,0.965
+"Wet grasslands","Geranium robertianum","Forest",0.1623,0.037
+"Wet grasslands","Geranium sanguineum","Forest",0.0452,0.651
+"Wet grasslands","Geranium sylvaticum aggr.","Grassland",0.0723,0.385
+"Wet grasslands","Geum rivale","Grassland",0.1525,0.138
+"Wet grasslands","Geum urbanum","Settlement",0.1683,0.059
+"Wet grasslands","Gladiolus imbricatus","Grassland",0.0443,0.849
+"Wet grasslands","Gladiolus palustris","Grassland",0.0695,0.795
+"Wet grasslands","Glaux maritima","Arable land",0.0789,0.287
+"Wet grasslands","Glechoma hederacea","Forest",0.1493,0.555
+"Wet grasslands","Glechoma hirsuta","Grassland",0.0314,1
+"Wet grasslands","Glyceria declinata","Arable land",0.1002,0.117
+"Wet grasslands","Glyceria fluitans aggr.","Water body",0.1352,0.226
+"Wet grasslands","Glyceria maxima","Water body",0.2353,0.003
+"Wet grasslands","Glyceria notata","Settlement",0.0949,0.107
+"Wet grasslands","Gnaphalium sylvaticum","Forest",0.0469,0.644
+"Wet grasslands","Gnaphalium uliginosum","Forest",0.1312,0.05
+"Wet grasslands","Gratiola officinalis","Forest",0.173,0.078
+"Wet grasslands","Gymnadenia conopsea","Grassland",0.1243,0.109
+"Wet grasslands","Gymnocarpium dryopteris","Forest",0.0773,0.167
+"Wet grasslands","Gypsophila muralis","Water body",0.0869,0.13
+"Wet grasslands","Helianthemum nummularium","Arable land",0.0567,0.287
+"Wet grasslands","Helianthus tuberosus","Grassland",0.0443,0.794
+"Wet grasslands","Heracleum sphondylium","Settlement",0.1464,0.372
+"Wet grasslands","Hieracium lachenalii","Grassland",0.0314,1
+"Wet grasslands","Hieracium laevigatum","Grassland",0.0314,1
+"Wet grasslands","Hieracium murorum","Forest",0.0773,0.256
+"Wet grasslands","Hieracium sabaudum","Arable land",0.0567,0.286
+"Wet grasslands","Hieracium umbellatum","Water body",0.0897,0.258
+"Wet grasslands","Holcus lanatus","Arable land",0.3028,0.102
+"Wet grasslands","Holcus mollis","Grassland",0.1556,0.276
+"Wet grasslands","Homogyne alpina","Forest",0.0546,0.466
+"Wet grasslands","Hordeum murinum","Settlement",0.1057,0.061
+"Wet grasslands","Hottonia palustris","Arable land",0.0567,0.28
+"Wet grasslands","Humulus lupulus","Forest",0.1231,0.126
+"Wet grasslands","Hydrocotyle vulgaris","Water body",0.2187,0.001
+"Wet grasslands","Hylotelephium maximum","Grassland",0.0314,1
+"Wet grasslands","Hylotelephium telephium","Grassland",0.0314,1
+"Wet grasslands","Hyoscyamus niger","Arable land",0.053,0.366
+"Wet grasslands","Hypericum hirsutum","Forest",0.0546,0.453
+"Wet grasslands","Hypericum humifusum","Forest",0.0484,0.557
+"Wet grasslands","Hypericum maculatum aggr.","Grassland",0.1574,0.331
+"Wet grasslands","Hypericum perforatum","Water body",0.1086,0.117
+"Wet grasslands","Hypericum tetrapterum","Grassland",0.0798,0.44
+"Wet grasslands","Hypochaeris radicata","Forest",0.0525,0.804
+"Wet grasslands","Illecebrum verticillatum","Grassland",0.0443,0.978
+"Wet grasslands","Impatiens glandulifera","Forest",0.1133,0.337
+"Wet grasslands","Impatiens noli-tangere","Forest",0.2995,0.001
+"Wet grasslands","Impatiens parviflora","Forest",0.158,0.036
+"Wet grasslands","Inula britannica","Water body",0.2573,0.003
+"Wet grasslands","Inula germanica","Grassland",0.0314,1
+"Wet grasslands","Inula helenium","Arable land",0.0567,0.292
+"Wet grasslands","Inula hirta","Grassland",0.0314,1
+"Wet grasslands","Inula salicina","Grassland",0.1538,0.115
+"Wet grasslands","Iris pseudacorus","Forest",0.1338,0.482
+"Wet grasslands","Iris sibirica","Settlement",0.1225,0.612
+"Wet grasslands","Iris variegata","Grassland",0.0314,1
+"Wet grasslands","Isolepis setacea","Grassland",0.0314,1
+"Wet grasslands","Jacobaea aquatica","Settlement",0.1224,0.394
+"Wet grasslands","Jacobaea erratica","Water body",0.2217,0.003
+"Wet grasslands","Jacobaea vulgaris","Grassland",0.0443,0.938
+"Wet grasslands","Juglans nigra","Forest",0.0546,0.46
+"Wet grasslands","Juglans regia","Grassland",0.0314,1
+"Wet grasslands","Juncus acutiflorus","Grassland",0.0625,0.82
+"Wet grasslands","Juncus alpinoarticulatus","Grassland",0.0443,0.945
+"Wet grasslands","Juncus articulatus","Water body",0.2741,0.008
+"Wet grasslands","Juncus atratus","Grassland",0.0443,0.819
+"Wet grasslands","Juncus bufonius aggr.","Forest",0.1081,0.319
+"Wet grasslands","Juncus bulbosus","Grassland",0.0314,1
+"Wet grasslands","Juncus capitatus","Arable land",0.0406,1
+"Wet grasslands","Juncus compressus","Water body",0.2786,0.001
+"Wet grasslands","Juncus conglomeratus","Arable land",0.2117,0.549
+"Wet grasslands","Juncus effusus","Water body",0.2943,0.329
+"Wet grasslands","Juncus filiformis","Arable land",0.2058,0.258
+"Wet grasslands","Juncus gerardi","Water body",0.113,0.107
+"Wet grasslands","Juncus inflexus","Grassland",0.1332,0.166
+"Wet grasslands","Juncus subnodulosus","Arable land",0.0432,0.805
+"Wet grasslands","Juncus tenuis","Arable land",0.0519,0.679
+"Wet grasslands","Juniperus communis subsp. communis","Grassland",0.0314,1
+"Wet grasslands","Kickxia elatine","Grassland",0.0314,1
+"Wet grasslands","Knautia arvensis","Grassland",0.0517,0.924
+"Wet grasslands","Knautia drymeia","Forest",0.0546,0.448
+"Wet grasslands","Knautia maxima","Arable land",0.049,0.809
+"Wet grasslands","Koeleria pyramidata","Grassland",0.1196,0.088
+"Wet grasslands","Lactuca serriola","Forest",0.0566,0.914
+"Wet grasslands","Lamium album","Settlement",0.1592,0.028
+"Wet grasslands","Lamium galeobdolon","Forest",0.1019,0.243
+"Wet grasslands","Lamium maculatum","Settlement",0.1786,0.022
+"Wet grasslands","Lamium purpureum","Grassland",0.0543,0.58
+"Wet grasslands","Lapsana communis","Settlement",0.1445,0.01
+"Wet grasslands","Larix decidua","Forest",0.0546,0.489
+"Wet grasslands","Laserpitium latifolium","Grassland",0.0314,1
+"Wet grasslands","Laserpitium prutenicum","Grassland",0.1163,0.31
+"Wet grasslands","Lathyrus palustris","Grassland",0.1226,0.311
+"Wet grasslands","Lathyrus pannonicus","Grassland",0.0543,0.587
+"Wet grasslands","Lathyrus pratensis","Grassland",0.3327,0.041
+"Wet grasslands","Lathyrus tuberosus","Grassland",0.0543,0.6
+"Wet grasslands","Leersia oryzoides","Grassland",0.0687,0.398
+"Wet grasslands","Lemna minor","Arable land",0.0881,0.261
+"Wet grasslands","Lemna trisulca","Grassland",0.0314,1
+"Wet grasslands","Leontodon hispidus","Grassland",0.1522,0.147
+"Wet grasslands","Leonurus cardiaca","Arable land",0.0567,0.279
+"Wet grasslands","Lepidium ruderale","Settlement",0.1018,0.113
+"Wet grasslands","Leucanthemum vulgare aggr.","Arable land",0.1236,0.359
+"Wet grasslands","Leucojum aestivum","Forest",0.1775,0.003
+"Wet grasslands","Ligularia sibirica","Forest",0.0546,0.444
+"Wet grasslands","Ligustrum vulgare","Forest",0.0773,0.224
+"Wet grasslands","Lilium bulbiferum","Grassland",0.0314,1
+"Wet grasslands","Lilium martagon","Forest",0.0532,0.451
+"Wet grasslands","Limonium gmelinii","Arable land",0.0567,0.271
+"Wet grasslands","Limosella aquatica","Forest",0.0689,0.448
+"Wet grasslands","Linaria vulgaris","Water body",0.0902,0.17
+"Wet grasslands","Lindernia procumbens","Grassland",0.0314,1
+"Wet grasslands","Linum catharticum","Grassland",0.1211,0.272
+"Wet grasslands","Lipandra polysperma","Forest",0.1201,0.114
+"Wet grasslands","Liparis loeselii","Arable land",0.0483,0.663
+"Wet grasslands","Lolium multiflorum","Grassland",0.0314,1
+"Wet grasslands","Lolium perenne","Settlement",0.5194,0.001
+"Wet grasslands","Lonicera nigra","Forest",0.0546,0.433
+"Wet grasslands","Lotus corniculatus","Arable land",0.1314,0.431
+"Wet grasslands","Lotus maritimus","Water body",0.1215,0.138
+"Wet grasslands","Lotus pedunculatus","Water body",0.2238,0.002
+"Wet grasslands","Lotus tenuis","Water body",0.285,0.001
+"Wet grasslands","Lunaria rediviva","Forest",0.0499,0.468
+"Wet grasslands","Lupinus polyphyllus","Forest",0.0525,0.483
+"Wet grasslands","Luzula campestris aggr.","Grassland",0.2309,0.211
+"Wet grasslands","Luzula luzuloides","Forest",0.0472,0.619
+"Wet grasslands","Luzula sylvatica","Forest",0.1521,0.008
+"Wet grasslands","Lycium barbarum","Settlement",0.0941,0.1
+"Wet grasslands","Lycopodium annotinum","Forest",0.0546,0.466
+"Wet grasslands","Lycopus europaeus","Water body",0.2274,0.02
+"Wet grasslands","Lycopus exaltatus","Grassland",0.048,0.839
+"Wet grasslands","Lysimachia nemorum","Forest",0.117,0.039
+"Wet grasslands","Lysimachia nummularia","Forest",0.2344,0.156
+"Wet grasslands","Lysimachia thyrsiflora","Water body",0.0903,0.353
+"Wet grasslands","Lysimachia vulgaris","Water body",0.3922,0.002
+"Wet grasslands","Lythrum hyssopifolia","Forest",0.1136,0.072
+"Wet grasslands","Lythrum portula","Grassland",0.0411,0.901
+"Wet grasslands","Lythrum salicaria","Water body",0.3624,0.001
+"Wet grasslands","Lythrum virgatum","Forest",0.1264,0.159
+"Wet grasslands","Malva neglecta","Arable land",0.0891,0.078
+"Wet grasslands","Matricaria chamomilla","Arable land",0.0508,0.481
+"Wet grasslands","Matricaria discoidea","Settlement",0.3271,0.001
+"Wet grasslands","Medicago lupulina","Settlement",0.1748,0.006
+"Wet grasslands","Melampyrum cristatum","Grassland",0.0314,1
+"Wet grasslands","Melampyrum pratense","Forest",0.0492,0.45
+"Wet grasslands","Melica transsilvanica","Grassland",0.0314,1
+"Wet grasslands","Melilotus albus","Settlement",0.0924,0.119
+"Wet grasslands","Melilotus altissimus","Arable land",0.0567,0.291
+"Wet grasslands","Melilotus dentatus","Water body",0.119,0.067
+"Wet grasslands","Melilotus officinalis","Arable land",0.0559,0.326
+"Wet grasslands","Mentha aquatica","Water body",0.2206,0.005
+"Wet grasslands","Mentha arvensis","Grassland",0.1919,0.278
+"Wet grasslands","Mentha longifolia","Settlement",0.2971,0.001
+"Wet grasslands","Mentha pulegium","Forest",0.1827,0.073
+"Wet grasslands","Mentha x verticillata aggr.","Arable land",0.164,0.167
+"Wet grasslands","Menyanthes trifoliata","Arable land",0.1165,0.176
+"Wet grasslands","Mercurialis annua","Grassland",0.0314,1
+"Wet grasslands","Mercurialis perennis","Forest",0.1009,0.061
+"Wet grasslands","Microrrhinum minus","Grassland",0.0443,0.937
+"Wet grasslands","Milium effusum","Forest",0.1123,0.048
+"Wet grasslands","Mimulus guttatus","Forest",0.0504,0.665
+"Wet grasslands","Moehringia trinervia","Settlement",0.0653,0.29
+"Wet grasslands","Molinia caerulea aggr.","Water body",0.3372,0.001
+"Wet grasslands","Montia fontana","Settlement",0.0835,0.164
+"Wet grasslands","Myosotis arvensis","Forest",0.0644,0.565
+"Wet grasslands","Myosotis ramosissima","Forest",0.0459,0.658
+"Wet grasslands","Myosotis scorpioides aggr.","Forest",0.3438,0.033
+"Wet grasslands","Myosotis sylvatica","Grassland",0.0443,0.942
+"Wet grasslands","Myosoton aquaticum","Forest",0.2179,0.009
+"Wet grasslands","Myosurus minimus","Water body",0.0923,0.063
+"Wet grasslands","Nardus stricta","Water body",0.1605,0.431
+"Wet grasslands","Nasturtium officinale","Arable land",0.0567,0.293
+"Wet grasslands","Neottia ovata","Grassland",0.0759,0.325
+"Wet grasslands","Nepeta cataria","Forest",0.0546,0.446
+"Wet grasslands","Noccaea perfoliata","Grassland",0.0443,0.822
+"Wet grasslands","Ochlopoa annua","Settlement",0.4162,0.001
+"Wet grasslands","Odontites vulgaris aggr.","Forest",0.0745,0.341
+"Wet grasslands","Oenanthe aquatica","Water body",0.1369,0.056
+"Wet grasslands","Oenanthe fistulosa","Settlement",0.0981,0.055
+"Wet grasslands","Oenanthe silaifolia","Arable land",0.0567,0.287
+"Wet grasslands","Omphalodes scorpioides","Grassland",0.0443,0.926
+"Wet grasslands","Ononis spinosa","Grassland",0.0947,0.346
+"Wet grasslands","Onopordum acanthium","Arable land",0.0567,0.291
+"Wet grasslands","Ophioglossum vulgatum","Water body",0.0782,0.59
+"Wet grasslands","Orchis militaris","Grassland",0.0443,0.939
+"Wet grasslands","Ornithogalum umbellatum","Grassland",0.0314,1
+"Wet grasslands","Oxalis acetosella","Forest",0.2168,0.002
+"Wet grasslands","Oxalis corniculata","Grassland",0.0314,1
+"Wet grasslands","Oxalis stricta","Forest",0.0468,0.707
+"Wet grasslands","Oxybasis chenopodioides","Grassland",0.0314,1
+"Wet grasslands","Oxybasis glauca","Arable land",0.0715,0.338
+"Wet grasslands","Oxybasis rubra","Water body",0.16,0.004
+"Wet grasslands","Panicum capillare","Forest",0.051,0.442
+"Wet grasslands","Panicum miliaceum","Grassland",0.0314,1
+"Wet grasslands","Parietaria officinalis","Forest",0.0933,0.102
+"Wet grasslands","Parnassia palustris","Forest",0.0824,0.874
+"Wet grasslands","Pastinaca sativa","Settlement",0.1337,0.077
+"Wet grasslands","Pedicularis palustris","Arable land",0.0816,0.178
+"Wet grasslands","Pedicularis sylvatica","Grassland",0.0698,0.455
+"Wet grasslands","Persicaria amphibia","Water body",0.2024,0.071
+"Wet grasslands","Persicaria dubia","Forest",0.1136,0.173
+"Wet grasslands","Persicaria hydropiper","Settlement",0.118,0.421
+"Wet grasslands","Persicaria lapathifolia","Settlement",0.1055,0.549
+"Wet grasslands","Persicaria maculosa","Water body",0.0676,0.544
+"Wet grasslands","Persicaria minor","Water body",0.0583,0.699
+"Wet grasslands","Petasites albus","Forest",0.1971,0.001
+"Wet grasslands","Petasites hybridus","Forest",0.1261,0.12
+"Wet grasslands","Peucedanum cervaria","Arable land",0.0697,0.373
+"Wet grasslands","Peucedanum oreoselinum","Grassland",0.0555,0.782
+"Wet grasslands","Peucedanum palustre","Water body",0.1788,0.015
+"Wet grasslands","Phalaroides arundinacea","Water body",0.2995,0.003
+"Wet grasslands","Phegopteris connectilis","Forest",0.0946,0.028
+"Wet grasslands","Phleum pratense","Water body",0.1158,0.404
+"Wet grasslands","Phragmites australis","Water body",0.1983,0.146
+"Wet grasslands","Phyteuma nigrum","Grassland",0.0954,0.479
+"Wet grasslands","Picea abies","Forest",0.1253,0.052
+"Wet grasslands","Picris hieracioides","Arable land",0.0802,0.192
+"Wet grasslands","Pilosella auriculoides","Grassland",0.0443,0.873
+"Wet grasslands","Pilosella bauhini","Grassland",0.0314,1
+"Wet grasslands","Pilosella lactucella","Grassland",0.0879,0.339
+"Wet grasslands","Pilosella officinarum","Water body",0.0881,0.068
+"Wet grasslands","Pimpinella major","Grassland",0.1403,0.37
+"Wet grasslands","Pimpinella saxifraga","Water body",0.1452,0.026
+"Wet grasslands","Pinguicula vulgaris","Grassland",0.0314,1
+"Wet grasslands","Pinus sylvestris","Forest",0.0747,0.268
+"Wet grasslands","Plantago lanceolata","Settlement",0.339,0.001
+"Wet grasslands","Plantago major","Settlement",0.48,0.001
+"Wet grasslands","Plantago maritima","Arable land",0.0558,0.303
+"Wet grasslands","Plantago media","Settlement",0.0914,0.157
+"Wet grasslands","Platanthera bifolia","Water body",0.0587,0.665
+"Wet grasslands","Poa bulbosa","Grassland",0.0314,1
+"Wet grasslands","Poa chaixii","Grassland",0.0971,0.247
+"Wet grasslands","Poa compressa","Settlement",0.1335,0.023
+"Wet grasslands","Poa nemoralis","Forest",0.1423,0.039
+"Wet grasslands","Poa palustris","Forest",0.2088,0.335
+"Wet grasslands","Poa pratensis aggr.","Arable land",0.2966,0.05
+"Wet grasslands","Poa remota","Forest",0.0773,0.255
+"Wet grasslands","Poa trivialis","Arable land",0.2929,0.387
+"Wet grasslands","Polemonium caeruleum","Grassland",0.054,0.732
+"Wet grasslands","Polygala amara","Grassland",0.083,0.163
+"Wet grasslands","Polygala amarella","Forest",0.0421,0.876
+"Wet grasslands","Polygala comosa","Grassland",0.0314,1
+"Wet grasslands","Polygala vulgaris","Water body",0.0605,0.778
+"Wet grasslands","Polygonatum odoratum","Forest",0.0546,0.448
+"Wet grasslands","Polygonum aviculare aggr.","Settlement",0.4018,0.001
+"Wet grasslands","Polypodium vulgare","Forest",0.118,0.057
+"Wet grasslands","Populus alba","Water body",0.1277,0.044
+"Wet grasslands","Populus nigra","Water body",0.1302,0.014
+"Wet grasslands","Populus tremula","Forest",0.0634,0.563
+"Wet grasslands","Populus x canadensis","Forest",0.0841,0.168
+"Wet grasslands","Portulaca oleracea","Arable land",0.0567,0.271
+"Wet grasslands","Potamogeton natans","Forest",0.0546,0.443
+"Wet grasslands","Potentilla alba","Grassland",0.0469,0.934
+"Wet grasslands","Potentilla argentea","Arable land",0.0544,0.417
+"Wet grasslands","Potentilla erecta","Water body",0.3038,0.029
+"Wet grasslands","Potentilla reptans","Settlement",0.1814,0.457
+"Wet grasslands","Potentilla supina","Water body",0.1619,0.006
+"Wet grasslands","Potentilla tabernaemontani","Grassland",0.0314,1
+"Wet grasslands","Prenanthes purpurea","Forest",0.1093,0.027
+"Wet grasslands","Primula acaulis","Forest",0.0546,0.461
+"Wet grasslands","Primula elatior","Settlement",0.1343,0.046
+"Wet grasslands","Primula veris","Grassland",0.0547,0.757
+"Wet grasslands","Prunella grandiflora","Arable land",0.0698,0.422
+"Wet grasslands","Prunella vulgaris","Arable land",0.1911,0.283
+"Wet grasslands","Prunus domestica","Forest",0.0546,0.462
+"Wet grasslands","Prunus padus","Forest",0.0928,0.064
+"Wet grasslands","Prunus spinosa","Grassland",0.0443,0.824
+"Wet grasslands","Pseudoturritis turrita","Grassland",0.0314,1
+"Wet grasslands","Puccinellia distans","Settlement",0.1536,0.049
+"Wet grasslands","Pulicaria dysenterica","Water body",0.0987,0.403
+"Wet grasslands","Pulicaria vulgaris","Water body",0.1463,0.101
+"Wet grasslands","Pulmonaria angustifolia","Grassland",0.0543,0.576
+"Wet grasslands","Pulmonaria mollis","Grassland",0.0627,0.591
+"Wet grasslands","Pulmonaria obscura","Forest",0.0619,0.613
+"Wet grasslands","Pulmonaria officinalis","Arable land",0.0685,0.43
+"Wet grasslands","Quercus petraea","Forest",0.0754,0.272
+"Wet grasslands","Quercus robur","Forest",0.0726,0.394
+"Wet grasslands","Ranunculus aconitifolius","Arable land",0.053,0.702
+"Wet grasslands","Ranunculus acris aggr.","Grassland",0.3384,0.026
+"Wet grasslands","Ranunculus aquatilis","Water body",0.0985,0.043
+"Wet grasslands","Ranunculus auricomus aggr.","Arable land",0.3173,0.02
+"Wet grasslands","Ranunculus bulbosus","Forest",0.0632,0.559
+"Wet grasslands","Ranunculus flammula","Water body",0.2425,0.011
+"Wet grasslands","Ranunculus lanuginosus","Forest",0.1166,0.036
+"Wet grasslands","Ranunculus lingua","Arable land",0.041,0.974
+"Wet grasslands","Ranunculus platanifolius","Grassland",0.0314,1
+"Wet grasslands","Ranunculus polyanthemos","Grassland",0.0971,0.37
+"Wet grasslands","Ranunculus repens","Forest",0.2846,0.754
+"Wet grasslands","Ranunculus sardous","Grassland",0.058,0.597
+"Wet grasslands","Ranunculus sceleratus","Settlement",0.0635,0.865
+"Wet grasslands","Reseda lutea","Grassland",0.0314,1
+"Wet grasslands","Reynoutria x bohemica","Forest",0.0546,0.436
+"Wet grasslands","Rhamnus cathartica","Forest",0.0492,0.458
+"Wet grasslands","Rhinanthus angustifolius","Forest",0.0804,0.394
+"Wet grasslands","Rhinanthus minor","Grassland",0.1491,0.06
+"Wet grasslands","Ribes uva-crispa","Settlement",0.0985,0.096
+"Wet grasslands","Robinia pseudoacacia","Grassland",0.0443,0.792
+"Wet grasslands","Rorippa amphibia","Settlement",0.0765,0.644
+"Wet grasslands","Rorippa austriaca","Arable land",0.0659,0.849
+"Wet grasslands","Rorippa palustris","Forest",0.1578,0.02
+"Wet grasslands","Rorippa sylvestris","Forest",0.1453,0.386
+"Wet grasslands","Rorippa x anceps","Forest",0.0722,0.327
+"Wet grasslands","Rosa canina aggr.","Grassland",0.0443,0.819
+"Wet grasslands","Rosa pendulina","Grassland",0.0314,1
+"Wet grasslands","Rubus caesius","Forest",0.213,0.007
+"Wet grasslands","Rubus fruticosus aggr.","Forest",0.1093,0.144
+"Wet grasslands","Rubus idaeus","Forest",0.1974,0.006
+"Wet grasslands","Rubus saxatilis","Forest",0.0546,0.463
+"Wet grasslands","Rudbeckia laciniata","Settlement",0.0985,0.093
+"Wet grasslands","Rumex acetosa","Grassland",0.2898,0.154
+"Wet grasslands","Rumex acetosella","Forest",0.04,0.869
+"Wet grasslands","Rumex aquaticus","Forest",0.056,0.835
+"Wet grasslands","Rumex conglomeratus","Settlement",0.2445,0.001
+"Wet grasslands","Rumex crispus","Water body",0.1603,0.642
+"Wet grasslands","Rumex hydrolapathum","Arable land",0.0922,0.132
+"Wet grasslands","Rumex maritimus","Water body",0.1782,0.013
+"Wet grasslands","Rumex obtusifolius","Settlement",0.2127,0.014
+"Wet grasslands","Rumex palustris","Arable land",0.0567,0.258
+"Wet grasslands","Rumex sanguineus","Forest",0.112,0.065
+"Wet grasslands","Rumex stenophyllus","Grassland",0.0314,1
+"Wet grasslands","Rumex thyrsiflorus","Arable land",0.0849,0.288
+"Wet grasslands","Sagina apetala","Arable land",0.0567,0.281
+"Wet grasslands","Sagina procumbens","Settlement",0.0902,0.221
+"Wet grasslands","Salix alba","Forest",0.107,0.186
+"Wet grasslands","Salix aurita","Forest",0.0732,0.526
+"Wet grasslands","Salix caprea","Forest",0.0959,0.179
+"Wet grasslands","Salix cinerea subsp. cinerea","Water body",0.1721,0.007
+"Wet grasslands","Salix euxina","Water body",0.0504,0.987
+"Wet grasslands","Salix myrtilloides","Grassland",0.0314,1
+"Wet grasslands","Salix purpurea","Water body",0.093,0.085
+"Wet grasslands","Salix repens","Grassland",0.1569,0.069
+"Wet grasslands","Salix triandra","Water body",0.0853,0.187
+"Wet grasslands","Salix viminalis","Grassland",0.0443,0.81
+"Wet grasslands","Salvia pratensis","Grassland",0.0443,0.949
+"Wet grasslands","Sambucus ebulus","Settlement",0.0985,0.108
+"Wet grasslands","Sambucus nigra","Forest",0.0688,0.542
+"Wet grasslands","Sambucus racemosa","Arable land",0.0463,0.639
+"Wet grasslands","Samolus valerandi","Grassland",0.0443,0.885
+"Wet grasslands","Sanguisorba officinalis","Water body",0.3278,0.035
+"Wet grasslands","Saponaria officinalis","Forest",0.0594,0.62
+"Wet grasslands","Saxifraga bulbifera","Grassland",0.0543,0.588
+"Wet grasslands","Saxifraga granulata","Arable land",0.1167,0.049
+"Wet grasslands","Scabiosa ochroleuca","Grassland",0.0314,1
+"Wet grasslands","Schedonorus arundinaceus","Arable land",0.1429,0.051
+"Wet grasslands","Schedonorus giganteus","Forest",0.1203,0.102
+"Wet grasslands","Schedonorus pratensis","Arable land",0.2283,0.076
+"Wet grasslands","Schoenoplectus lacustris","Water body",0.1373,0.007
+"Wet grasslands","Schoenoplectus lacustris subsp. glaucus","Arable land",0.0679,0.355
+"Wet grasslands","Scirpoides holoschoenus","Grassland",0.0848,0.354
+"Wet grasslands","Scirpus radicans","Water body",0.099,0.056
+"Wet grasslands","Scirpus sylvaticus","Arable land",0.2972,0.175
+"Wet grasslands","Scleranthus annuus","Arable land",0.0567,0.296
+"Wet grasslands","Scorzonera humilis","Grassland",0.1387,0.384
+"Wet grasslands","Scorzonera parviflora","Arable land",0.0567,0.277
+"Wet grasslands","Scorzoneroides autumnalis","Water body",0.1243,0.249
+"Wet grasslands","Scrophularia nodosa","Forest",0.0855,0.682
+"Wet grasslands","Scrophularia umbrosa","Forest",0.1843,0.001
+"Wet grasslands","Scutellaria galericulata","Water body",0.173,0.122
+"Wet grasslands","Scutellaria hastifolia","Grassland",0.1166,0.139
+"Wet grasslands","Securigera varia","Forest",0.0602,0.64
+"Wet grasslands","Selinum carvifolia","Water body",0.1632,0.562
+"Wet grasslands","Selinum dubium","Forest",0.1737,0.065
+"Wet grasslands","Senecio doria aggr.","Grassland",0.0314,1
+"Wet grasslands","Senecio nemorensis aggr.","Forest",0.2317,0.001
+"Wet grasslands","Senecio sarracenicus","Forest",0.0946,0.019
+"Wet grasslands","Senecio sylvaticus","Grassland",0.0314,1
+"Wet grasslands","Senecio viscosus","Forest",0.0732,0.291
+"Wet grasslands","Senecio vulgaris","Settlement",0.1112,0.018
+"Wet grasslands","Serratula tinctoria","Water body",0.1799,0.284
+"Wet grasslands","Setaria pumila","Grassland",0.0477,0.942
+"Wet grasslands","Silaum silaus","Grassland",0.0848,0.72
+"Wet grasslands","Silene baccifera","Forest",0.0484,0.538
+"Wet grasslands","Silene dioica","Forest",0.1446,0.009
+"Wet grasslands","Silene flos-cuculi","Grassland",0.3118,0.07
+"Wet grasslands","Silene latifolia","Settlement",0.1331,0.034
+"Wet grasslands","Silene noctiflora","Grassland",0.0314,1
+"Wet grasslands","Silene nutans","Forest",0.0546,0.448
+"Wet grasslands","Silene viscaria","Water body",0.0949,0.046
+"Wet grasslands","Silene vulgaris","Grassland",0.0314,1
+"Wet grasslands","Sinapis arvensis","Settlement",0.0888,0.168
+"Wet grasslands","Sisymbrium officinale","Settlement",0.2225,0.001
+"Wet grasslands","Sisymbrium strictissimum","Forest",0.0546,0.456
+"Wet grasslands","Sium latifolium","Forest",0.1017,0.304
+"Wet grasslands","Solanum dulcamara","Forest",0.0963,0.458
+"Wet grasslands","Solanum nigrum","Water body",0.099,0.051
+"Wet grasslands","Soldanella montana","Forest",0.075,0.292
+"Wet grasslands","Solidago canadensis","Grassland",0.0515,0.76
+"Wet grasslands","Solidago gigantea","Forest",0.1327,0.169
+"Wet grasslands","Solidago virgaurea","Grassland",0.0543,0.592
+"Wet grasslands","Sonchus arvensis","Water body",0.0932,0.204
+"Wet grasslands","Sonchus asper","Forest",0.0793,0.3
+"Wet grasslands","Sonchus oleraceus","Settlement",0.1957,0.001
+"Wet grasslands","Sorbus aucuparia","Forest",0.1387,0.013
+"Wet grasslands","Sparganium erectum aggr.","Settlement",0.0856,0.168
+"Wet grasslands","Spergula arvensis","Grassland",0.0314,1
+"Wet grasslands","Spergularia marina","Water body",0.2142,0.001
+"Wet grasslands","Spergularia media","Arable land",0.0567,0.282
+"Wet grasslands","Spergularia rubra","Arable land",0.0394,0.914
+"Wet grasslands","Spiraea salicifolia","Water body",0.1435,0.01
+"Wet grasslands","Spirodela polyrhiza","Arable land",0.0567,0.27
+"Wet grasslands","Stachys officinalis","Grassland",0.1962,0.051
+"Wet grasslands","Stachys palustris","Grassland",0.0845,0.846
+"Wet grasslands","Stachys sylvatica","Water body",0.0736,0.617
+"Wet grasslands","Stellaria alsine","Forest",0.1378,0.176
+"Wet grasslands","Stellaria graminea","Arable land",0.1372,0.38
+"Wet grasslands","Stellaria holostea","Forest",0.0546,0.457
+"Wet grasslands","Stellaria longifolia","Arable land",0.044,0.895
+"Wet grasslands","Stellaria media","Settlement",0.1594,0.016
+"Wet grasslands","Stellaria nemorum","Forest",0.202,0.001
+"Wet grasslands","Stellaria pallida","Grassland",0.0314,1
+"Wet grasslands","Stellaria palustris","Water body",0.1428,0.038
+"Wet grasslands","Succisa pratensis","Grassland",0.2153,0.299
+"Wet grasslands","Symphyotrichum novi-belgii aggr.","Forest",0.2086,0.022
+"Wet grasslands","Symphytum officinale","Forest",0.2822,0.017
+"Wet grasslands","Symphytum tuberosum aggr.","Grassland",0.054,0.722
+"Wet grasslands","Syringa vulgaris","Settlement",0.0985,0.118
+"Wet grasslands","Tanacetum corymbosum","Grassland",0.0314,1
+"Wet grasslands","Tanacetum vulgare","Arable land",0.0848,0.706
+"Wet grasslands","Taraxacum besarabicum","Water body",0.2544,0.001
+"Wet grasslands","Taraxacum nordstedtii","Grassland",0.0314,1
+"Wet grasslands","Taraxacum sect. Palustria","Water body",0.0707,0.489
+"Wet grasslands","Taraxacum sect. Taraxacum","Settlement",0.3534,0.001
+"Wet grasslands","Tephroseris crispa","Arable land",0.1552,0.996
+"Wet grasslands","Teucrium scordium","Grassland",0.0791,0.555
+"Wet grasslands","Thalictrum aquilegiifolium","Forest",0.0883,0.2
+"Wet grasslands","Thalictrum flavum","Grassland",0.1045,0.513
+"Wet grasslands","Thalictrum lucidum","Arable land",0.0896,0.369
+"Wet grasslands","Thalictrum simplex","Grassland",0.1018,0.115
+"Wet grasslands","Thelypteris limbosperma","Forest",0.0546,0.457
+"Wet grasslands","Thelypteris palustris","Arable land",0.1193,0.032
+"Wet grasslands","Thesium linophyllon","Grassland",0.0701,0.388
+"Wet grasslands","Thlaspi arvense","Grassland",0.0418,0.759
+"Wet grasslands","Thymus pulegioides","Water body",0.063,0.832
+"Wet grasslands","Thymus serpyllum","Grassland",0.0543,0.575
+"Wet grasslands","Tilia cordata","Water body",0.099,0.065
+"Wet grasslands","Tilia platyphyllos","Grassland",0.0314,1
+"Wet grasslands","Torilis arvensis","Grassland",0.0314,1
+"Wet grasslands","Torilis japonica","Forest",0.0836,0.22
+"Wet grasslands","Tragopogon dubius","Grassland",0.0314,1
+"Wet grasslands","Tragopogon pratensis","Grassland",0.0314,1
+"Wet grasslands","Trifolium alpestre","Forest",0.0546,0.448
+"Wet grasslands","Trifolium arvense","Forest",0.0773,0.272
+"Wet grasslands","Trifolium campestre","Forest",0.0792,0.206
+"Wet grasslands","Trifolium dubium","Grassland",0.0633,0.74
+"Wet grasslands","Trifolium fragiferum","Water body",0.2759,0.001
+"Wet grasslands","Trifolium hybridum","Arable land",0.1609,0.559
+"Wet grasslands","Trifolium medium","Water body",0.0807,0.238
+"Wet grasslands","Trifolium montanum","Grassland",0.1163,0.133
+"Wet grasslands","Trifolium pratense","Arable land",0.1439,0.419
+"Wet grasslands","Trifolium repens","Settlement",0.3683,0.001
+"Wet grasslands","Trifolium spadiceum","Water body",0.0822,0.39
+"Wet grasslands","Triglochin palustris","Settlement",0.1069,0.068
+"Wet grasslands","Tripleurospermum maritimum aggr.","Settlement",0.1583,0.173
+"Wet grasslands","Tripolium pannonicum","Water body",0.2155,0.001
+"Wet grasslands","Trisetum flavescens","Arable land",0.1013,0.23
+"Wet grasslands","Trollius europaeus","Arable land",0.0938,0.481
+"Wet grasslands","Turritis glabra","Arable land",0.0567,0.277
+"Wet grasslands","Tussilago farfara","Grassland",0.0704,0.768
+"Wet grasslands","Typha angustifolia","Arable land",0.0605,0.559
+"Wet grasslands","Typha latifolia","Water body",0.0716,0.705
+"Wet grasslands","Ulmus glabra","Forest",0.0546,0.433
+"Wet grasslands","Ulmus laevis","Forest",0.0493,0.444
+"Wet grasslands","Ulmus minor","Grassland",0.0443,0.928
+"Wet grasslands","Urtica dioica","Settlement",0.2911,0.122
+"Wet grasslands","Vaccinium myrtillus","Forest",0.0908,0.126
+"Wet grasslands","Vaccinium oxycoccos","Forest",0.0528,0.452
+"Wet grasslands","Vaccinium vitis-idaea","Arable land",0.0389,0.906
+"Wet grasslands","Valeriana dioica","Grassland",0.2225,0.411
+"Wet grasslands","Valeriana officinalis aggr.","Grassland",0.0778,0.861
+"Wet grasslands","Valerianella locusta","Grassland",0.0543,0.576
+"Wet grasslands","Veratrum album","Forest",0.0323,1
+"Wet grasslands","Veratrum nigrum","Forest",0.0546,0.441
+"Wet grasslands","Verbascum blattaria","Water body",0.0974,0.043
+"Wet grasslands","Verbascum nigrum","Arable land",0.0416,0.815
+"Wet grasslands","Verbascum phlomoides","Grassland",0.0314,1
+"Wet grasslands","Verbascum speciosum","Grassland",0.0314,1
+"Wet grasslands","Verbascum thapsus","Grassland",0.0314,1
+"Wet grasslands","Verbena officinalis","Settlement",0.132,0.03
+"Wet grasslands","Veronica anagallis-aquatica","Water body",0.1151,0.093
+"Wet grasslands","Veronica anagalloides","Arable land",0.0396,0.819
+"Wet grasslands","Veronica arvensis","Forest",0.0688,0.49
+"Wet grasslands","Veronica beccabunga","Forest",0.1588,0.029
+"Wet grasslands","Veronica catenata","Water body",0.0638,0.503
+"Wet grasslands","Veronica chamaedrys aggr.","Grassland",0.1855,0.454
+"Wet grasslands","Veronica filiformis","Forest",0.0432,1
+"Wet grasslands","Veronica hederifolia aggr.","Arable land",0.0473,0.563
+"Wet grasslands","Veronica longifolia","Forest",0.1017,0.941
+"Wet grasslands","Veronica montana","Forest",0.1545,0.007
+"Wet grasslands","Veronica officinalis","Forest",0.0876,0.273
+"Wet grasslands","Veronica orchidea","Arable land",0.0567,0.287
+"Wet grasslands","Veronica peregrina","Water body",0.0941,0.106
+"Wet grasslands","Veronica persica","Settlement",0.0694,0.381
+"Wet grasslands","Veronica polita","Grassland",0.0314,1
+"Wet grasslands","Veronica scutellata","Water body",0.1238,0.339
+"Wet grasslands","Veronica serpyllifolia","Grassland",0.093,0.606
+"Wet grasslands","Veronica verna","Forest",0.0546,0.454
+"Wet grasslands","Viburnum opulus","Arable land",0.0482,0.487
+"Wet grasslands","Vicia cracca","Grassland",0.2311,0.068
+"Wet grasslands","Vicia hirsuta","Forest",0.0632,0.579
+"Wet grasslands","Vicia pannonica","Forest",0.052,0.458
+"Wet grasslands","Vicia sativa","Grassland",0.0533,0.85
+"Wet grasslands","Vicia sepium","Settlement",0.072,0.905
+"Wet grasslands","Vicia tenuifolia","Grassland",0.0314,1
+"Wet grasslands","Vicia tetrasperma","Arable land",0.0786,0.598
+"Wet grasslands","Vicia villosa","Forest",0.041,1
+"Wet grasslands","Vincetoxicum hirundinaria","Forest",0.0773,0.245
+"Wet grasslands","Viola arvensis","Forest",0.0608,0.602
+"Wet grasslands","Viola canina","Water body",0.1542,0.025
+"Wet grasslands","Viola elatior","Forest",0.0852,0.104
+"Wet grasslands","Viola hirta","Grassland",0.0577,0.696
+"Wet grasslands","Viola odorata","Arable land",0.0567,0.291
+"Wet grasslands","Viola palustris","Settlement",0.1812,0.818
+"Wet grasslands","Viola pumila","Forest",0.1531,0.025
+"Wet grasslands","Viola reichenbachiana","Forest",0.0749,0.282
+"Wet grasslands","Viola riviniana","Water body",0.099,0.052
+"Wet grasslands","Viola stagnina","Grassland",0.0725,0.374
+"Wet grasslands","Viola tricolor aggr.","Grassland",0.0443,0.942
+"Wet grasslands","Willemetia stipitata","Grassland",0.0902,0.796
+"Wet grasslands","Xanthium orientale","Forest",0.0474,0.715
+"Wet grasslands","Xanthium strumarium","Settlement",0.0795,0.221
